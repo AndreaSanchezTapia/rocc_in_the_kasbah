@@ -51,4 +51,7 @@ errors <- test_remove_summary %>%
 check <- check_errors
 check %<>% rename(names_wo_authors = scientificName)
 resumen <- dplyr::left_join(errors, check)
+names(resumen)
+resumen %<>% select(names_original, names_wo_authors, scientificName_status, scientificName_new)
+names(resumen)
 readr::write_csv(resumen, "07_remove_then_check_string.csv")

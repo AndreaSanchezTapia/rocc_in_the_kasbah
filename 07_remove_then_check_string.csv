@@ -1,176 +1,176 @@
-names_original,names_wo_authors,Genus,Epithet,Anything_else,empty,scientificName_status,scientificName_new
-Leandra euphorbioides (Naudin) D`El Rei Souza & Baumgratz,Leandra euphorbioides Souza,Leandra,euphorbioides,Souza,FALSE,name_w_wrong_case,Leandra euphorbioides souza
-Dimerostemma episcopale (H.Rob.) H.Rob.,Dimerostemma episcopale (H.Rob.),Dimerostemma,episcopale,(H.Rob.),FALSE,name_w_wrong_case,Dimerostemma episcopale (h.rob.)
-Aspidosperma eburneum Allem. ex Saldanha,Aspidosperma eburneum Saldanha,Aspidosperma,eburneum,Saldanha,FALSE,name_w_wrong_case,Aspidosperma eburneum saldanha
-Cyrtocymura harleyi (H.Rob.) H.Rob.,Cyrtocymura harleyi (H.Rob.),Cyrtocymura,harleyi,(H.Rob.),FALSE,name_w_wrong_case,Cyrtocymura harleyi (h.rob.)
-Echinocoryne echinocephala (H.Rob.) H.Rob.,Echinocoryne echinocephala (H.Rob.),Echinocoryne,echinocephala,(H.Rob.),FALSE,name_w_wrong_case,Echinocoryne echinocephala (h.rob.)
-Lepidaploa hagei (H.Rob.) H.Rob.,Lepidaploa hagei (H.Rob.),Lepidaploa,hagei,(H.Rob.),FALSE,name_w_wrong_case,Lepidaploa hagei (h.rob.)
-Lepidaploa pinheiroi (H.Rob.) H.Rob.,Lepidaploa pinheiroi (H.Rob.),Lepidaploa,pinheiroi,(H.Rob.),FALSE,name_w_wrong_case,Lepidaploa pinheiroi (h.rob.)
-Lessingianthus bishopii (H.Rob.) H.Rob.,Lessingianthus bishopii (H.Rob.),Lessingianthus,bishopii,(H.Rob.),FALSE,name_w_wrong_case,Lessingianthus bishopii (h.rob.)
-Lessingianthus caiapoensis (H.Rob.) H.Rob.,Lessingianthus caiapoensis (H.Rob.),Lessingianthus,caiapoensis,(H.Rob.),FALSE,name_w_wrong_case,Lessingianthus caiapoensis (h.rob.)
-Lessingianthus carvalhoi (H.Rob.) H.Rob.,Lessingianthus carvalhoi (H.Rob.),Lessingianthus,carvalhoi,(H.Rob.),FALSE,name_w_wrong_case,Lessingianthus carvalhoi (h.rob.)
-Lessingianthus cristalinae (H.Rob.) H.Rob.,Lessingianthus cristalinae (H.Rob.),Lessingianthus,cristalinae,(H.Rob.),FALSE,name_w_wrong_case,Lessingianthus cristalinae (h.rob.)
-Lessingianthus eitenii (H.Rob.) H.Rob.,Lessingianthus eitenii (H.Rob.),Lessingianthus,eitenii,(H.Rob.),FALSE,name_w_wrong_case,Lessingianthus eitenii (h.rob.)
-Lessingianthus fonsecae (H.Rob.) H.Rob.,Lessingianthus fonsecae (H.Rob.),Lessingianthus,fonsecae,(H.Rob.),FALSE,name_w_wrong_case,Lessingianthus fonsecae (h.rob.)
-Lessingianthus grearii (H.Rob.) H.Rob.,Lessingianthus grearii (H.Rob.),Lessingianthus,grearii,(H.Rob.),FALSE,name_w_wrong_case,Lessingianthus grearii (h.rob.)
-Lessingianthus heringeri (H.Rob.) H.Rob.,Lessingianthus heringeri (H.Rob.),Lessingianthus,heringeri,(H.Rob.),FALSE,name_w_wrong_case,Lessingianthus heringeri (h.rob.)
-Lessingianthus pseudopiptocarphus (H.Rob.) H.Rob.,Lessingianthus pseudopiptocarphus (H.Rob.),Lessingianthus,pseudopiptocarphus,(H.Rob.),FALSE,name_w_wrong_case,Lessingianthus pseudopiptocarphus (h.rob.)
-Lessingianthus regis (H.Rob.) H.Rob.,Lessingianthus regis (H.Rob.),Lessingianthus,regis,(H.Rob.),FALSE,name_w_wrong_case,Lessingianthus regis (h.rob.)
-Lessingianthus santosii (H.Rob.) H.Rob.,Lessingianthus santosii (H.Rob.),Lessingianthus,santosii,(H.Rob.),FALSE,name_w_wrong_case,Lessingianthus santosii (h.rob.)
-Lessingianthus soderstroemii (H.Rob.) H.Rob.,Lessingianthus soderstroemii (H.Rob.),Lessingianthus,soderstroemii,(H.Rob.),FALSE,name_w_wrong_case,Lessingianthus soderstroemii (h.rob.)
-Lessingianthus souzae (H.Rob.) H.Rob.,Lessingianthus souzae (H.Rob.),Lessingianthus,souzae,(H.Rob.),FALSE,name_w_wrong_case,Lessingianthus souzae (h.rob.)
-Lessingianthus subcarduoides (H.Rob.) H.Rob.,Lessingianthus subcarduoides (H.Rob.),Lessingianthus,subcarduoides,(H.Rob.),FALSE,name_w_wrong_case,Lessingianthus subcarduoides (h.rob.)
-Vernonanthura almedae (H.Rob.) H.Rob.,Vernonanthura almedae (H.Rob.),Vernonanthura,almedae,(H.Rob.),FALSE,name_w_wrong_case,Vernonanthura almedae (h.rob.)
-Vernonanthura angulata (H.Rob.) H.Rob.,Vernonanthura angulata (H.Rob.),Vernonanthura,angulata,(H.Rob.),FALSE,name_w_wrong_case,Vernonanthura angulata (h.rob.)
-Centrosema teresae M.B.Ferreira & Sousa Costa,Centrosema teresae Costa,Centrosema,teresae,Costa,FALSE,name_w_wrong_case,Centrosema teresae costa
-Periandra pujalu Emmerich & Senna,Periandra pujalu Senna,Periandra,pujalu,Senna,FALSE,name_w_wrong_case,Periandra pujalu senna
-Stylosanthes aurea M.B.Ferreira & Sousa Costa,Stylosanthes aurea Costa,Stylosanthes,aurea,Costa,FALSE,name_w_wrong_case,Stylosanthes aurea costa
-Stylosanthes campestris M.B.Ferreira & Sousa Costa,Stylosanthes campestris Costa,Stylosanthes,campestris,Costa,FALSE,name_w_wrong_case,Stylosanthes campestris costa
-Stylosanthes debilis M.B.Ferreira & Sousa Costa,Stylosanthes debilis Costa,Stylosanthes,debilis,Costa,FALSE,name_w_wrong_case,Stylosanthes debilis costa
-Stylosanthes linearifolia M.B.Ferreira & Sousa Costa,Stylosanthes linearifolia Costa,Stylosanthes,linearifolia,Costa,FALSE,name_w_wrong_case,Stylosanthes linearifolia costa
-Stylosanthes macrocephala M.B.Ferreira & Sousa Costa,Stylosanthes macrocephala Costa,Stylosanthes,macrocephala,Costa,FALSE,name_w_wrong_case,Stylosanthes macrocephala costa
-Stylosanthes pilosa M.B.Ferreira & Sousa Costa,Stylosanthes pilosa Costa,Stylosanthes,pilosa,Costa,FALSE,name_w_wrong_case,Stylosanthes pilosa costa
-Stylosanthes tomentosa M.B.Ferreira & Sousa Costa,Stylosanthes tomentosa Costa,Stylosanthes,tomentosa,Costa,FALSE,name_w_wrong_case,Stylosanthes tomentosa costa
-Zornia mitziana Sousa Costa,Zornia mitziana Costa,Zornia,mitziana,Costa,FALSE,name_w_wrong_case,Zornia mitziana costa
-Actinocephalus graminifolius F.N. Costa,Actinocephalus graminifolius Costa,Actinocephalus,graminifolius,Costa,FALSE,name_w_wrong_case,Actinocephalus graminifolius costa
-Bermudiana bulbosa (Mill.) Molina,Bermudiana bulbosa Molina,Bermudiana,bulbosa,Molina,FALSE,name_w_wrong_case,Bermudiana bulbosa molina
-Andrachne pumila (Raf.) Rydb.,Andrachne pumila Rydb.,Andrachne,pumila,Rydb.,FALSE,name_w_wrong_case,Andrachne pumila rydb.
-Glomus brohultii Sieverd. & Herrera,Glomus brohultii Herrera,Glomus,brohultii,Herrera,FALSE,name_w_wrong_case,Glomus brohultii herrera
-Lepidolejeunea ornata (H.Rob.) R.M.Schust.,Lepidolejeunea ornata (H.Rob.),Lepidolejeunea,ornata,(H.Rob.),FALSE,name_w_wrong_case,Lepidolejeunea ornata (h.rob.)
-Gnaphalieae (Cass.) Lecoq & Juill.,Gnaphalieae (Cass.) Lecoq Juill.,Gnaphalieae,(Cass.),Lecoq,FALSE,name_w_wrong_case,Gnaphalieae (cass.) lecoq juill.
-Polymnieae (H.Rob.) Panero,Polymnieae (H.Rob.) Panero,Polymnieae,(H.Rob.),Panero,FALSE,name_w_wrong_case,Polymnieae (h.rob.) panero
-Stenophalium heringeri (H.Rob.) Anderb.,Stenophalium heringeri (H.Rob.),Stenophalium,heringeri,(H.Rob.),FALSE,name_w_wrong_case,Stenophalium heringeri (h.rob.)
-Vernonanthura vinhae (H.Rob.) H.Rob.,Vernonanthura vinhae (H.Rob.),Vernonanthura,vinhae,(H.Rob.),FALSE,name_w_wrong_case,Vernonanthura vinhae (h.rob.)
-Vulpia megalura (Nutt.) Rydb.,Vulpia megalura Rydb.,Vulpia,megalura,Rydb.,FALSE,name_w_wrong_case,Vulpia megalura rydb.
-Dimerostemma bahiense (H.Rob.) M.D.Moraes,Dimerostemma bahiense (H.Rob.),Dimerostemma,bahiense,(H.Rob.),FALSE,name_w_wrong_case,Dimerostemma bahiense (h.rob.)
-Lepidaploa alvimii (H.Rob.) H.Rob.,Lepidaploa alvimii (H.Rob.),Lepidaploa,alvimii,(H.Rob.),FALSE,name_w_wrong_case,Lepidaploa alvimii (h.rob.)
-Vernonia amambaia (H.Rob.) Dematt.,Vernonia amambaia (H.Rob.),Vernonia,amambaia,(H.Rob.),FALSE,name_w_wrong_case,Vernonia amambaia (h.rob.)
-Wenderothia obidensis (Ducke) Piper,Wenderothia obidensis Piper,Wenderothia,obidensis,Piper,FALSE,name_w_wrong_case,Wenderothia obidensis piper
-Lepidaploa tombadorensis (H.Rob.) H.Rob.,Lepidaploa tombadorensis (H.Rob.),Lepidaploa,tombadorensis,(H.Rob.),FALSE,name_w_wrong_case,Lepidaploa tombadorensis (h.rob.)
-Anemopaegma arvense (Vell.) Stellfeld ex de Souza,Anemopaegma arvense Souza,Anemopaegma,arvense,Souza,FALSE,name_w_wrong_case,Anemopaegma arvense souza
-Coelomoron tropicale Senna et al.,Coelomoron tropicale Senna,Coelomoron,tropicale,Senna,FALSE,name_w_wrong_case,Coelomoron tropicale senna
-Dasygloea brasiliensis (Senna & Ferreira) Senna & Komárek,Dasygloea brasiliensis Senna,Dasygloea,brasiliensis,Senna,FALSE,name_w_wrong_case,Dasygloea brasiliensis senna
-Lyngbya brasiliensis Senna & Ferreira,Lyngbya brasiliensis Senna,Lyngbya,brasiliensis,Senna,FALSE,name_w_wrong_case,Lyngbya brasiliensis senna
-Dasygloea terrestris (M.T.P.Azevedo) Senna & Komárek,Dasygloea terrestris Senna,Dasygloea,terrestris,Senna,FALSE,name_w_wrong_case,Dasygloea terrestris senna
-Porophyllum leiocarpum (Urb.) Rydb.,Porophyllum leiocarpum Rydb.,Porophyllum,leiocarpum,Rydb.,FALSE,name_w_wrong_case,Porophyllum leiocarpum rydb.
-Fulvifomes fastuosus (Lév.) Bondartseva & S. Herrera,Fulvifomes fastuosus Herrera,Fulvifomes,fastuosus,Herrera,FALSE,name_w_wrong_case,Fulvifomes fastuosus herrera
-Mimosa caven Molina,Mimosa caven Molina,Mimosa,caven,Molina,FALSE,name_w_wrong_case,Mimosa caven molina
-Acacia caven (Molina) Molina,Acacia caven Molina,Acacia,caven,Molina,FALSE,name_w_wrong_case,Acacia caven molina
-Mitracarpus eitenii E.B. Souza & E.L. Cabral,Mitracarpus eitenii Souza,Mitracarpus,eitenii,Souza,FALSE,name_w_wrong_case,Mitracarpus eitenii souza
-Aldama aspilioides (Baker) E.E.Schill. & Panero,Aldama aspilioides Panero,Aldama,aspilioides,Panero,FALSE,name_w_wrong_case,Aldama aspilioides panero
-Aldama arenaria (Baker) E.E.Schill. & Panero,Aldama arenaria Panero,Aldama,arenaria,Panero,FALSE,name_w_wrong_case,Aldama arenaria panero
-Aldama bakeriana (S.F.Blake) E.E.Schill. & Panero,Aldama bakeriana Panero,Aldama,bakeriana,Panero,FALSE,name_w_wrong_case,Aldama bakeriana panero
-Aldama bracteata (Gardner) E.E.Schill. & Panero,Aldama bracteata Panero,Aldama,bracteata,Panero,FALSE,name_w_wrong_case,Aldama bracteata panero
-Aldama discolor (Baker) E.E.Schill. & Panero,Aldama discolor Panero,Aldama,discolor,Panero,FALSE,name_w_wrong_case,Aldama discolor panero
-Aldama filifolia (Sch.Bip. ex Baker) E.E.Schill. & Panero,Aldama filifolia Panero,Aldama,filifolia,Panero,FALSE,name_w_wrong_case,Aldama filifolia panero
-Aldama gardneri (Baker) E.E.Schill. & Panero,Aldama gardneri Panero,Aldama,gardneri,Panero,FALSE,name_w_wrong_case,Aldama gardneri panero
-Aldama goyasensis (H.Rob. & A.J.Moore) E.E.Schill. & Panero,Aldama goyasensis Panero,Aldama,goyasensis,Panero,FALSE,name_w_wrong_case,Aldama goyasensis panero
-Aldama goyazii E.E.Schill. & Panero,Aldama goyazii Panero,Aldama,goyazii,Panero,FALSE,name_w_wrong_case,Aldama goyazii panero
-Aldama grandiflora (Gardner) E.E.Schill. & Panero,Aldama grandiflora Panero,Aldama,grandiflora,Panero,FALSE,name_w_wrong_case,Aldama grandiflora panero
-Aldama kunthiana (Gardner) E.E.Schill. & Panero,Aldama kunthiana Panero,Aldama,kunthiana,Panero,FALSE,name_w_wrong_case,Aldama kunthiana panero
-Aldama laxicymosa (H.Rob. & A.J.Moore) E.E.Schill. & Panero,Aldama laxicymosa Panero,Aldama,laxicymosa,Panero,FALSE,name_w_wrong_case,Aldama laxicymosa panero
-Aldama linearifolia (Chodat) E.E.Schill. & Panero,Aldama linearifolia Panero,Aldama,linearifolia,Panero,FALSE,name_w_wrong_case,Aldama linearifolia panero
-Aldama macrorhiza (Baker) E.E.Schill. & Panero,Aldama macrorhiza Panero,Aldama,macrorhiza,Panero,FALSE,name_w_wrong_case,Aldama macrorhiza panero
-Aldama meridionalis (Magenta) E.E.Schill. & Panero,Aldama meridionalis Panero,Aldama,meridionalis,Panero,FALSE,name_w_wrong_case,Aldama meridionalis panero
-Aldama nudicaulis (Baker) E.E.Schill. & Panero,Aldama nudicaulis Panero,Aldama,nudicaulis,Panero,FALSE,name_w_wrong_case,Aldama nudicaulis panero
-Aldama nudibasilaris (S.F.Blake) E.E.Schill. & Panero,Aldama nudibasilaris Panero,Aldama,nudibasilaris,Panero,FALSE,name_w_wrong_case,Aldama nudibasilaris panero
-Aldama oblongifolia (Gardner) E.E.Schill. & Panero,Aldama oblongifolia Panero,Aldama,oblongifolia,Panero,FALSE,name_w_wrong_case,Aldama oblongifolia panero
-Aldama pilicaulis (S.F.Blake) E.E.Schill. & Panero,Aldama pilicaulis Panero,Aldama,pilicaulis,Panero,FALSE,name_w_wrong_case,Aldama pilicaulis panero
-Aldama pilosa (Baker) E.E.Schill. & Panero,Aldama pilosa Panero,Aldama,pilosa,Panero,FALSE,name_w_wrong_case,Aldama pilosa panero
-Aldama robusta (Gardner) E.E.Schill. & Panero,Aldama robusta Panero,Aldama,robusta,Panero,FALSE,name_w_wrong_case,Aldama robusta panero
-Aldama rubra (Magenta & Pirani) E.E.Schill. & Panero,Aldama rubra Panero,Aldama,rubra,Panero,FALSE,name_w_wrong_case,Aldama rubra panero
-Aldama santacatarinensis (H.Rob. & A.J.Moore) E.E.Schill. & Panero,Aldama santacatarinensis Panero,Aldama,santacatarinensis,Panero,FALSE,name_w_wrong_case,Aldama santacatarinensis panero
-Aldama squalida (S.Moore) E.E.Schill. & Panero,Aldama squalida Panero,Aldama,squalida,Panero,FALSE,name_w_wrong_case,Aldama squalida panero
-Aldama tenuifolia (Gardner) E.E.Schill. & Panero,Aldama tenuifolia Panero,Aldama,tenuifolia,Panero,FALSE,name_w_wrong_case,Aldama tenuifolia panero
-Aldama tuberosa (Griseb.) E.E.Schill. & Panero,Aldama tuberosa Panero,Aldama,tuberosa,Panero,FALSE,name_w_wrong_case,Aldama tuberosa panero
-Aldama veredensis (Magenta & Pirani) E.E.Schill. & Panero,Aldama veredensis Panero,Aldama,veredensis,Panero,FALSE,name_w_wrong_case,Aldama veredensis panero
-Aldama vernonioides (Baker) E.E.Schill. & Panero,Aldama vernonioides Panero,Aldama,vernonioides,Panero,FALSE,name_w_wrong_case,Aldama vernonioides panero
-Thozetella submersa F.R. Barbosa & Gusmão,Thozetella submersa Barbosa,Thozetella,submersa,Barbosa,FALSE,name_w_wrong_case,Thozetella submersa barbosa
-Morganella rimosa Baseia & Alfredo sp. nov.,Morganella rimosa sp.,Morganella,rimosa,sp.,FALSE,indet,Morganella rimosa sp.
-"Fuscutata savannicola (R.A. Herrera & Ferrer) Oehl, F.A. Souza & Sieverd.",Fuscutata savannicola Herrera Souza,Fuscutata,savannicola,Herrera,FALSE,name_w_wrong_case,Fuscutata savannicola herrera souza
-Tarchonantheae (Cass.) S.C. Keeley & R.K. Jansen,Tarchonantheae (Cass.) S.C. Keeley R.K. Jansen,Tarchonantheae,(Cass.),S.C.,FALSE,name_w_wrong_case,Tarchonantheae (cass.) s.c. keeley r.k. jansen
-Pecluma chnoophora (Kunze) Salino & Costa Assis,Pecluma chnoophora Costa,Pecluma,chnoophora,Costa,FALSE,name_w_wrong_case,Pecluma chnoophora costa
-"Matayba obovata R. L. G. Coelho, V. C. Souza & Ferrucci",Matayba obovata Souza,Matayba,obovata,Souza,FALSE,name_w_wrong_case,Matayba obovata souza
-"Mitracarpus carajasensis E.L. Cabral, Sobrado & E.B. Souza",Mitracarpus carajasensis Souza,Mitracarpus,carajasensis,Souza,FALSE,name_w_wrong_case,Mitracarpus carajasensis souza
-"Mitracarpus federalensis E.L. Cabral, Sobrado & E.B. Souza",Mitracarpus federalensis Souza,Mitracarpus,federalensis,Souza,FALSE,name_w_wrong_case,Mitracarpus federalensis souza
-Syagrus pompeoi K. Soares & R. Pimenta,Syagrus pompeoi Pimenta,Syagrus,pompeoi,Pimenta,FALSE,name_w_wrong_case,Syagrus pompeoi pimenta
-Dactylaria saccardoana FR Barbosa & Gusmão,Dactylaria saccardoana Barbosa,Dactylaria,saccardoana,Barbosa,FALSE,name_w_wrong_case,Dactylaria saccardoana barbosa
-Streptopogon brasiliensis Casado ex D.P. Costa,Streptopogon brasiliensis Costa,Streptopogon,brasiliensis,Costa,FALSE,name_w_wrong_case,Streptopogon brasiliensis costa
-Actinocephalus actinocephaloides (Silveira) F. N. Costa,Actinocephalus actinocephaloides Costa,Actinocephalus,actinocephaloides,Costa,FALSE,name_w_wrong_case,Actinocephalus actinocephaloides costa
-Actinocephalus arenicola (Silveira) F. N. Costa,Actinocephalus arenicola Costa,Actinocephalus,arenicola,Costa,FALSE,name_w_wrong_case,Actinocephalus arenicola costa
-Actinocephalus armeria (Mart. ex Körn.) F. N. Costa,Actinocephalus armeria Costa,Actinocephalus,armeria,Costa,FALSE,name_w_wrong_case,Actinocephalus armeria costa
-Actinocephalus bahiensis (Bong.) F. N. Costa,Actinocephalus bahiensis Costa,Actinocephalus,bahiensis,Costa,FALSE,name_w_wrong_case,Actinocephalus bahiensis costa
-Actinocephalus barbiger (Silveira) F. N. Costa,Actinocephalus barbiger Costa,Actinocephalus,barbiger,Costa,FALSE,name_w_wrong_case,Actinocephalus barbiger costa
-Actinocephalus geniculatus (Bong.) F. N. Costa,Actinocephalus geniculatus Costa,Actinocephalus,geniculatus,Costa,FALSE,name_w_wrong_case,Actinocephalus geniculatus costa
-Actinocephalus glareosus (Bong.) F. N. Costa,Actinocephalus glareosus Costa,Actinocephalus,glareosus,Costa,FALSE,name_w_wrong_case,Actinocephalus glareosus costa
-Actinocephalus heteropus (Silveira) F. N. Costa,Actinocephalus heteropus Costa,Actinocephalus,heteropus,Costa,FALSE,name_w_wrong_case,Actinocephalus heteropus costa
-Actinocephalus incanus (Bong.) F. N. Costa,Actinocephalus incanus Costa,Actinocephalus,incanus,Costa,FALSE,name_w_wrong_case,Actinocephalus incanus costa
-Actinocephalus longifolius (Körn) F. N. Costa,Actinocephalus longifolius Costa,Actinocephalus,longifolius,Costa,FALSE,name_w_wrong_case,Actinocephalus longifolius costa
-Actinocephalus perbracchiatus (Silveira) F. N. Costa,Actinocephalus perbracchiatus Costa,Actinocephalus,perbracchiatus,Costa,FALSE,name_w_wrong_case,Actinocephalus perbracchiatus costa
-Actinocephalus phaeocephalus (Ruhland) F. N. Costa,Actinocephalus phaeocephalus Costa,Actinocephalus,phaeocephalus,Costa,FALSE,name_w_wrong_case,Actinocephalus phaeocephalus costa
-Actinocephalus rhizomatosus (Silveira) F. N. Costa,Actinocephalus rhizomatosus Costa,Actinocephalus,rhizomatosus,Costa,FALSE,name_w_wrong_case,Actinocephalus rhizomatosus costa
-Actinocephalus scytophyllus (Ruhland) F. N. Costa,Actinocephalus scytophyllus Costa,Actinocephalus,scytophyllus,Costa,FALSE,name_w_wrong_case,Actinocephalus scytophyllus costa
-Actinocephalus trichopeplus (Silveira) F. N. Costa,Actinocephalus trichopeplus Costa,Actinocephalus,trichopeplus,Costa,FALSE,name_w_wrong_case,Actinocephalus trichopeplus costa
-Actinocephalus velutinus (Silveira) F. N. Costa,Actinocephalus velutinus Costa,Actinocephalus,velutinus,Costa,FALSE,name_w_wrong_case,Actinocephalus velutinus costa
-Aldama subdentata (S. F. Blake) E. E. Schill. & Panero,Aldama subdentata Panero,Aldama,subdentata,Panero,FALSE,name_w_wrong_case,Aldama subdentata panero
-Aldama imbricata (Baker) E. E. Schill. & Panero,Aldama imbricata Panero,Aldama,imbricata,Panero,FALSE,name_w_wrong_case,Aldama imbricata panero
-Aldama angustissima (S. F. Blake) E. E. Schill. & Panero,Aldama angustissima Panero,Aldama,angustissima,Panero,FALSE,name_w_wrong_case,Aldama angustissima panero
-Aldama tuberculata (S. F. Blake) E. E. Schill. & Panero,Aldama tuberculata Panero,Aldama,tuberculata,Panero,FALSE,name_w_wrong_case,Aldama tuberculata panero
-Aldama salicifolia (Hassl.) E.E. Schill. & Panero,Aldama salicifolia Panero,Aldama,salicifolia,Panero,FALSE,name_w_wrong_case,Aldama salicifolia panero
-Aldama ovatifolia (Baker) E.E. Schill. & Panero,Aldama ovatifolia Panero,Aldama,ovatifolia,Panero,FALSE,name_w_wrong_case,Aldama ovatifolia panero
-Aldama weddellii (S. F. Blake) E.E. Schill. & Panero,Aldama weddellii Panero,Aldama,weddellii,Panero,FALSE,name_w_wrong_case,Aldama weddellii panero
-Aldama hypoleuca (S.F. Blake) E.E. Schill. & Panero,Aldama hypoleuca Panero,Aldama,hypoleuca,Panero,FALSE,name_w_wrong_case,Aldama hypoleuca panero
-Aldama macropoda (S. F. Blake) E. E. Schill. & Panero,Aldama macropoda Panero,Aldama,macropoda,Panero,FALSE,name_w_wrong_case,Aldama macropoda panero
-Vriesea carmeniae R. Moura & A. F. Costa,Vriesea carmeniae Costa,Vriesea,carmeniae,Costa,FALSE,name_w_wrong_case,Vriesea carmeniae costa
-Vriesea gelatinosa R. Moura & A.F. Costa,Vriesea gelatinosa Costa,Vriesea,gelatinosa,Costa,FALSE,name_w_wrong_case,Vriesea gelatinosa costa
-Sloanea hatschbachii D. Sampaio & V.C. Souza,Sloanea hatschbachii Souza,Sloanea,hatschbachii,Souza,FALSE,name_w_wrong_case,Sloanea hatschbachii souza
-Sloanea fasciculata D. Sampaio & V.C. Souza,Sloanea fasciculata Souza,Sloanea,fasciculata,Souza,FALSE,name_w_wrong_case,Sloanea fasciculata souza
-Chamaecrista frondosa M.J. Silva & A.O. Souza,Chamaecrista frondosa Souza,Chamaecrista,frondosa,Souza,FALSE,name_w_wrong_case,Chamaecrista frondosa souza
-Physominthe vitifolia (Pohl x Benth.) Harley & J.F.B.Pastore,Physominthe vitifolia x,Physominthe,vitifolia,x,FALSE,not_Genus_epithet_format,Physominthe vitifolia x
-Wedelia bishoplecta (H.Rob.) B.L.Turner,Wedelia bishoplecta (H.Rob.),Wedelia,bishoplecta,(H.Rob.),FALSE,name_w_wrong_case,Wedelia bishoplecta (h.rob.)
-Wedelia heringeriana (H.Rob.) B.L.Turner,Wedelia heringeriana (H.Rob.),Wedelia,heringeriana,(H.Rob.),FALSE,name_w_wrong_case,Wedelia heringeriana (h.rob.)
-Wedelia simpsoniae (H.Rob.) B.L.Turner,Wedelia simpsoniae (H.Rob.),Wedelia,simpsoniae,(H.Rob.),FALSE,name_w_wrong_case,Wedelia simpsoniae (h.rob.)
-Phaseolus robusta Piper,Phaseolus robusta Piper,Phaseolus,robusta,Piper,FALSE,name_w_wrong_case,Phaseolus robusta piper
-Oncidium pulchellum form. hartii (Moir) Withner,Oncidium pulchellum hartii,Oncidium,pulchellum,hartii,FALSE,not_Genus_epithet_format,Oncidium pulchellum hartii
-Oncidium pulchellum form. concavum (Moir) Withner,Oncidium pulchellum concavum,Oncidium,pulchellum,concavum,FALSE,not_Genus_epithet_format,Oncidium pulchellum concavum
-Oncidium pulchellum form. jamaicense (Moir & A.D.Hawkes) Withner,Oncidium pulchellum jamaicense,Oncidium,pulchellum,jamaicense,FALSE,not_Genus_epithet_format,Oncidium pulchellum jamaicense
-Oncidium pulchellum form. withnerianum (Moir) Withner,Oncidium pulchellum withnerianum,Oncidium,pulchellum,withnerianum,FALSE,not_Genus_epithet_format,Oncidium pulchellum withnerianum
-Trichocentrum cepula form. purum (L.C.Menezes) Meneguzzo,Trichocentrum cepula purum,Trichocentrum,cepula,purum,FALSE,not_Genus_epithet_format,Trichocentrum cepula purum
-Oncidium cebolleta form. purum (L.C.Menezes) F.Barros & J.A.N.Bat.,Oncidium cebolleta purum,Oncidium,cebolleta,purum,FALSE,not_Genus_epithet_format,Oncidium cebolleta purum
-Oncidium urophyllum form. flavum R.J.Midgett,Oncidium urophyllum flavum,Oncidium,urophyllum,flavum,FALSE,not_Genus_epithet_format,Oncidium urophyllum flavum
-Goniopteris multigemmifera (Salino) Salino & T.E. Almeida,Goniopteris multigemmifera Almeida,Goniopteris,multigemmifera,Almeida,FALSE,name_w_wrong_case,Goniopteris multigemmifera almeida
-Cabralea cangerana Saldanha,Cabralea cangerana Saldanha,Cabralea,cangerana,Saldanha,FALSE,name_w_wrong_case,Cabralea cangerana saldanha
-Phaseolus robustus Piper,Phaseolus robustus Piper,Phaseolus,robustus,Piper,FALSE,name_w_wrong_case,Phaseolus robustus piper
-Salix chilensis Molina,Salix chilensis Molina,Salix,chilensis,Molina,FALSE,name_w_wrong_case,Salix chilensis molina
-Symplocos lanceolata form. intergerrima A.DC.,Symplocos lanceolata intergerrima,Symplocos,lanceolata,intergerrima,FALSE,not_Genus_epithet_format,Symplocos lanceolata intergerrima
-Matayba marginata form. genuina Radlk.,Matayba marginata genuina,Matayba,marginata,genuina,FALSE,not_Genus_epithet_format,Matayba marginata genuina
-Matayba guianensis form. micrantha Aubl.,Matayba guianensis micrantha,Matayba,guianensis,micrantha,FALSE,not_Genus_epithet_format,Matayba guianensis micrantha
-Matayba marginata form. elongata Radlk.,Matayba marginata elongata,Matayba,marginata,elongata,FALSE,not_Genus_epithet_format,Matayba marginata elongata
-Capparis cynophallophora form. laetevirens L.,Capparis cynophallophora laetevirens,Capparis,cynophallophora,laetevirens,FALSE,not_Genus_epithet_format,Capparis cynophallophora laetevirens
-Capparis cynophallophora form. latifolia L.,Capparis cynophallophora latifolia,Capparis,cynophallophora,latifolia,FALSE,not_Genus_epithet_format,Capparis cynophallophora latifolia
-Combretum jacquinii form. laxum (Jacq.) Eichler,Combretum jacquinii laxum,Combretum,jacquinii,laxum,FALSE,not_Genus_epithet_format,Combretum jacquinii laxum
-Pogonophora schomburgkiana form. longifolia Miers ex Benth.,Pogonophora schomburgkiana longifolia,Pogonophora,schomburgkiana,longifolia,FALSE,not_Genus_epithet_format,Pogonophora schomburgkiana longifolia
-Peperomia diaphana form. major Dahlst.,Peperomia diaphana major,Peperomia,diaphana,major,FALSE,not_Genus_epithet_format,Peperomia diaphana major
-Peperomia obtusifolia form. oblongifolia Miq.,Peperomia obtusifolia oblongifolia,Peperomia,obtusifolia,oblongifolia,FALSE,not_Genus_epithet_format,Peperomia obtusifolia oblongifolia
-Combretum jacquinii form. ovatifolium (Pohl) Eichler,Combretum jacquinii ovatifolium,Combretum,jacquinii,ovatifolium,FALSE,not_Genus_epithet_format,Combretum jacquinii ovatifolium
-Bowlesia incana form. tenera (Spreng.) Urb.,Bowlesia incana tenera,Bowlesia,incana,tenera,FALSE,not_Genus_epithet_format,Bowlesia incana tenera
-Steiropteris hatschbachii (A.R. Sm.) Salino & T.E. Almeida,Steiropteris hatschbachii Almeida,Steiropteris,hatschbachii,Almeida,FALSE,name_w_wrong_case,Steiropteris hatschbachii almeida
-Chamaecrista floribunda M. J. Silva & A. O. Souza,Chamaecrista floribunda Souza,Chamaecrista,floribunda,Souza,FALSE,name_w_wrong_case,Chamaecrista floribunda souza
-Chamaecrista irwiniana A.O. Souza & M.J. Silva,Chamaecrista irwiniana Souza,Chamaecrista,irwiniana,Souza,FALSE,name_w_wrong_case,Chamaecrista irwiniana souza
-Chamaecrista tenuicaulis A. O. Souza & M. J. Silva,Chamaecrista tenuicaulis Souza,Chamaecrista,tenuicaulis,Souza,FALSE,name_w_wrong_case,Chamaecrista tenuicaulis souza
-Chamaecrista sparsifolia A. O. Souza & M. J. Silva,Chamaecrista sparsifolia Souza,Chamaecrista,sparsifolia,Souza,FALSE,name_w_wrong_case,Chamaecrista sparsifolia souza
-Chamaecrista obolaria (H.S. Irwin & Barneby) A.O. Souza & M.J. Silva,Chamaecrista obolaria Souza,Chamaecrista,obolaria,Souza,FALSE,name_w_wrong_case,Chamaecrista obolaria souza
-Lapidia apicifolia Roque & S.C. Ferreira,Lapidia apicifolia S.C.,Lapidia,apicifolia,S.C.,FALSE,name_w_wrong_case,Lapidia apicifolia s.c.
-Aldama subtruncata (H. Rob. & A.J. Moore) E.E. Schilling & Panero,Aldama subtruncata Panero,Aldama,subtruncata,Panero,FALSE,name_w_wrong_case,Aldama subtruncata panero
-Eumachia depauperata (Müll. Arg.) M.R. Barbosa & M.S.Pereira,Eumachia depauperata Barbosa,Eumachia,depauperata,Barbosa,FALSE,name_w_wrong_case,Eumachia depauperata barbosa
-Rudgea minutifolia Bruniera & Torres-Leite,Rudgea minutifolia Bruniera,Rudgea,minutifolia,Bruniera,FALSE,name_w_wrong_case,Rudgea minutifolia bruniera
-"Diplasiolejeunea cubatensis R. Prudêncio, Z.R. Mello & D.P. Costa",Diplasiolejeunea cubatensis Costa,Diplasiolejeunea,cubatensis,Costa,FALSE,name_w_wrong_case,Diplasiolejeunea cubatensis costa
-"Borreria apodiensis E.L. Cabral,L.M. Miguel & E.B. Souza",Borreria apodiensis Souza,Borreria,apodiensis,Souza,FALSE,name_w_wrong_case,Borreria apodiensis souza
-Connarus manausensis C. Toledo & V. C. Souza,Connarus manausensis Souza,Connarus,manausensis,Souza,FALSE,name_w_wrong_case,Connarus manausensis souza
-Connarus ramiflorus C. Toledo & V. C. Souza,Connarus ramiflorus Souza,Connarus,ramiflorus,Souza,FALSE,name_w_wrong_case,Connarus ramiflorus souza
-"Borreria minensis E.L. Cabral, L.M. Miguel & E.B. Souza",Borreria minensis Souza,Borreria,minensis,Souza,FALSE,name_w_wrong_case,Borreria minensis souza
-"Sciodaphyllum asymmetricum (Frodin) Lowry, G.M. Plunkett & M.M. Mora",Sciodaphyllum asymmetricum Mora,Sciodaphyllum,asymmetricum,Mora,FALSE,name_w_wrong_case,Sciodaphyllum asymmetricum mora
-"Sciodaphyllum concolor (Frodin) Lowry, G.M. Plunkett & M.M. Mora",Sciodaphyllum concolor Mora,Sciodaphyllum,concolor,Mora,FALSE,name_w_wrong_case,Sciodaphyllum concolor mora
-"Sciodaphyllum duidae (Steyerm.) Lowry, G.M. Plunkett & M.M. Mora",Sciodaphyllum duidae Mora,Sciodaphyllum,duidae,Mora,FALSE,name_w_wrong_case,Sciodaphyllum duidae mora
-"Sciodaphyllum monospermum (Maguire, Steyerm. & Frodin) Lowry, G.M. Plunkett & M.M. Mora",Sciodaphyllum monospermum Mora,Sciodaphyllum,monospermum,Mora,FALSE,name_w_wrong_case,Sciodaphyllum monospermum mora
-"Sciodaphyllum tremuloideum (Maguire, Steyerm. & Frodin) Lowry, G.M. Plunkett & M.M. Mora",Sciodaphyllum tremuloideum Mora,Sciodaphyllum,tremuloideum,Mora,FALSE,name_w_wrong_case,Sciodaphyllum tremuloideum mora
+names_original,names_wo_authors,scientificName_status,scientificName_new
+Leandra euphorbioides (Naudin) D`El Rei Souza & Baumgratz,Leandra euphorbioides Souza,name_w_wrong_case,Leandra euphorbioides souza
+Dimerostemma episcopale (H.Rob.) H.Rob.,Dimerostemma episcopale (H.Rob.),name_w_wrong_case,Dimerostemma episcopale (h.rob.)
+Aspidosperma eburneum Allem. ex Saldanha,Aspidosperma eburneum Saldanha,name_w_wrong_case,Aspidosperma eburneum saldanha
+Cyrtocymura harleyi (H.Rob.) H.Rob.,Cyrtocymura harleyi (H.Rob.),name_w_wrong_case,Cyrtocymura harleyi (h.rob.)
+Echinocoryne echinocephala (H.Rob.) H.Rob.,Echinocoryne echinocephala (H.Rob.),name_w_wrong_case,Echinocoryne echinocephala (h.rob.)
+Lepidaploa hagei (H.Rob.) H.Rob.,Lepidaploa hagei (H.Rob.),name_w_wrong_case,Lepidaploa hagei (h.rob.)
+Lepidaploa pinheiroi (H.Rob.) H.Rob.,Lepidaploa pinheiroi (H.Rob.),name_w_wrong_case,Lepidaploa pinheiroi (h.rob.)
+Lessingianthus bishopii (H.Rob.) H.Rob.,Lessingianthus bishopii (H.Rob.),name_w_wrong_case,Lessingianthus bishopii (h.rob.)
+Lessingianthus caiapoensis (H.Rob.) H.Rob.,Lessingianthus caiapoensis (H.Rob.),name_w_wrong_case,Lessingianthus caiapoensis (h.rob.)
+Lessingianthus carvalhoi (H.Rob.) H.Rob.,Lessingianthus carvalhoi (H.Rob.),name_w_wrong_case,Lessingianthus carvalhoi (h.rob.)
+Lessingianthus cristalinae (H.Rob.) H.Rob.,Lessingianthus cristalinae (H.Rob.),name_w_wrong_case,Lessingianthus cristalinae (h.rob.)
+Lessingianthus eitenii (H.Rob.) H.Rob.,Lessingianthus eitenii (H.Rob.),name_w_wrong_case,Lessingianthus eitenii (h.rob.)
+Lessingianthus fonsecae (H.Rob.) H.Rob.,Lessingianthus fonsecae (H.Rob.),name_w_wrong_case,Lessingianthus fonsecae (h.rob.)
+Lessingianthus grearii (H.Rob.) H.Rob.,Lessingianthus grearii (H.Rob.),name_w_wrong_case,Lessingianthus grearii (h.rob.)
+Lessingianthus heringeri (H.Rob.) H.Rob.,Lessingianthus heringeri (H.Rob.),name_w_wrong_case,Lessingianthus heringeri (h.rob.)
+Lessingianthus pseudopiptocarphus (H.Rob.) H.Rob.,Lessingianthus pseudopiptocarphus (H.Rob.),name_w_wrong_case,Lessingianthus pseudopiptocarphus (h.rob.)
+Lessingianthus regis (H.Rob.) H.Rob.,Lessingianthus regis (H.Rob.),name_w_wrong_case,Lessingianthus regis (h.rob.)
+Lessingianthus santosii (H.Rob.) H.Rob.,Lessingianthus santosii (H.Rob.),name_w_wrong_case,Lessingianthus santosii (h.rob.)
+Lessingianthus soderstroemii (H.Rob.) H.Rob.,Lessingianthus soderstroemii (H.Rob.),name_w_wrong_case,Lessingianthus soderstroemii (h.rob.)
+Lessingianthus souzae (H.Rob.) H.Rob.,Lessingianthus souzae (H.Rob.),name_w_wrong_case,Lessingianthus souzae (h.rob.)
+Lessingianthus subcarduoides (H.Rob.) H.Rob.,Lessingianthus subcarduoides (H.Rob.),name_w_wrong_case,Lessingianthus subcarduoides (h.rob.)
+Vernonanthura almedae (H.Rob.) H.Rob.,Vernonanthura almedae (H.Rob.),name_w_wrong_case,Vernonanthura almedae (h.rob.)
+Vernonanthura angulata (H.Rob.) H.Rob.,Vernonanthura angulata (H.Rob.),name_w_wrong_case,Vernonanthura angulata (h.rob.)
+Centrosema teresae M.B.Ferreira & Sousa Costa,Centrosema teresae Costa,name_w_wrong_case,Centrosema teresae costa
+Periandra pujalu Emmerich & Senna,Periandra pujalu Senna,name_w_wrong_case,Periandra pujalu senna
+Stylosanthes aurea M.B.Ferreira & Sousa Costa,Stylosanthes aurea Costa,name_w_wrong_case,Stylosanthes aurea costa
+Stylosanthes campestris M.B.Ferreira & Sousa Costa,Stylosanthes campestris Costa,name_w_wrong_case,Stylosanthes campestris costa
+Stylosanthes debilis M.B.Ferreira & Sousa Costa,Stylosanthes debilis Costa,name_w_wrong_case,Stylosanthes debilis costa
+Stylosanthes linearifolia M.B.Ferreira & Sousa Costa,Stylosanthes linearifolia Costa,name_w_wrong_case,Stylosanthes linearifolia costa
+Stylosanthes macrocephala M.B.Ferreira & Sousa Costa,Stylosanthes macrocephala Costa,name_w_wrong_case,Stylosanthes macrocephala costa
+Stylosanthes pilosa M.B.Ferreira & Sousa Costa,Stylosanthes pilosa Costa,name_w_wrong_case,Stylosanthes pilosa costa
+Stylosanthes tomentosa M.B.Ferreira & Sousa Costa,Stylosanthes tomentosa Costa,name_w_wrong_case,Stylosanthes tomentosa costa
+Zornia mitziana Sousa Costa,Zornia mitziana Costa,name_w_wrong_case,Zornia mitziana costa
+Actinocephalus graminifolius F.N. Costa,Actinocephalus graminifolius Costa,name_w_wrong_case,Actinocephalus graminifolius costa
+Bermudiana bulbosa (Mill.) Molina,Bermudiana bulbosa Molina,name_w_wrong_case,Bermudiana bulbosa molina
+Andrachne pumila (Raf.) Rydb.,Andrachne pumila Rydb.,name_w_wrong_case,Andrachne pumila rydb.
+Glomus brohultii Sieverd. & Herrera,Glomus brohultii Herrera,name_w_wrong_case,Glomus brohultii herrera
+Lepidolejeunea ornata (H.Rob.) R.M.Schust.,Lepidolejeunea ornata (H.Rob.),name_w_wrong_case,Lepidolejeunea ornata (h.rob.)
+Gnaphalieae (Cass.) Lecoq & Juill.,Gnaphalieae (Cass.) Lecoq Juill.,name_w_wrong_case,Gnaphalieae (cass.) lecoq juill.
+Polymnieae (H.Rob.) Panero,Polymnieae (H.Rob.) Panero,name_w_wrong_case,Polymnieae (h.rob.) panero
+Stenophalium heringeri (H.Rob.) Anderb.,Stenophalium heringeri (H.Rob.),name_w_wrong_case,Stenophalium heringeri (h.rob.)
+Vernonanthura vinhae (H.Rob.) H.Rob.,Vernonanthura vinhae (H.Rob.),name_w_wrong_case,Vernonanthura vinhae (h.rob.)
+Vulpia megalura (Nutt.) Rydb.,Vulpia megalura Rydb.,name_w_wrong_case,Vulpia megalura rydb.
+Dimerostemma bahiense (H.Rob.) M.D.Moraes,Dimerostemma bahiense (H.Rob.),name_w_wrong_case,Dimerostemma bahiense (h.rob.)
+Lepidaploa alvimii (H.Rob.) H.Rob.,Lepidaploa alvimii (H.Rob.),name_w_wrong_case,Lepidaploa alvimii (h.rob.)
+Vernonia amambaia (H.Rob.) Dematt.,Vernonia amambaia (H.Rob.),name_w_wrong_case,Vernonia amambaia (h.rob.)
+Wenderothia obidensis (Ducke) Piper,Wenderothia obidensis Piper,name_w_wrong_case,Wenderothia obidensis piper
+Lepidaploa tombadorensis (H.Rob.) H.Rob.,Lepidaploa tombadorensis (H.Rob.),name_w_wrong_case,Lepidaploa tombadorensis (h.rob.)
+Anemopaegma arvense (Vell.) Stellfeld ex de Souza,Anemopaegma arvense Souza,name_w_wrong_case,Anemopaegma arvense souza
+Coelomoron tropicale Senna et al.,Coelomoron tropicale Senna,name_w_wrong_case,Coelomoron tropicale senna
+Dasygloea brasiliensis (Senna & Ferreira) Senna & Komárek,Dasygloea brasiliensis Senna,name_w_wrong_case,Dasygloea brasiliensis senna
+Lyngbya brasiliensis Senna & Ferreira,Lyngbya brasiliensis Senna,name_w_wrong_case,Lyngbya brasiliensis senna
+Dasygloea terrestris (M.T.P.Azevedo) Senna & Komárek,Dasygloea terrestris Senna,name_w_wrong_case,Dasygloea terrestris senna
+Porophyllum leiocarpum (Urb.) Rydb.,Porophyllum leiocarpum Rydb.,name_w_wrong_case,Porophyllum leiocarpum rydb.
+Fulvifomes fastuosus (Lév.) Bondartseva & S. Herrera,Fulvifomes fastuosus Herrera,name_w_wrong_case,Fulvifomes fastuosus herrera
+Mimosa caven Molina,Mimosa caven Molina,name_w_wrong_case,Mimosa caven molina
+Acacia caven (Molina) Molina,Acacia caven Molina,name_w_wrong_case,Acacia caven molina
+Mitracarpus eitenii E.B. Souza & E.L. Cabral,Mitracarpus eitenii Souza,name_w_wrong_case,Mitracarpus eitenii souza
+Aldama aspilioides (Baker) E.E.Schill. & Panero,Aldama aspilioides Panero,name_w_wrong_case,Aldama aspilioides panero
+Aldama arenaria (Baker) E.E.Schill. & Panero,Aldama arenaria Panero,name_w_wrong_case,Aldama arenaria panero
+Aldama bakeriana (S.F.Blake) E.E.Schill. & Panero,Aldama bakeriana Panero,name_w_wrong_case,Aldama bakeriana panero
+Aldama bracteata (Gardner) E.E.Schill. & Panero,Aldama bracteata Panero,name_w_wrong_case,Aldama bracteata panero
+Aldama discolor (Baker) E.E.Schill. & Panero,Aldama discolor Panero,name_w_wrong_case,Aldama discolor panero
+Aldama filifolia (Sch.Bip. ex Baker) E.E.Schill. & Panero,Aldama filifolia Panero,name_w_wrong_case,Aldama filifolia panero
+Aldama gardneri (Baker) E.E.Schill. & Panero,Aldama gardneri Panero,name_w_wrong_case,Aldama gardneri panero
+Aldama goyasensis (H.Rob. & A.J.Moore) E.E.Schill. & Panero,Aldama goyasensis Panero,name_w_wrong_case,Aldama goyasensis panero
+Aldama goyazii E.E.Schill. & Panero,Aldama goyazii Panero,name_w_wrong_case,Aldama goyazii panero
+Aldama grandiflora (Gardner) E.E.Schill. & Panero,Aldama grandiflora Panero,name_w_wrong_case,Aldama grandiflora panero
+Aldama kunthiana (Gardner) E.E.Schill. & Panero,Aldama kunthiana Panero,name_w_wrong_case,Aldama kunthiana panero
+Aldama laxicymosa (H.Rob. & A.J.Moore) E.E.Schill. & Panero,Aldama laxicymosa Panero,name_w_wrong_case,Aldama laxicymosa panero
+Aldama linearifolia (Chodat) E.E.Schill. & Panero,Aldama linearifolia Panero,name_w_wrong_case,Aldama linearifolia panero
+Aldama macrorhiza (Baker) E.E.Schill. & Panero,Aldama macrorhiza Panero,name_w_wrong_case,Aldama macrorhiza panero
+Aldama meridionalis (Magenta) E.E.Schill. & Panero,Aldama meridionalis Panero,name_w_wrong_case,Aldama meridionalis panero
+Aldama nudicaulis (Baker) E.E.Schill. & Panero,Aldama nudicaulis Panero,name_w_wrong_case,Aldama nudicaulis panero
+Aldama nudibasilaris (S.F.Blake) E.E.Schill. & Panero,Aldama nudibasilaris Panero,name_w_wrong_case,Aldama nudibasilaris panero
+Aldama oblongifolia (Gardner) E.E.Schill. & Panero,Aldama oblongifolia Panero,name_w_wrong_case,Aldama oblongifolia panero
+Aldama pilicaulis (S.F.Blake) E.E.Schill. & Panero,Aldama pilicaulis Panero,name_w_wrong_case,Aldama pilicaulis panero
+Aldama pilosa (Baker) E.E.Schill. & Panero,Aldama pilosa Panero,name_w_wrong_case,Aldama pilosa panero
+Aldama robusta (Gardner) E.E.Schill. & Panero,Aldama robusta Panero,name_w_wrong_case,Aldama robusta panero
+Aldama rubra (Magenta & Pirani) E.E.Schill. & Panero,Aldama rubra Panero,name_w_wrong_case,Aldama rubra panero
+Aldama santacatarinensis (H.Rob. & A.J.Moore) E.E.Schill. & Panero,Aldama santacatarinensis Panero,name_w_wrong_case,Aldama santacatarinensis panero
+Aldama squalida (S.Moore) E.E.Schill. & Panero,Aldama squalida Panero,name_w_wrong_case,Aldama squalida panero
+Aldama tenuifolia (Gardner) E.E.Schill. & Panero,Aldama tenuifolia Panero,name_w_wrong_case,Aldama tenuifolia panero
+Aldama tuberosa (Griseb.) E.E.Schill. & Panero,Aldama tuberosa Panero,name_w_wrong_case,Aldama tuberosa panero
+Aldama veredensis (Magenta & Pirani) E.E.Schill. & Panero,Aldama veredensis Panero,name_w_wrong_case,Aldama veredensis panero
+Aldama vernonioides (Baker) E.E.Schill. & Panero,Aldama vernonioides Panero,name_w_wrong_case,Aldama vernonioides panero
+Thozetella submersa F.R. Barbosa & Gusmão,Thozetella submersa Barbosa,name_w_wrong_case,Thozetella submersa barbosa
+Morganella rimosa Baseia & Alfredo sp. nov.,Morganella rimosa sp.,indet,Morganella rimosa sp.
+"Fuscutata savannicola (R.A. Herrera & Ferrer) Oehl, F.A. Souza & Sieverd.",Fuscutata savannicola Herrera Souza,name_w_wrong_case,Fuscutata savannicola herrera souza
+Tarchonantheae (Cass.) S.C. Keeley & R.K. Jansen,Tarchonantheae (Cass.) S.C. Keeley R.K. Jansen,name_w_wrong_case,Tarchonantheae (cass.) s.c. keeley r.k. jansen
+Pecluma chnoophora (Kunze) Salino & Costa Assis,Pecluma chnoophora Costa,name_w_wrong_case,Pecluma chnoophora costa
+"Matayba obovata R. L. G. Coelho, V. C. Souza & Ferrucci",Matayba obovata Souza,name_w_wrong_case,Matayba obovata souza
+"Mitracarpus carajasensis E.L. Cabral, Sobrado & E.B. Souza",Mitracarpus carajasensis Souza,name_w_wrong_case,Mitracarpus carajasensis souza
+"Mitracarpus federalensis E.L. Cabral, Sobrado & E.B. Souza",Mitracarpus federalensis Souza,name_w_wrong_case,Mitracarpus federalensis souza
+Syagrus pompeoi K. Soares & R. Pimenta,Syagrus pompeoi Pimenta,name_w_wrong_case,Syagrus pompeoi pimenta
+Dactylaria saccardoana FR Barbosa & Gusmão,Dactylaria saccardoana Barbosa,name_w_wrong_case,Dactylaria saccardoana barbosa
+Streptopogon brasiliensis Casado ex D.P. Costa,Streptopogon brasiliensis Costa,name_w_wrong_case,Streptopogon brasiliensis costa
+Actinocephalus actinocephaloides (Silveira) F. N. Costa,Actinocephalus actinocephaloides Costa,name_w_wrong_case,Actinocephalus actinocephaloides costa
+Actinocephalus arenicola (Silveira) F. N. Costa,Actinocephalus arenicola Costa,name_w_wrong_case,Actinocephalus arenicola costa
+Actinocephalus armeria (Mart. ex Körn.) F. N. Costa,Actinocephalus armeria Costa,name_w_wrong_case,Actinocephalus armeria costa
+Actinocephalus bahiensis (Bong.) F. N. Costa,Actinocephalus bahiensis Costa,name_w_wrong_case,Actinocephalus bahiensis costa
+Actinocephalus barbiger (Silveira) F. N. Costa,Actinocephalus barbiger Costa,name_w_wrong_case,Actinocephalus barbiger costa
+Actinocephalus geniculatus (Bong.) F. N. Costa,Actinocephalus geniculatus Costa,name_w_wrong_case,Actinocephalus geniculatus costa
+Actinocephalus glareosus (Bong.) F. N. Costa,Actinocephalus glareosus Costa,name_w_wrong_case,Actinocephalus glareosus costa
+Actinocephalus heteropus (Silveira) F. N. Costa,Actinocephalus heteropus Costa,name_w_wrong_case,Actinocephalus heteropus costa
+Actinocephalus incanus (Bong.) F. N. Costa,Actinocephalus incanus Costa,name_w_wrong_case,Actinocephalus incanus costa
+Actinocephalus longifolius (Körn) F. N. Costa,Actinocephalus longifolius Costa,name_w_wrong_case,Actinocephalus longifolius costa
+Actinocephalus perbracchiatus (Silveira) F. N. Costa,Actinocephalus perbracchiatus Costa,name_w_wrong_case,Actinocephalus perbracchiatus costa
+Actinocephalus phaeocephalus (Ruhland) F. N. Costa,Actinocephalus phaeocephalus Costa,name_w_wrong_case,Actinocephalus phaeocephalus costa
+Actinocephalus rhizomatosus (Silveira) F. N. Costa,Actinocephalus rhizomatosus Costa,name_w_wrong_case,Actinocephalus rhizomatosus costa
+Actinocephalus scytophyllus (Ruhland) F. N. Costa,Actinocephalus scytophyllus Costa,name_w_wrong_case,Actinocephalus scytophyllus costa
+Actinocephalus trichopeplus (Silveira) F. N. Costa,Actinocephalus trichopeplus Costa,name_w_wrong_case,Actinocephalus trichopeplus costa
+Actinocephalus velutinus (Silveira) F. N. Costa,Actinocephalus velutinus Costa,name_w_wrong_case,Actinocephalus velutinus costa
+Aldama subdentata (S. F. Blake) E. E. Schill. & Panero,Aldama subdentata Panero,name_w_wrong_case,Aldama subdentata panero
+Aldama imbricata (Baker) E. E. Schill. & Panero,Aldama imbricata Panero,name_w_wrong_case,Aldama imbricata panero
+Aldama angustissima (S. F. Blake) E. E. Schill. & Panero,Aldama angustissima Panero,name_w_wrong_case,Aldama angustissima panero
+Aldama tuberculata (S. F. Blake) E. E. Schill. & Panero,Aldama tuberculata Panero,name_w_wrong_case,Aldama tuberculata panero
+Aldama salicifolia (Hassl.) E.E. Schill. & Panero,Aldama salicifolia Panero,name_w_wrong_case,Aldama salicifolia panero
+Aldama ovatifolia (Baker) E.E. Schill. & Panero,Aldama ovatifolia Panero,name_w_wrong_case,Aldama ovatifolia panero
+Aldama weddellii (S. F. Blake) E.E. Schill. & Panero,Aldama weddellii Panero,name_w_wrong_case,Aldama weddellii panero
+Aldama hypoleuca (S.F. Blake) E.E. Schill. & Panero,Aldama hypoleuca Panero,name_w_wrong_case,Aldama hypoleuca panero
+Aldama macropoda (S. F. Blake) E. E. Schill. & Panero,Aldama macropoda Panero,name_w_wrong_case,Aldama macropoda panero
+Vriesea carmeniae R. Moura & A. F. Costa,Vriesea carmeniae Costa,name_w_wrong_case,Vriesea carmeniae costa
+Vriesea gelatinosa R. Moura & A.F. Costa,Vriesea gelatinosa Costa,name_w_wrong_case,Vriesea gelatinosa costa
+Sloanea hatschbachii D. Sampaio & V.C. Souza,Sloanea hatschbachii Souza,name_w_wrong_case,Sloanea hatschbachii souza
+Sloanea fasciculata D. Sampaio & V.C. Souza,Sloanea fasciculata Souza,name_w_wrong_case,Sloanea fasciculata souza
+Chamaecrista frondosa M.J. Silva & A.O. Souza,Chamaecrista frondosa Souza,name_w_wrong_case,Chamaecrista frondosa souza
+Physominthe vitifolia (Pohl x Benth.) Harley & J.F.B.Pastore,Physominthe vitifolia x,not_Genus_epithet_format,Physominthe vitifolia x
+Wedelia bishoplecta (H.Rob.) B.L.Turner,Wedelia bishoplecta (H.Rob.),name_w_wrong_case,Wedelia bishoplecta (h.rob.)
+Wedelia heringeriana (H.Rob.) B.L.Turner,Wedelia heringeriana (H.Rob.),name_w_wrong_case,Wedelia heringeriana (h.rob.)
+Wedelia simpsoniae (H.Rob.) B.L.Turner,Wedelia simpsoniae (H.Rob.),name_w_wrong_case,Wedelia simpsoniae (h.rob.)
+Phaseolus robusta Piper,Phaseolus robusta Piper,name_w_wrong_case,Phaseolus robusta piper
+Oncidium pulchellum form. hartii (Moir) Withner,Oncidium pulchellum hartii,not_Genus_epithet_format,Oncidium pulchellum hartii
+Oncidium pulchellum form. concavum (Moir) Withner,Oncidium pulchellum concavum,not_Genus_epithet_format,Oncidium pulchellum concavum
+Oncidium pulchellum form. jamaicense (Moir & A.D.Hawkes) Withner,Oncidium pulchellum jamaicense,not_Genus_epithet_format,Oncidium pulchellum jamaicense
+Oncidium pulchellum form. withnerianum (Moir) Withner,Oncidium pulchellum withnerianum,not_Genus_epithet_format,Oncidium pulchellum withnerianum
+Trichocentrum cepula form. purum (L.C.Menezes) Meneguzzo,Trichocentrum cepula purum,not_Genus_epithet_format,Trichocentrum cepula purum
+Oncidium cebolleta form. purum (L.C.Menezes) F.Barros & J.A.N.Bat.,Oncidium cebolleta purum,not_Genus_epithet_format,Oncidium cebolleta purum
+Oncidium urophyllum form. flavum R.J.Midgett,Oncidium urophyllum flavum,not_Genus_epithet_format,Oncidium urophyllum flavum
+Goniopteris multigemmifera (Salino) Salino & T.E. Almeida,Goniopteris multigemmifera Almeida,name_w_wrong_case,Goniopteris multigemmifera almeida
+Cabralea cangerana Saldanha,Cabralea cangerana Saldanha,name_w_wrong_case,Cabralea cangerana saldanha
+Phaseolus robustus Piper,Phaseolus robustus Piper,name_w_wrong_case,Phaseolus robustus piper
+Salix chilensis Molina,Salix chilensis Molina,name_w_wrong_case,Salix chilensis molina
+Symplocos lanceolata form. intergerrima A.DC.,Symplocos lanceolata intergerrima,not_Genus_epithet_format,Symplocos lanceolata intergerrima
+Matayba marginata form. genuina Radlk.,Matayba marginata genuina,not_Genus_epithet_format,Matayba marginata genuina
+Matayba guianensis form. micrantha Aubl.,Matayba guianensis micrantha,not_Genus_epithet_format,Matayba guianensis micrantha
+Matayba marginata form. elongata Radlk.,Matayba marginata elongata,not_Genus_epithet_format,Matayba marginata elongata
+Capparis cynophallophora form. laetevirens L.,Capparis cynophallophora laetevirens,not_Genus_epithet_format,Capparis cynophallophora laetevirens
+Capparis cynophallophora form. latifolia L.,Capparis cynophallophora latifolia,not_Genus_epithet_format,Capparis cynophallophora latifolia
+Combretum jacquinii form. laxum (Jacq.) Eichler,Combretum jacquinii laxum,not_Genus_epithet_format,Combretum jacquinii laxum
+Pogonophora schomburgkiana form. longifolia Miers ex Benth.,Pogonophora schomburgkiana longifolia,not_Genus_epithet_format,Pogonophora schomburgkiana longifolia
+Peperomia diaphana form. major Dahlst.,Peperomia diaphana major,not_Genus_epithet_format,Peperomia diaphana major
+Peperomia obtusifolia form. oblongifolia Miq.,Peperomia obtusifolia oblongifolia,not_Genus_epithet_format,Peperomia obtusifolia oblongifolia
+Combretum jacquinii form. ovatifolium (Pohl) Eichler,Combretum jacquinii ovatifolium,not_Genus_epithet_format,Combretum jacquinii ovatifolium
+Bowlesia incana form. tenera (Spreng.) Urb.,Bowlesia incana tenera,not_Genus_epithet_format,Bowlesia incana tenera
+Steiropteris hatschbachii (A.R. Sm.) Salino & T.E. Almeida,Steiropteris hatschbachii Almeida,name_w_wrong_case,Steiropteris hatschbachii almeida
+Chamaecrista floribunda M. J. Silva & A. O. Souza,Chamaecrista floribunda Souza,name_w_wrong_case,Chamaecrista floribunda souza
+Chamaecrista irwiniana A.O. Souza & M.J. Silva,Chamaecrista irwiniana Souza,name_w_wrong_case,Chamaecrista irwiniana souza
+Chamaecrista tenuicaulis A. O. Souza & M. J. Silva,Chamaecrista tenuicaulis Souza,name_w_wrong_case,Chamaecrista tenuicaulis souza
+Chamaecrista sparsifolia A. O. Souza & M. J. Silva,Chamaecrista sparsifolia Souza,name_w_wrong_case,Chamaecrista sparsifolia souza
+Chamaecrista obolaria (H.S. Irwin & Barneby) A.O. Souza & M.J. Silva,Chamaecrista obolaria Souza,name_w_wrong_case,Chamaecrista obolaria souza
+Lapidia apicifolia Roque & S.C. Ferreira,Lapidia apicifolia S.C.,name_w_wrong_case,Lapidia apicifolia s.c.
+Aldama subtruncata (H. Rob. & A.J. Moore) E.E. Schilling & Panero,Aldama subtruncata Panero,name_w_wrong_case,Aldama subtruncata panero
+Eumachia depauperata (Müll. Arg.) M.R. Barbosa & M.S.Pereira,Eumachia depauperata Barbosa,name_w_wrong_case,Eumachia depauperata barbosa
+Rudgea minutifolia Bruniera & Torres-Leite,Rudgea minutifolia Bruniera,name_w_wrong_case,Rudgea minutifolia bruniera
+"Diplasiolejeunea cubatensis R. Prudêncio, Z.R. Mello & D.P. Costa",Diplasiolejeunea cubatensis Costa,name_w_wrong_case,Diplasiolejeunea cubatensis costa
+"Borreria apodiensis E.L. Cabral,L.M. Miguel & E.B. Souza",Borreria apodiensis Souza,name_w_wrong_case,Borreria apodiensis souza
+Connarus manausensis C. Toledo & V. C. Souza,Connarus manausensis Souza,name_w_wrong_case,Connarus manausensis souza
+Connarus ramiflorus C. Toledo & V. C. Souza,Connarus ramiflorus Souza,name_w_wrong_case,Connarus ramiflorus souza
+"Borreria minensis E.L. Cabral, L.M. Miguel & E.B. Souza",Borreria minensis Souza,name_w_wrong_case,Borreria minensis souza
+"Sciodaphyllum asymmetricum (Frodin) Lowry, G.M. Plunkett & M.M. Mora",Sciodaphyllum asymmetricum Mora,name_w_wrong_case,Sciodaphyllum asymmetricum mora
+"Sciodaphyllum concolor (Frodin) Lowry, G.M. Plunkett & M.M. Mora",Sciodaphyllum concolor Mora,name_w_wrong_case,Sciodaphyllum concolor mora
+"Sciodaphyllum duidae (Steyerm.) Lowry, G.M. Plunkett & M.M. Mora",Sciodaphyllum duidae Mora,name_w_wrong_case,Sciodaphyllum duidae mora
+"Sciodaphyllum monospermum (Maguire, Steyerm. & Frodin) Lowry, G.M. Plunkett & M.M. Mora",Sciodaphyllum monospermum Mora,name_w_wrong_case,Sciodaphyllum monospermum mora
+"Sciodaphyllum tremuloideum (Maguire, Steyerm. & Frodin) Lowry, G.M. Plunkett & M.M. Mora",Sciodaphyllum tremuloideum Mora,name_w_wrong_case,Sciodaphyllum tremuloideum mora
