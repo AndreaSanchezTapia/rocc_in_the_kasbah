@@ -15,9 +15,33 @@ test_remove <- final %>%
   Anything_else = stringr::word(names_wo_authors, 3)
   ) %>% mutate(empty = is.na(Anything_else))
 test_remove %>% count(empty)
-test_remove_summary <- test_remove %>% filter(empty == FALSE) %>%
+test_remove_summary <- test_remove %>% filter(empty == FALSE)
 #there are vars, subsp and f. we knew that
-  filter(!Anything_else %in% c("subsp.", "var.", "f."))
-View(test_remove_summary)
+#tira de todas as var?
+  test_remove_summary %>%
+  filter(Anything_else %in% c("var.")) %>% View()
+  View(test_remove_summary)
+#APARENTEMENTE SIM, NAO PRECISA FAZER ANTES VAR E DEPOIS R_A
+
+  #tira de todas as SUBSP?
+  test_remove_summary %>%
+  filter(Anything_else %in% c("subsp.")) %>% View()
+  View(test_remove_summary)
+#APARENTEMENTE SIM, NAO PRECISA FAZER ANTES VAR E DEPOIS R_A
+#var e subsp. tira bem os autores
+
+  #tira de todas as f.?
+  dotf <- test_remove_summary %>%
+  filter(Anything_else %in% c("f."))
+  readr::write_csv(x = dotf, path = "./output/06_sample_with_dotf.csv")
+
+  View(test_remove_summary)
+#APARENTEMENTE SIM, NAO PRECISA FAZER ANTES VAR E DEPOIS R_A
+#var e subsp. tira bem os autores
 
 readr::write_csv(test_remove_summary, "./output/05_test_remove_authors.csv")
+
+
+test_remove_summary %>%
+  filter(!Anything_else %in% c("var.", "f.", "subsp.")) %>%
+  readr::write_csv(., "./output/05_test_remove_authors.csv")
