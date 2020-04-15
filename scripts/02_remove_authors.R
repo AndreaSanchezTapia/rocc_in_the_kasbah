@@ -1,3 +1,5 @@
+library(magrittr)
+devtools::load_all("../andre_rocc/")
 library(dplyr)
 library(purrr)
 #testing only the output of remove_authors
@@ -34,7 +36,7 @@ test_remove_summary <- test_remove %>% filter(empty == FALSE)
   dotf <- test_remove_summary %>%
   filter(Anything_else %in% c("f."))
   readr::write_csv(x = dotf, path = "./output/06_sample_with_dotf.csv")
-
+nrow(dotf)
   View(test_remove_summary)
 #APARENTEMENTE SIM, NAO PRECISA FAZER ANTES VAR E DEPOIS R_A
 #var e subsp. tira bem os autores
@@ -42,6 +44,11 @@ test_remove_summary <- test_remove %>% filter(empty == FALSE)
 readr::write_csv(test_remove_summary, "./output/05_test_remove_authors.csv")
 
 
-test_remove_summary %>%
-  filter(!Anything_else %in% c("var.", "f.", "subsp.")) %>%
-  readr::write_csv(., "./output/05_test_remove_authors.csv")
+errors <- test_remove_summary %>%
+  filter(!Anything_else %in% c("var.", "f.", "subsp."))
+  readr::write_csv(errors, "./output/05_test_remove_authors.csv")
+  check_errors <- rocc::check_string(errors$names_wo_authors)
+check <- check_errors
+check %<>% rename(names_wo_authors = scientificName)
+resumen <- dplyr::left_join(errors, check)
+readr::write_csv(resumen, "07_remove_then_check_string.csv")
