@@ -3,9 +3,9 @@ library(dplyr)
 library(purrr)
 devtools::load_all("../andre_rocc/")
 
-cerrado_all      <- search_flora(domain = "Cerrado")
 cerrado_endemics <- search_flora(domain = "Cerrado",
-                                 endemism = TRUE)
+                                 endemism = TRUE,
+                                 lifeform = "Árvore")
 write_csv(cerrado_endemics, "./output/01_all_names.csv")
 
 # Check names
@@ -21,3 +21,4 @@ check_names_iki <- purrr::map_df(check_names_df$scientificName_new,
 write_csv(check_names_iki, "./output/03_double_check_string.csv")
 table(check_names_iki$scientificName_status)
 #prfct
+check_names_iki %>% filter(scientificName_status != "possibly_ok") %>% View()
