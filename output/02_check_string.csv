@@ -854,7 +854,6 @@ Leandra fluminensis Cogn.,name_w_authors,Leandra fluminensis
 Leandra glabrata (Bunbury) Cogn.,name_w_authors,Leandra glabrata
 Leandra glazioviana Cogn.,name_w_authors,Leandra glazioviana
 Leandra hirtella Cogn.,name_w_authors,Leandra hirtella
-Leandra lancifolia Cogn.,name_w_authors,Leandra lancifolia
 Leandra oblongifolia Cogn.,name_w_authors,Leandra oblongifolia
 Leandra paulina DC.,name_w_authors,Leandra paulina
 Leandra pennipilis (Triana) Cogn.,name_w_authors,Leandra pennipilis
@@ -1086,7 +1085,7 @@ Aspidogyne kuczynskii (Porsch) Garay,name_w_authors,Aspidogyne kuczynskii
 Aspidogyne lindleyana (Cogn.) Garay,name_w_authors,Aspidogyne lindleyana
 Barbosella crassifolia (Edwall) Schltr.,name_w_authors,Barbosella crassifolia
 Barbosella gardneri (Lindl.) Schltr.,name_w_authors,Barbosella gardneri
-Bifrenaria aureofulva Lindl.,name_w_authors,Bifrenaria aureofulva
+Bifrenaria aureofulva (Hook.) Lindl.,name_w_authors,Bifrenaria aureofulva
 Brassavola flagellaris Barb.Rodr.,name_w_authors,Brassavola flagellaris
 Bulbophyllum chloroglossum Rchb.f. & Warm.,name_w_authors,Bulbophyllum chloroglossum
 Bulbophyllum chloropterum Rchb.f.,name_w_authors,Bulbophyllum chloropterum
@@ -1420,7 +1419,6 @@ Declieuxia saturejoides Mart. & Zucc. ex Schult. & Schult.f.,name_w_authors,Decl
 Declieuxia tenuiflora (Willd. ex Roem. & Schult.) Steyerm. & J.H.Kirkbr.,name_w_authors,Declieuxia tenuiflora
 Faramea aristata Müll.Arg.,name_w_authors,Faramea aristata
 Faramea cordifolia Glaz.,name_w_authors,Faramea cordifolia
-Faramea nigrescens Mart.,name_w_authors,Faramea nigrescens
 Faramea nitida Benth.,name_w_authors,Faramea nitida
 Galianthe angustifolia (Cham. & Schltdl.) E.L.Cabral,name_w_authors,Galianthe angustifolia
 Galianthe cymosa (Cham.) E.L.Cabral & Bacigalupo,name_w_authors,Galianthe cymosa
@@ -1488,7 +1486,7 @@ Psychotria racemosa Rich.,name_w_authors,Psychotria racemosa
 Psychotria rhytidocarpa Müll.Arg.,name_w_authors,Psychotria rhytidocarpa
 Psychotria ruelliifolia (Cham. & Schltdl.) Müll.Arg.,name_w_authors,Psychotria ruelliifolia
 Psychotria rupestris Müll.Arg.,name_w_authors,Psychotria rupestris
-Psychotria schlechtendaliana (Müll.Arg.) Müll.Arg.,name_w_authors,Psychotria schlechtendaliana
+Psychotria schlechtendaliana Müll. Arg.,name_w_authors,Psychotria schlechtendaliana
 Psychotria schottiana Müll.Arg.,name_w_authors,Psychotria schottiana
 Psychotria setulifera C.M.Taylor,name_w_authors,Psychotria setulifera
 Psychotria spathicalyx Müll.Arg.,name_w_authors,Psychotria spathicalyx
@@ -2053,7 +2051,7 @@ Caatinganthus rubropappus (Soar.Nunes) H.Rob.,name_w_authors,Caatinganthus rubro
 Catolesia mentiens D.J.N.Hind,name_w_authors,Catolesia mentiens
 Chaptalia chapadensis D.J.N.Hind,name_w_authors,Chaptalia chapadensis
 Chaptalia denticulata (Baker) Zardini,name_w_authors,Chaptalia denticulata
-Chromolaena alvimii R.M.King & H.Rob.,name_w_authors,Chromolaena alvimii
+Chromolaena alvimii R.M. King & H.Robinson,name_w_authors,Chromolaena alvimii
 Chromolaena cinereoviridis (Sch.Bip. ex Baker) R.M.King & H.Rob.,name_w_authors,Chromolaena cinereoviridis
 Chromolaena congesta (Hook. & Arn.) R.M.King & H.Rob.,name_w_authors,Chromolaena congesta
 Chromolaena cylindrocephala (Sch.Bip. ex Baker) R.M.King & H.Rob.,name_w_authors,Chromolaena cylindrocephala
@@ -2895,7 +2893,6 @@ Pavonia luetzelburgii Ulbr.,name_w_authors,Pavonia luetzelburgii
 Pavonia macrostyla Gürke,name_w_authors,Pavonia macrostyla
 Pavonia piauhyensis Ulbr.,name_w_authors,Pavonia piauhyensis
 Pavonia rosa-campestris A.St.-Hil.,name_w_authors,Pavonia rosa-campestris
-Sida acuminata DC.,name_w_authors,Sida acuminata
 Sida aurantiaca A.St.-Hil.,name_w_authors,Sida aurantiaca
 Sida glutinosa Comm. ex Cav.,name_w_authors,Sida glutinosa
 Sida linearifolia A.St.-Hil.,name_w_authors,Sida linearifolia
@@ -3724,7 +3721,7 @@ Gaya macrantha Barb.Rodr.,name_w_authors,Gaya macrantha
 Helicteres corylifolia Nees & Mart.,name_w_authors,Helicteres corylifolia
 Helicteres muscosa Mart.,name_w_authors,Helicteres muscosa
 Melochia betonicifolia A.St.-Hil.,name_w_authors,Melochia betonicifolia
-Pachira retusa (Mart.& Zucc.) Fern.Alonso,name_w_authors,Pachira retusa
+Pachira retusa (Mart.) Fern.Alonso,name_w_authors,Pachira retusa
 Pavonia grazielae Krapov.,name_w_authors,Pavonia grazielae
 Pseudobombax campestre (Mart.) A.Robyns,name_w_authors,Pseudobombax campestre
 "Pseudobombax marginatum (A.St.-Hil., Juss. & Cambess.) A.Robyns",name_w_authors,Pseudobombax marginatum
@@ -5474,7 +5471,6 @@ Clitoria irwinii Fantz,name_w_authors,Clitoria irwinii
 Clitoria laurifolia Poir.,name_w_authors,Clitoria laurifolia
 Clitoria rubiginosa Juss. ex Pers.,name_w_authors,Clitoria rubiginosa
 Crotalaria breviflora DC.,name_w_authors,Crotalaria breviflora
-Crotalaria breviflora var. pohliana (Benth.) Windler,variety,Crotalaria breviflora
 Crotalaria flavicoma Benth.,name_w_authors,Crotalaria flavicoma
 Crotalaria goiasensis Windler & S.G.Skinner,name_w_authors,Crotalaria goiasensis
 Crotalaria grandiflora Benth.,name_w_authors,Crotalaria grandiflora
@@ -5989,8 +5985,7 @@ Lavoisiera subulata Triana,name_w_authors,Lavoisiera subulata
 Leandra adamantinensis Brade,name_w_authors,Leandra adamantinensis
 Leandra adenothrix Cogn.,name_w_authors,Leandra adenothrix
 Leandra coriacea Cogn.,name_w_authors,Leandra coriacea
-Leandra deflexa (Triana) Cogn.,name_w_authors,Leandra deflexa
-Leandra lacunosa Cogn.,name_w_authors,Leandra lacunosa
+Leandra deflexa (O.Berg ex Tiana) Cogn.,name_w_authors,Leandra deflexa
 Leandra oligochaeta (Cham.) Cogn.,name_w_authors,Leandra oligochaeta
 Leandra rigida Cogn.,name_w_authors,Leandra rigida
 Leandra subobruta Wurdack,name_w_authors,Leandra subobruta
@@ -7180,6 +7175,7 @@ Rhynchospora paranaensis A.C.Araújo & W.W.Thomas,name_w_authors,Rhynchospora pa
 Rhynchospora pluricarpa Pilg.,name_w_authors,Rhynchospora pluricarpa
 Rhynchospora plusquamrobusta Luceño & M.Martins,name_w_authors,Rhynchospora plusquamrobusta
 Rhynchospora riedeliana C.B.Clarke,name_w_authors,Rhynchospora riedeliana
+Rhynchospora subtilis Boeckeler,name_w_authors,Rhynchospora subtilis
 Rhynchospora testacea Boeckeler,name_w_authors,Rhynchospora testacea
 Rhynchospora urbanii Boeckeler,name_w_authors,Rhynchospora urbanii
 Rhynchospora widgrenii Boeckeler,name_w_authors,Rhynchospora widgrenii
@@ -7562,7 +7558,6 @@ Myrcia intonsa (McVaugh) B.Holst,name_w_authors,Myrcia intonsa
 Myrcia irwinii Mattos & D.Legrand,name_w_authors,Myrcia irwinii
 Myrcia lapensis N.Silveira,name_w_authors,Myrcia lapensis
 Myrcia lateriflora Kiaersk.,name_w_authors,Myrcia lateriflora
-Myrcia marginata O.Berg,name_w_authors,Myrcia marginata
 Myrcia microphylla O.Berg,name_w_authors,Myrcia microphylla
 Myrcia nigricans (O.Berg) N.Silveira,name_w_authors,Myrcia nigricans
 Myrcia nitida Cambess.,name_w_authors,Myrcia nitida
@@ -7854,6 +7849,7 @@ Phyllanthus attenuatus Miq. subsp. attenuatus,subspecies,Phyllanthus attenuatus
 Phyllanthus avicularis Müll.Arg.,name_w_authors,Phyllanthus avicularis
 Phyllanthus caparaoensis G.L.Webster,name_w_authors,Phyllanthus caparaoensis
 Phyllanthus choretroides Müll.Arg.,name_w_authors,Phyllanthus choretroides
+Phyllanthus claussenii Müll.Arg.,name_w_authors,Phyllanthus claussenii
 Phyllanthus dawsonii Steyerm.,name_w_authors,Phyllanthus dawsonii
 Phyllanthus debilis Klein ex Willd.,name_w_authors,Phyllanthus debilis
 Phyllanthus eurisladro Mart. ex Colla,name_w_authors,Phyllanthus eurisladro
@@ -7872,6 +7868,7 @@ Phyllanthus perpusillus Baill.,name_w_authors,Phyllanthus perpusillus
 Phyllanthus pinifolius Baill.,name_w_authors,Phyllanthus pinifolius
 Phyllanthus poeppigianus (Müll.Arg.) Müll.Arg.,name_w_authors,Phyllanthus poeppigianus
 Phyllanthus pohlianus Müll.Arg.,name_w_authors,Phyllanthus pohlianus
+Phyllanthus robustus Mart. ex Colla,name_w_authors,Phyllanthus robustus
 Phyllanthus sarothamnoides Govaerts & Radcl.-Sm.,name_w_authors,Phyllanthus sarothamnoides
 Phyllanthus schomburgkianus Müll.Arg.,name_w_authors,Phyllanthus schomburgkianus
 Phyllanthus simplicicaulis Müll.Arg.,name_w_authors,Phyllanthus simplicicaulis
@@ -8634,6 +8631,7 @@ Mauritia tenuis (Mart.) Spruce,name_w_authors,Mauritia tenuis
 Mauritiella intermedia (Burret) Burret,name_w_authors,Mauritiella intermedia
 Mauritiella nannostachys Burret,name_w_authors,Mauritiella nannostachys
 Mauritiella peruviana (Becc.) Burret,name_w_authors,Mauritiella peruviana
+Nunnezharia pacaya (Oerst.) Kuntze,name_w_authors,Nunnezharia pacaya
 Oenocarpus grandis Burret,name_w_authors,Oenocarpus grandis
 Oenocarpus hoppii Burret,name_w_authors,Oenocarpus hoppii
 Orania nivea Linden ex W.Watson,name_w_authors,Orania nivea
@@ -9695,7 +9693,6 @@ Cyperus flavus var. argentinus (Boeckeler) Kük. ex Osten,variety,Cyperus flavus
 Cyperus flavus var. obesus (Liebm.) Kük.,variety,Cyperus flavus
 Cyperus flavus subsp. redolens (Maury ex Micheli) Osten,subspecies,Cyperus flavus
 Cyperus formosus Vahl,name_w_authors,Cyperus formosus
-Cyperus fulvescens Liebm.,name_w_authors,Cyperus fulvescens
 Cyperus fuscoferrugineus Boeckeler,name_w_authors,Cyperus fuscoferrugineus
 Cyperus gardneri var. vegetior Kük.,variety,Cyperus gardneri
 Cyperus gatesii Torr.,name_w_authors,Cyperus gatesii
@@ -12196,10 +12193,9 @@ Masdevallia tridactylites Rchb.f.,name_w_authors,Masdevallia tridactylites
 Masdevallia zebrina Porsch,name_w_authors,Masdevallia zebrina
 Maxillaria acicularis var. brevifolia Cogn.,variety,Maxillaria acicularis
 Maxillaria atropurpurea Lodd.,name_w_authors,Maxillaria atropurpurea
-Maxillaria aurantiaca (Lindl.) A.Rich. & Galeotti,name_w_authors,Maxillaria aurantiaca
+Maxillaria aurantiaca (Lindl.) Rchb.f.,name_w_authors,Maxillaria aurantiaca
 Maxillaria barbata Knowles & Westc. ex Rchb.f.,name_w_authors,Maxillaria barbata
 Maxillaria barringtoniae (Sm.) Lodd.,name_w_authors,Maxillaria barringtoniae
-Maxillaria bomboizensis Dodson,name_w_authors,Maxillaria bomboizensis
 Maxillaria brachypus Rchb.f.,name_w_authors,Maxillaria brachypus
 Maxillaria brenesii Schltr.,name_w_authors,Maxillaria brenesii
 Maxillaria brocklehurstiana Lindl.,name_w_authors,Maxillaria brocklehurstiana
@@ -12559,7 +12555,6 @@ Psychopsis papilio var. latourae (Broadway) Lückel & Braem,variety,Psychopsis p
 Quekettia micromera (Barb.Rodr.) Cogn.,name_w_authors,Quekettia micromera
 Renata canaanensis Ruschi,name_w_authors,Renata canaanensis
 Restrepia gardneri (Lindl.) Benth.,name_w_authors,Restrepia gardneri
-Restrepia parvifolia Lindl.,name_w_authors,Restrepia parvifolia
 Rodriguezia decora var. picta (Hook.) H.J.Veitch,variety,Rodriguezia decora
 Rodriguezia juergensiana Kraenzl.,name_w_authors,Rodriguezia juergensiana
 Rodriguezia lindenii Cogn.,name_w_authors,Rodriguezia lindenii
@@ -14698,7 +14693,6 @@ Polygala fontellana Marques & A.C.A.Aguiar,name_w_authors,Polygala fontellana
 Polygala hastchbachii Brade,name_w_authors,Polygala hastchbachii
 Polygala marquesiana J.F.B.Pastore & T.B.Cavalc.,name_w_authors,Polygala marquesiana
 Polygala scleroxylon Ducke,name_w_authors,Polygala scleroxylon
-Roupala krukovii A.C.Sm.,name_w_authors,Roupala krukovii
 Kotchubaea semisericea Ducke,name_w_authors,Kotchubaea semisericea
 Platycarpum decipiens Woodson & Steyerm.,name_w_authors,Platycarpum decipiens
 Ravenia pseudalterna Ducke,name_w_authors,Ravenia pseudalterna
@@ -17088,7 +17082,7 @@ Cololejeunea cardiocarpa (Mont.) A.Evans,name_w_authors,Cololejeunea cardiocarpa
 Cololejeunea dzumacensis Tixier,name_w_authors,Cololejeunea dzumacensis
 Cololejeunea submarginata Tixier,name_w_authors,Cololejeunea submarginata
 Cololejeunea subscariosa (Spruce) R.M.Schust.,name_w_authors,Cololejeunea subscariosa
-Cololejeunea vitalana Tixier,name_w_authors,Cololejeunea vitalana
+Cololejeunea vitaliana Tixier,name_w_authors,Cololejeunea vitaliana
 Colura tenuicornis (A.Evans) Steph.,name_w_authors,Colura tenuicornis
 Colura cylindrica Herzog,name_w_authors,Colura cylindrica
 Colura greig-smithii Jovet-Ast,name_w_authors,Colura greig-smithii
@@ -17145,12 +17139,11 @@ Microlejeunea cystifera Herzog,name_w_authors,Microlejeunea cystifera
 Microlejeunea epiphylla Bischl.,name_w_authors,Microlejeunea epiphylla
 Microlejeunea globosa (Spruce) Steph.,name_w_authors,Microlejeunea globosa
 Microlejeunea subulistipa Steph.,name_w_authors,Microlejeunea subulistipa
-Myriocoleopsis fluviatilis (Steph.) E.Reiner & Gradst.,name_w_authors,Myriocoleopsis fluviatilis
+Myriocoleopsis fluviatilis (Steph.) M.E.Reiner & Gradst.,name_w_authors,Myriocoleopsis fluviatilis
 Myriocoleopsis gymnocolea (Spruce) E.Reiner & Gradst.,name_w_authors,Myriocoleopsis gymnocolea
 Lejeunea polyantha Mont.,name_w_authors,Lejeunea polyantha
 Odontolejeunea rhomalea (Spruce) Steph.,name_w_authors,Odontolejeunea rhomalea
 Pictolejeunea picta (Gottsche ex Steph.) Grolle,name_w_authors,Pictolejeunea picta
-Prionolejeunea mucronata (Sande Lac.) Steph.,name_w_authors,Prionolejeunea mucronata
 Pycnolejeunea densistipula (Lehm. & Lindenb.) Steph.,name_w_authors,Pycnolejeunea densistipula
 Rectolejeunea berteroana (Gottsche ex Steph.) A.Evans,name_w_authors,Rectolejeunea berteroana
 Rectolejeunea flagelliformis A.Evans,name_w_authors,Rectolejeunea flagelliformis
@@ -19546,7 +19539,6 @@ Dimerostemma goyazense (Gardner) M.D.Moraes,name_w_authors,Dimerostemma goyazens
 Dimerostemma myrtifolium (Chodat) M.D.Moraes,name_w_authors,Dimerostemma myrtifolium
 Chaetocalyx latifolia Benth.,name_w_authors,Chaetocalyx latifolia
 Vernonia westermanii Ekman & Dusén ex Malme,name_w_authors,Vernonia westermanii
-Comolia stenodon var. major Cogn.,variety,Comolia stenodon
 Stenocephalum monticola (Mart. ex DC.) Sch.Bip.,name_w_authors,Stenocephalum monticola
 Paspalum paucifolium Swallen,name_w_authors,Paspalum paucifolium
 Clathrotropis grandiflora (Harms) Ducke,name_w_authors,Clathrotropis grandiflora
@@ -20692,7 +20684,6 @@ Tanaecium neobrasiliense L.G.Lohmann,name_w_authors,Tanaecium neobrasiliense
 Tanaecium truncatum (A.Samp.) L.G.Lohmann,name_w_authors,Tanaecium truncatum
 Tynanthus fasciculatus (Vell.) Miers,name_w_authors,Tynanthus fasciculatus
 Tynanthus labiatus (Cham.) Miers,name_w_authors,Tynanthus labiatus
-Tynanthus polyanthus (Bureau) Sandwith,name_w_authors,Tynanthus polyanthus
 Tynanthus pubescens A.H.Gentry,name_w_authors,Tynanthus pubescens
 Xylophragma harleyi (A.Gentry ex M.Silva & L.P.Queiroz) L.G.Lohmann,name_w_authors,Xylophragma harleyi
 Xylophragma heterocalyx (Bureau & K.Schum.) A.H.Gentry,name_w_authors,Xylophragma heterocalyx
@@ -22691,7 +22682,6 @@ Chara angolensis A.Braun,name_w_authors,Chara angolensis
 Chara braunii Gmelin,name_w_authors,Chara braunii
 Chara diaphana (Meyen) R.M.T.Bicudo,name_w_authors,Chara diaphana
 Chara drouetii var. sejuncta (A.Braun) R.M.T.Bicudo,variety,Chara drouetii
-Chara globularis Thuillier emend. R.D.Wood,name_w_authors,Chara globularis
 Chara guairensis R.M.T.Bicudo,name_w_authors,Chara guairensis
 Chara hispida var. baltica (Bruzelius) R.D.Wood emend. R.D.Wood,variety,Chara hispida
 Chara hornemannii Wallman emend. R.D.Wood,name_w_authors,Chara hornemannii
@@ -23390,7 +23380,6 @@ Baccharis reticularioides Deble & A.S.Oliveira,name_w_authors,Baccharis reticula
 Chusquea spinosa E.Fourn.,name_w_authors,Chusquea spinosa
 Cosmarium canadense Irénée-Marie,name_w_authors,Cosmarium canadense
 Nupella giluwensis Vyverman & Compère,name_w_authors,Nupella giluwensis
-Habranthus botumirimensis R.S.Oliveira,name_w_authors,Habranthus botumirimensis
 Nitzschia gracilis Hantzsch var. gracilis,variety,Nitzschia gracilis
 Pinnularia mesolepta (Ehrenb.) W.Sm. var. mesolepta,variety,Pinnularia mesolepta
 "Pseudo-nitzschia linea Lundholm, Hasle & Fryxell",name_w_authors,Pseudo-nitzschia linea
@@ -25513,7 +25502,7 @@ Marasmius oligocystis Singer,name_w_authors,Marasmius oligocystis
 Cololejeunea microscopica (Taylor) Schiffn.,name_w_authors,Cololejeunea microscopica
 Cololejeunea paucifolia (Spruce) Bernecker,name_w_authors,Cololejeunea paucifolia
 Cololejeunea sicifolia  (Gottsche) Pócs & Bernecker,name_w_authors,Cololejeunea sicifolia
-Cololejeunea sintnisii (Steph.) Pócs,name_w_authors,Cololejeunea sintnisii
+Cololejeunea sintenisii (Steph.) Pócs,name_w_authors,Cololejeunea sintenisii
 Cololejeunea subsphaeroidea (R.M. Schust.) Pócs,name_w_authors,Cololejeunea subsphaeroidea
 Cololejeunea azorica V. Allorge & Jovet-Ast,name_w_authors,Cololejeunea azorica
 "Conticribra weissflogii (Grunow) Stachura-Suchoples & D.M. Williams,",name_w_authors,Conticribra weissflogii
@@ -25697,7 +25686,6 @@ Lanugothamnus curitybensis (Heering ex Malme) Deble,name_w_authors,Lanugothamnus
 Lanugothamnus erigeroides (DC.) Deble,name_w_authors,Lanugothamnus erigeroides
 Lanugothamnus lychnophorus (Gardner) Deble,name_w_authors,Lanugothamnus lychnophorus
 Lanugothamnus scabrifolius (G.Heiden) Deble,name_w_authors,Lanugothamnus scabrifolius
-Lanugothamnus suberectifolius (A.S.Oliveira & Deble) Deble,name_w_authors,Lanugothamnus suberectifolius
 Cladonia litoralis Gumboski & Eliasaro,name_w_authors,Cladonia litoralis
 "Cladonia dunensis Gumboski, Beilke & Eliasaro",name_w_authors,Cladonia dunensis
 Cladonia arbuscula (Wallr.) Flot.,name_w_authors,Cladonia arbuscula
@@ -26208,7 +26196,6 @@ Closterium moniliferum var. concavum Klebs,variety,Closterium moniliferum
 Closterium pseudolunula Borge var. pseudolunula,variety,Closterium pseudolunula
 Closterium pseudolunula Poljanski var. pseudolunula form. longius,forma,Closterium pseudolunula
 Nematanthus calcaratus Miq.,name_w_authors,Nematanthus calcaratus
-Adiantum senae Baker,name_w_authors,Adiantum senae
 Sporolithon molle (Heydrich) Heydrich,name_w_authors,Sporolithon molle
 Senegalia amorimii M. J. F. Barros & M. P. Morim,name_w_authors,Senegalia amorimii
 Senegalia grazielae M. J. F. Barros & M. P. Morim,name_w_authors,Senegalia grazielae
@@ -27558,6 +27545,7 @@ Wedelia attenuata (Gardner) B.L.Turner,name_w_authors,Wedelia attenuata
 Wedelia apensis (Chodat) B.L.Turner,name_w_authors,Wedelia apensis
 Aulographum tropicale Rehm,name_w_authors,Aulographum tropicale
 Cuphea reticulata var. aculeolata Koehne,variety,Cuphea reticulata
+Polyclypeolum africanum Bat. & Peres,name_w_authors,Polyclypeolum africanum
 Polyclypeolum maiae Bat.,name_w_authors,Polyclypeolum maiae
 Marasmius griseoroseus var. diminutus J. S. Oliveira & Capelari,variety,Marasmius griseoroseus
 Cuphea dusenii Koehne,name_w_authors,Cuphea dusenii
@@ -28229,6 +28217,7 @@ Cladonia subdelicatula Vain. ex Asahina,name_w_authors,Cladonia subdelicatula
 Cladonia subminiata S. Stenroos,name_w_authors,Cladonia subminiata
 Cladonia subradiata (Vain.) Sandst.,name_w_authors,Cladonia subradiata
 Gleichenia bifida var. nigropaleacea (Sturm) Rosenst.,variety,Gleichenia bifida
+Cladonia symphycarpia (Flörke) Fr.,name_w_authors,Cladonia symphycarpia
 Cladonia verticillaris (Raddi) Fr.,name_w_authors,Cladonia verticillaris
 Physarum hongkongense Chao Chung,name_w_authors,Physarum hongkongense
 Calathea applicata Jacob-Makoy ex É. Morren,name_w_authors,Calathea applicata
@@ -28502,7 +28491,6 @@ Serpicula repens var. brachypoda Welw. ex Hiern,variety,Serpicula repens
 Cabomba aubletii Michx.,name_w_authors,Cabomba aubletii
 Dimerostemma paneroi M.D. Moraes,name_w_authors,Dimerostemma paneroi
 Heteranthera alismoides Humb. ex Link,name_w_authors,Heteranthera alismoides
-Heterandra reniformis P.Beauv.,name_w_authors,Heterandra reniformis
 Heteranthera acuta Willd.,name_w_authors,Heteranthera acuta
 Lepidolejeunea cordifissa (Taylor) E.Reine,name_w_authors,Lepidolejeunea cordifissa
 Cabanisia caracasana Schltdl.,name_w_authors,Cabanisia caracasana
@@ -28581,7 +28569,6 @@ Lavoisiera cerifera Gardner,name_w_authors,Lavoisiera cerifera
 Lavoisiera glutinosa Cogn.,name_w_authors,Lavoisiera glutinosa
 Alternanthera flavescens Kunth,name_w_authors,Alternanthera flavescens
 Alternanthera villosa Kunth,name_w_authors,Alternanthera villosa
-Alternanthera pubiflora (Benth.) Kuntze,name_w_authors,Alternanthera pubiflora
 Lavoisiera confertiflora var. latifolia Cogn.,variety,Lavoisiera confertiflora
 Lavoisiera confertiflora var. longifolia (A. Gray) Cogn.,variety,Lavoisiera confertiflora
 Lavoisiera confertiflora var. parvifolia Cogn.,variety,Lavoisiera confertiflora
@@ -29587,6 +29574,7 @@ Phoradendron pennivenium Eichler,name_w_authors,Phoradendron pennivenium
 Jodina cuneifolia (L.) Miers,name_w_authors,Jodina cuneifolia
 Weinmannia parvifolia Ruiz ex D. Don,name_w_authors,Weinmannia parvifolia
 Maieta tococoidea (DC.) Cogn.,name_w_authors,Maieta tococoidea
+Aechmea chantini Baker,name_w_authors,Aechmea chantini
 Terminalia adamantium Cambess.,name_w_authors,Terminalia adamantium
 Artanthe mollicoma (Kunth) Miq.,name_w_authors,Artanthe mollicoma
 Calathea densa (Linden ex K.Koch) Regel,name_w_authors,Calathea densa
@@ -29598,6 +29586,7 @@ Datura guayaquilensis Kunth,name_w_authors,Datura guayaquilensis
 Rhaphidostegium panduraefolium Broth.,name_w_authors,Rhaphidostegium panduraefolium
 Cabralea pallescens C.DC.,name_w_authors,Cabralea pallescens
 Trianosperma triangularis Cogn.,name_w_authors,Trianosperma triangularis
+Psychotria beskeana (Schltdl.) Müll.Arg.,name_w_authors,Psychotria beskeana
 Trigonia najadum Warming.,name_w_authors,Trigonia najadum
 Bauhinia bongardii Steudel,name_w_authors,Bauhinia bongardii
 Warszewiczella candida (Lindl.) Rchb.f.,name_w_authors,Warszewiczella candida
@@ -29605,10 +29594,6 @@ Artanthe chavicoides Miq.,name_w_authors,Artanthe chavicoides
 Vriesea aerisincola Mez,name_w_authors,Vriesea aerisincola
 Calathea leucostachys Hook.f.,name_w_authors,Calathea leucostachys
 Hippocratea aggregata Peyr.,name_w_authors,Hippocratea aggregata
-Nicotiana flexuosa Jeffrey,name_w_authors,Nicotiana flexuosa
-Lacis fucoides Mart. & Zucc.,name_w_authors,Lacis fucoides
-Combretum bugi Cambess.,name_w_authors,Combretum bugi
-Cassia blancheti Benth.,name_w_authors,Cassia blancheti
 Plantago sodiroana Pilg.,name_w_authors,Plantago sodiroana
 Christensonella neuwiedii Não existe,name_w_authors,Christensonella neuwiedii
 Hydrolea cervantesii Brand,name_w_authors,Hydrolea cervantesii
@@ -29620,7 +29605,7 @@ Peperomia salvaje C.DC.,name_w_authors,Peperomia salvaje
 Urostigma fulvum Miquel,name_w_authors,Urostigma fulvum
 Modiola lateritia (Hook.) K Schum,name_w_authors,Modiola lateritia
 Datura arborea L.,name_w_authors,Datura arborea
-Catasetum ×splendens Cogn.,indet,Catasetum
+Catasetum ×splendens Cogn.,hybrid_species,Catasetum ×splendens
 Xylosma benthami (Tul.) Triana & Planch.,name_w_authors,Xylosma benthami
 Peperomia reniformis Hook.,name_w_authors,Peperomia reniformis
 Rhipsalis mesembrianthemoides Haw.,name_w_authors,Rhipsalis mesembrianthemoides
@@ -29723,6 +29708,7 @@ Nidularium campos-portoi (L.B.Sm.) Wand. & B.A.Moreira,name_w_authors,Nidularium
 Escallonia concinna Phil.,name_w_authors,Escallonia concinna
 Phaseolus crassifolius Mart. ex Benth.,name_w_authors,Phaseolus crassifolius
 Sisyrinchium berteroanum Phil.,name_w_authors,Sisyrinchium berteroanum
+Cuphea pseudo-vaccinium A. Saint-HIlaire,name_w_authors,Cuphea pseudo-vaccinium
 Sorindeia aurantiodora Ruiz ex Engl.,name_w_authors,Sorindeia aurantiodora
 Trigonia schottiana Warm.,name_w_authors,Trigonia schottiana
 Calospermum mammosum (L.) Pierre,name_w_authors,Calospermum mammosum
@@ -29808,6 +29794,7 @@ Amaryllis ambigua Sweet,name_w_authors,Amaryllis ambigua
 Calathea nigro-costata Linden & André,name_w_authors,Calathea nigro-costata
 Notocactus megapotamicus Osten ex Herter,name_w_authors,Notocactus megapotamicus
 Brachypterys borealis A.Juss.,name_w_authors,Brachypterys borealis
+Psychotria densecostata Müll. Arg.,name_w_authors,Psychotria densecostata
 Vicia obscura Vogel,name_w_authors,Vicia obscura
 Cedrela paraguariensis Mart.,name_w_authors,Cedrela paraguariensis
 Selaginella excurrens Spring,name_w_authors,Selaginella excurrens
@@ -29820,6 +29807,7 @@ Portulaca schenkii Poelln.,name_w_authors,Portulaca schenkii
 Solanum mexicanum Sesse & Moc.,name_w_authors,Solanum mexicanum
 Artanthe jussiaeana (Kunth) Miq.,name_w_authors,Artanthe jussiaeana
 Miconia theizans (Bonpl.) Cogn.,name_w_authors,Miconia theizans
+Psychotria aurata Não existe,name_w_authors,Psychotria aurata
 Bastardia conferta Garcke & K.Schum.,name_w_authors,Bastardia conferta
 Pilea dauciodoba Wedd.,name_w_authors,Pilea dauciodoba
 Calathea cinerea (Linden) Regel,name_w_authors,Calathea cinerea
@@ -29956,6 +29944,7 @@ Coussapoa fontanesiana Trécul,name_w_authors,Coussapoa fontanesiana
 Trianosperma angustiloba Cogn.,name_w_authors,Trianosperma angustiloba
 Sponia micrantha L.,name_w_authors,Sponia micrantha
 Echinopsis tubiflora (Pfeiff.) Zucc. ex A.Dietr.,name_w_authors,Echinopsis tubiflora
+Canna sylvestris Roscoe,name_w_authors,Canna sylvestris
 Sphagnum squarrosum Crome,name_w_authors,Sphagnum squarrosum
 Bertolonia ovata A.DC.,name_w_authors,Bertolonia ovata
 Schinus dependens Ortega,name_w_authors,Schinus dependens
@@ -30048,6 +30037,7 @@ Psiloclada brasiliensis Steph.,name_w_authors,Psiloclada brasiliensis
 Polypodium tovarense Klotzsch,name_w_authors,Polypodium tovarense
 Peperomia nummularifolia (Sw.) Kunth,name_w_authors,Peperomia nummularifolia
 Campylocentrum callistachyum Cogn.,name_w_authors,Campylocentrum callistachyum
+Costus uniflorus Poepp. ex Petersen,name_w_authors,Costus uniflorus
 Artanthe rivinoides (Kunth) Miq.,name_w_authors,Artanthe rivinoides
 Talinum reflexum Cav.,name_w_authors,Talinum reflexum
 Hymenophyllum protrusum Hook.,name_w_authors,Hymenophyllum protrusum
@@ -30068,6 +30058,7 @@ Triplaris crenata Casar.,name_w_authors,Triplaris crenata
 Conomorpha nemoralis (Mart.) Mart. & Miq.,name_w_authors,Conomorpha nemoralis
 Ischnosiphon orbiculatus Körn.,name_w_authors,Ischnosiphon orbiculatus
 Polypodium hirsutulum G. Forst.,name_w_authors,Polypodium hirsutulum
+Cuphea fuchsiaefolia A. St. Hilaire,name_w_authors,Cuphea fuchsiaefolia
 Artanthe guianensis Klotzsch,name_w_authors,Artanthe guianensis
 Bauhinia choriophylla Vogel,name_w_authors,Bauhinia choriophylla
 Macairea rufescens DC.,name_w_authors,Macairea rufescens
@@ -30119,6 +30110,7 @@ Passiflora wallisii Mast.,name_w_authors,Passiflora wallisii
 Weinmannia laurina Kunth.,name_w_authors,Weinmannia laurina
 Urostigma pertusum (L.f.) Miquel,name_w_authors,Urostigma pertusum
 Alloplectus angustifolius DC.,name_w_authors,Alloplectus angustifolius
+Cololejeunea tuberculata A.Evans,name_w_authors,Cololejeunea tuberculata
 Artanthe macrostachya C. Presl,name_w_authors,Artanthe macrostachya
 Dolichodeira tubiflora (Hook.) Hanst.,name_w_authors,Dolichodeira tubiflora
 Paepalanthus ruprechtianus Koernicke,name_w_authors,Paepalanthus ruprechtianus
@@ -30295,6 +30287,7 @@ Hydrocotyle brasiliensis Scheidw. ex Otto & F. Dietr.,name_w_authors,Hydrocotyle
 Artanthe cearensis Miq.,name_w_authors,Artanthe cearensis
 Lycopodium jussieui Poir.,name_w_authors,Lycopodium jussieui
 Urostigma angustifolium Miquel,name_w_authors,Urostigma angustifolium
+Costus argenteus Ruiz et Pav.,name_w_authors,Costus argenteus
 Typha elongata Dudley,name_w_authors,Typha elongata
 Salix chilensis Molina,name_w_authors,Salix chilensis
 Acanthella conferta Cogn.,name_w_authors,Acanthella conferta
@@ -30460,6 +30453,7 @@ Salacia elliptica var. genuina (Mart.) G.Don,variety,Salacia elliptica
 Trembleya laniflora var. genuina Cogn.,variety,Trembleya laniflora
 Trembleya phlogiformis var. genuina Cogn.,variety,Trembleya phlogiformis
 Valeriana scandens var. genuina L.,variety,Valeriana scandens
+Phyllanthus graveolens var. genuinus (Kunth) Müll. Arg.,variety,Phyllanthus graveolens
 Capparis verrucosa var. glaberrima Jacq.,variety,Capparis verrucosa
 Bredemeyera densiflora var. glabra A.W.Benn.,variety,Bredemeyera densiflora
 Frangula polymorpha var. glabra Reissek,variety,Frangula polymorpha
@@ -30595,6 +30589,7 @@ Evolvulus glomeratus var. obtusus Meisn.,variety,Evolvulus glomeratus
 Ceratophyllum demersum var. pentacanthum L.,variety,Ceratophyllum demersum
 Ternstroemia dentata var. opaca (Aubl.) Sw.,variety,Ternstroemia dentata
 Iriartea exorrhiza var. orbigniana (Mart.) Drude,variety,Iriartea exorrhiza
+Phyllanthus microphyllus var. orbignyanus Kunth,variety,Phyllanthus microphyllus
 Corchorus hirtus var. orinocensis L.,variety,Corchorus hirtus
 Combretum loeflingii subsp. ornithophilum Suess.,subspecies,Combretum loeflingii
 Combretum jacquinii form. ovatifolium (Pohl) Eichler,forma,Combretum jacquinii
@@ -31086,7 +31081,7 @@ Polygala rostrata Chodat,name_w_authors,Polygala rostrata
 "Mimosa osmarii L. Jordão, M.P. Morim, Baumgratz & Marc. F. Simon",name_w_authors,Mimosa osmarii
 Ayenia cristobaliana (Dorr) Christenh. & Byng,name_w_authors,Ayenia cristobaliana
 Tanaecium decorticans Frazão & L.G.Lohmann,name_w_authors,Tanaecium decorticans
-Drosera ×fontinalis Rivadavia,indet,Drosera
+Drosera ×fontinalis Rivadavia,hybrid_species,Drosera ×fontinalis
 Ayenia asterotricha (Mildbr.) Byng. & Christenh.,name_w_authors,Ayenia asterotricha
 Ayenia catalpifolia (Jacq.) Byng. & Christenh.,name_w_authors,Ayenia catalpifolia
 Ayenia glazioui (Hochr.) Byng. & Christenh.,name_w_authors,Ayenia glazioui
@@ -31127,10 +31122,10 @@ Campuloclinium scabrum (Klatt) J.Calvo & Roque,name_w_authors,Campuloclinium sca
 "Scleria amazonica Camelb., M.T. Srong & Goetgh.",name_w_authors,Scleria amazonica
 Peridinium uberrimum G.J. Allman,name_w_authors,Peridinium uberrimum
 Gymnodinium pusillum A.J.Schilling,name_w_authors,Gymnodinium pusillum
-Catasetum ×guianense G.A. Romero & Jenny,indet,Catasetum
+Catasetum ×guianense G.A. Romero & Jenny,hybrid_species,Catasetum ×guianense
 "Parvodinium africanum var. javanicum K. P. Cavalcante, Craveiro, Calado & L. S. Cardoso",variety,Parvodinium africanum
 Alexandrium tamarense (Lebour) Balech,name_w_authors,Alexandrium tamarense
-Catasetum ×dasilvae K.G.Lacerda & V.P.Castro,indet,Catasetum
+Catasetum ×dasilvae K.G.Lacerda & V.P.Castro,hybrid_species,Catasetum ×dasilvae
 Aspidosperma helstonei Donsel.,name_w_authors,Aspidosperma helstonei
 Byttneria catalpifolia subsp. sidaefolia (A.St.-Hil.) Cristóbal,subspecies,Byttneria catalpifolia
 Raveniopsis peduncularis Pittier & Lasser,name_w_authors,Raveniopsis peduncularis
@@ -31250,7 +31245,6 @@ Fosterella liliputiana Leme & Forza,name_w_authors,Fosterella liliputiana
 Plantago veadeirensis Hassemer,name_w_authors,Plantago veadeirensis
 "Andropogon saxicola A.Zanin,P.L.Viana,Welker & Filg.",name_w_authors,Andropogon saxicola
 "Fosterella atlantica Leme, O.B.C. Ribeiro & Forzza",name_w_authors,Fosterella atlantica
-Fosterella bodoquenensis Leme & Forzza,name_w_authors,Fosterella bodoquenensis
 "Trembleya altoparaisensis R. Pacifico, Almeda & Fidanza",name_w_authors,Trembleya altoparaisensis
 "Hyptidendron roseum Antar, Harley & J.F.B.Pastore",name_w_authors,Hyptidendron roseum
 Aristida subaequans Doell,name_w_authors,Aristida subaequans
@@ -31550,24 +31544,24 @@ Scleria georgiana subsp. australis A.C.Araújo,subspecies,Scleria georgiana
 Viscum rubrum L.,name_w_authors,Viscum rubrum
 "Gomesa caatingana J.M.P.Cordeiro, L.P.Félix & M.W.Chase",name_w_authors,Gomesa caatingana
 Lophophytum leandrii Eichler,name_w_authors,Lophophytum leandrii
-Catasetum ×riotianum V.P.Castro,indet,Catasetum
-Catasetum ×mesquitae U.L.C.Ferreira,indet,Catasetum
+Catasetum ×riotianum V.P.Castro,hybrid_species,Catasetum ×riotianum
+Catasetum ×mesquitae U.L.C.Ferreira,hybrid_species,Catasetum ×mesquitae
 Catasetum tomasellii Campacci & J.B.F.Silva,name_w_authors,Catasetum tomasellii
 "Catasetum sophiae Valsko, Krahl & Benelli",name_w_authors,Catasetum sophiae
 Helosis cayennensis (Sw.) Spreng.,name_w_authors,Helosis cayennensis
-Catasetum ×evangelistae V.P.Castro & G.F.Carr,indet,Catasetum
+Catasetum ×evangelistae V.P.Castro & G.F.Carr,hybrid_species,Catasetum ×evangelistae
 Catasetum brevilobatum Chiron & Marçal,name_w_authors,Catasetum brevilobatum
-Catasetum ×perazolianum K.G.Lacerda & V.P.Castro,indet,Catasetum
+Catasetum ×perazolianum K.G.Lacerda & V.P.Castro,hybrid_species,Catasetum ×perazolianum
 Cordia digyna Vell.,name_w_authors,Cordia digyna
-Catasetum ×pohlianum V.P.Castro & Campacci,indet,Catasetum
+Catasetum ×pohlianum V.P.Castro & Campacci,hybrid_species,Catasetum ×pohlianum
 Cordia coffeoides Warm.,name_w_authors,Cordia coffeoides
-Catasetum ×lucasianum L.C.Menezes & V.P.Castro,indet,Catasetum
+Catasetum ×lucasianum L.C.Menezes & V.P.Castro,hybrid_species,Catasetum ×lucasianum
 Catasetum caatingense Marçal & Chiron,name_w_authors,Catasetum caatingense
 Catasetum brevilobatum Marçal & Chiron,name_w_authors,Catasetum brevilobatum
 Catasetum schunkei Dodson & D.E.Benn,name_w_authors,Catasetum schunkei
-Catasetum ×nogueirae U.L.C.Ferreira,indet,Catasetum
-Catasetum ×santo-antoniense U.L.C.Ferreira & R.M.C.Filho,indet,Catasetum
-Catasetum ×crassispinum U.L.C.Ferreira,indet,Catasetum
+Catasetum ×nogueirae U.L.C.Ferreira,hybrid_species,Catasetum ×nogueirae
+Catasetum ×santo-antoniense U.L.C.Ferreira & R.M.C.Filho,hybrid_species,Catasetum ×santo-antoniense
+Catasetum ×crassispinum U.L.C.Ferreira,hybrid_species,Catasetum ×crassispinum
 Viscum clavatum Benth.,name_w_authors,Viscum clavatum
 Phoradendron clavatum (Benth.) Eichler,name_w_authors,Phoradendron clavatum
 Viscum ellipticum Gardner,name_w_authors,Viscum ellipticum
@@ -31817,7 +31811,7 @@ Pteridium esculentum subsp. arachnoideum (Kaulf.) Thomson,subspecies,Pteridium e
 Pteridium esculentum subsp. campestre (Schrad.) Schwartsb. & J Prado,subspecies,Pteridium esculentum
 Pteridium esculentum subsp. gryphus Schwartsb.,subspecies,Pteridium esculentum
 Dyckia incana O.B.C.Ribeiro & Leme,name_w_authors,Dyckia incana
-Dyckia concecionensis O.B.C.Ribeiro & Leme,name_w_authors,Dyckia concecionensis
+Dyckia conceicionensis O.B.C.Ribeiro & Leme,name_w_authors,Dyckia conceicionensis
 Maytenus boaria var. latifolia Reissek,variety,Maytenus boaria
 Monteverdia guyanensis (Klotzsch ex Reissek) Biral,name_w_authors,Monteverdia guyanensis
 Tephrosia chaquenha  R.T. Queiroz & A.M.G. Azevedo,name_w_authors,Tephrosia chaquenha
@@ -31880,7 +31874,7 @@ Lytoneuron tijucanum (Brade & Rosenst.) Yesilyurt,name_w_authors,Lytoneuron tiju
 Salvinia auriculata Aubl. var. auriculata,variety,Salvinia auriculata
 Salvinia auriculata var. major C.V.Miranda & Schwartsb.,variety,Salvinia auriculata
 Syzygiella contigua Steph.,name_w_authors,Syzygiella contigua
-Salvinia ×delasotae C.V. Miranda & Schwartsb.,indet,Salvinia
+Salvinia ×delasotae C.V. Miranda & Schwartsb.,hybrid_species,Salvinia ×delasotae
 Salvinia cucullata Roxb. ex Bory & Bél.,name_w_authors,Salvinia cucullata
 Salvinia radula Baker,name_w_authors,Salvinia radula
 "Salpichlaena papyrus G.G. Cárdenas, Tuomisto & Lehtonen",name_w_authors,Salpichlaena papyrus
@@ -32271,6 +32265,8 @@ Chamaedorea ruizii H. Wendl. ex Dammer,name_w_authors,Chamaedorea ruizii
 Chamaedorea schiedeana hort.,name_w_authors,Chamaedorea schiedeana
 Chamaedorea sphaerocarpa Burret,name_w_authors,Chamaedorea sphaerocarpa
 Chamaedorea vanninii Cascante & Fred Mull.,name_w_authors,Chamaedorea vanninii
+Chamaedorea velutina hort.,name_w_authors,Chamaedorea velutina
+Chamaedorea verschaffelti hort.,name_w_authors,Chamaedorea verschaffelti
 Chamaedorea vistae Hodel & N.W. Uhl,name_w_authors,Chamaedorea vistae
 Chamaedorea weberbaueri Dammer ex Burret,name_w_authors,Chamaedorea weberbaueri
 "Rhynchospora chapadensis Silva Filho, Thomas & Boldrini",name_w_authors,Rhynchospora chapadensis
@@ -32281,6 +32277,7 @@ Ficus panurensis Standl.,name_w_authors,Ficus panurensis
 Chamaedorea wendlandii H. Wendl.,name_w_authors,Chamaedorea wendlandii
 Micranthocereus flaviflorus subsp. alvinii M.Machado & Hofacker) Lodé,subspecies,Micranthocereus flaviflorus
 Chamaedorea wendlandii Schaedtler,name_w_authors,Chamaedorea wendlandii
+Chamaedorea wobstiana hort.,name_w_authors,Chamaedorea wobstiana
 Hyospathe chiriqui Schaedtler,name_w_authors,Hyospathe chiriqui
 Hyospathe elata hort. ex Hook. f.,name_w_authors,Hyospathe elata
 Euterpe andicola Brongn. ex Mart.,name_w_authors,Euterpe andicola
@@ -32298,7 +32295,6 @@ Staphylea heterophylla Ruiz & Pav.,name_w_authors,Staphylea heterophylla
 Cypella brachypus Baker,name_w_authors,Cypella brachypus
 Danaea sellowiana C. Presl,name_w_authors,Danaea sellowiana
 Euphorbia adenoplicata O.L.M. Silva & Cordeiro,name_w_authors,Euphorbia adenoplicata
-Pseudotrimezia juncifolia subsp. speciosa Ravenna,subspecies,Pseudotrimezia juncifolia
 Calea diamantinensis G.A. Reis-Silva & J.N. Nakaj.,name_w_authors,Calea diamantinensis
 Tofieldia schomburgkiana Oliv.,name_w_authors,Tofieldia schomburgkiana
 Tofieldia guianensis (Klotzsch) R.Schulze,name_w_authors,Tofieldia guianensis
@@ -32433,7 +32429,7 @@ Maxillaria turialbae Schltr.,name_w_authors,Maxillaria turialbae
 Maxillaria condensata C.Schweinf.,name_w_authors,Maxillaria condensata
 Laricorchis condensata (C.Schweinf.) Szlach. & Sitko,name_w_authors,Laricorchis condensata
 Laricorchis maripiensis (Kraenzl.) Szlach. & Sitko,name_w_authors,Laricorchis maripiensis
-Neourbania alticula (C.Schweinf.) Szlach. & Sitko,name_w_authors,Neourbania alticula
+Neourbania alticola (C.Schweinf.) Szlach. & Sitko,name_w_authors,Neourbania alticola
 Camaridium multicaule (Poepp. & Endl.) Hoehne,name_w_authors,Camaridium multicaule
 Siagonanthus multicaulis Poepp. & Endl.,name_w_authors,Siagonanthus multicaulis
 Aucellia ruberrima (Lindl.) Szlach. & Sitko,name_w_authors,Aucellia ruberrima
@@ -32515,7 +32511,7 @@ Victoria regia var. cruziana (Orb.) G.Lawson,variety,Victoria regia
 Victoria crusiana Orb.,name_w_authors,Victoria crusiana
 Victoria trickeri (Malme) Mutzek,name_w_authors,Victoria trickeri
 Victoria cruziana Orb. f. cruziana,forma,Victoria cruziana
-Victoria cruziana f. trickeri Malme,forma,Victoria cruziana
+Victoria cruziana f. mattogrossensis Malme,forma,Victoria cruziana
 Victoria amazonica Planch. ex Casp.,name_w_authors,Victoria amazonica
 Victoria reginae Hook.,name_w_authors,Victoria reginae
 Victoria amazonum Klotzsch,name_w_authors,Victoria amazonum
@@ -32577,3 +32573,67 @@ Cocos plumosa Lodd. ex Loudon,name_w_authors,Cocos plumosa
 Cocos regalis Liebm.,name_w_authors,Cocos regalis
 Nymphaea planchonii Casp. ex Conard,name_w_authors,Nymphaea planchonii
 Ficus mima Standl.,name_w_authors,Ficus mima
+Gayliella iemanja Barros-Barreto & F.P. Gomes,name_w_authors,Gayliella iemanja
+Leuconymphaea odorata (Aiton) MacMill.,name_w_authors,Leuconymphaea odorata
+Leuconymphaea parkeriana (Lehm.) Kuntze,name_w_authors,Leuconymphaea parkeriana
+Leuconymphaea reniformis (Walter) Kuntze,name_w_authors,Leuconymphaea reniformis
+Castalia alba Wood,name_w_authors,Castalia alba
+Castalia lekophylla Small,name_w_authors,Castalia lekophylla
+Castalia minor (Sims) Nyár.,name_w_authors,Castalia minor
+Castalia odorata (Aiton) Wood,name_w_authors,Castalia odorata
+Collinia deppeana Klotzsch,name_w_authors,Collinia deppeana
+Collinia humilis Liebm. ex Oerst.,name_w_authors,Collinia humilis
+Discoma glaucifolia (H. Wendl.) O.F. Cook,name_w_authors,Discoma glaucifolia
+Castalia odorata (Aiton) Wood var. odorata,variety,Castalia odorata
+Castalia odorata var. gigantea (Tricker) Fernald,variety,Castalia odorata
+Castalia odorata var. latifolia R.M.Harper,variety,Castalia odorata
+Castalia odorata var. minor (Sims) Cockerell,variety,Castalia odorata
+Castalia odorata (Aiton) Wood f. odorata,forma,Castalia odorata
+Castalia odorata f. rosea (Pursh) Britton,forma,Castalia odorata
+Castalia pringlei Rose,name_w_authors,Castalia pringlei
+Castalia pudica Salisb.,name_w_authors,Castalia pudica
+Castalia reniformis (Walter) Trel. ex Branner & Coville,name_w_authors,Castalia reniformis
+Nymphaea lekophylla (Small) Cory,name_w_authors,Nymphaea lekophylla
+Nymphaea odorata var. glabra Casp.,variety,Nymphaea odorata
+Nymphaea odorata Aiton subsp. odorata,subspecies,Nymphaea odorata
+Nymphaea odorata subsp. tuberosa (Paine) Wiersema & Hellq.,subspecies,Nymphaea odorata
+Castalia tuberosa (Paine) Greene,name_w_authors,Castalia tuberosa
+Stephanostachys casperiana (Klotzsch) Oerst.,name_w_authors,Stephanostachys casperiana
+Stephanostachys wendlandiana Oerst.,name_w_authors,Stephanostachys wendlandiana
+Stachyophorbe cataractum (Mart.) Liebm. ex Klotzsch,name_w_authors,Stachyophorbe cataractum
+Stachyophorbe deckeriana Klotzsch,name_w_authors,Stachyophorbe deckeriana
+Stachyophorbe filipes O.F.Cook,name_w_authors,Stachyophorbe filipes
+Stachyophorbe montana Liebm. ex Oerst.,name_w_authors,Stachyophorbe montana
+Stachyophorbe montana Liebm.,name_w_authors,Stachyophorbe montana
+Spathoscaphe arenbergiana (H.Wendl.) Oerst.,name_w_authors,Spathoscaphe arenbergiana
+Paranthe violacea .F.Cook,name_w_authors,Paranthe violacea
+Eleutheropetalum ernesti-augusti (H. Wendl.) Oerst.,name_w_authors,Eleutheropetalum ernesti-augusti
+Kinetostigma nana (N.E. Br.) Burret,name_w_authors,Kinetostigma nana
+Meiota campechana O.F.Cook,name_w_authors,Meiota campechana
+Lobia erosa O.F.Cook,name_w_authors,Lobia erosa
+Nunnezharia biloba (H.Wendl.) Kuntze,name_w_authors,Nunnezharia biloba
+Neanthe elegans (Mart.) O.F.Cook,name_w_authors,Neanthe elegans
+Neanthe neesiana O.F. Cook,name_w_authors,Neanthe neesiana
+Morenia corallifera hort. in Ruffo,name_w_authors,Morenia corallifera
+Sauvetrea bomboizensis (Dodson) M.A.Blanco,name_w_authors,Sauvetrea bomboizensis
+Mormolyca acutifolia (Lindl.) M.A.Blanco,name_w_authors,Mormolyca acutifolia
+Morenia latisecta H.E. Moore ex L.H. Bailey,name_w_authors,Morenia latisecta
+Morenia lechleriana H. A. Wendland ex Dammer,name_w_authors,Morenia lechleriana
+Morenia microspadix Burret,name_w_authors,Morenia microspadix
+Dasystachys deckeriana (Klotzsch) Oerst.,name_w_authors,Dasystachys deckeriana
+Cololejeunea jamesii (Austin) M.E.Reiner & Pócs,name_w_authors,Cololejeunea jamesii
+Nunnezharia wendlandiana (Oerst.) Kuntze,name_w_authors,Nunnezharia wendlandiana
+Nunnezharia schiedeana (Mart.) Kuntze,name_w_authors,Nunnezharia schiedeana
+Nunnezharia velutina (H.Wendl.) Kuntze,name_w_authors,Nunnezharia velutina
+Nunnezharia humilis (Liebm. ex Oerst.) Kuntze,name_w_authors,Nunnezharia humilis
+"Pleroma cucullatum F.S.Mey., Fraga & R.Goldenb.",name_w_authors,Pleroma cucullatum
+Cuphea calophylla var. calophylla f. plumbaginea (Mart.) Koehne,forma,Cuphea calophylla
+Cuphea orthodisca Koehne,name_w_authors,Cuphea orthodisca
+"Zephyranthes botumirimensis (R.S.Oliveira) R.S.Oliveira & Dutilh,",name_w_authors,Zephyranthes botumirimensis
+Amaranthus bahiensis Mart.,name_w_authors,Amaranthus bahiensis
+Pachira mawarinumae (Steyerm.) W.S. Alverson,name_w_authors,Pachira mawarinumae
+Maxillaria picta var. major F.Buyss.,variety,Maxillaria picta
+Carapichea klugii (Standl.) C.M. Taylor,name_w_authors,Carapichea klugii
+Nunnezharia lepidota (H.Wendl.) Kuntze,name_w_authors,Nunnezharia lepidota
+Nunnezharia liebmannii (Mart.) Kuntze,name_w_authors,Nunnezharia liebmannii
+Nunnezharia montana (Humb. & Bonpl.) Kuntze,name_w_authors,Nunnezharia montana

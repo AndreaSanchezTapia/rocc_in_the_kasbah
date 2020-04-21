@@ -854,7 +854,6 @@ id,scientificName,names_wo_author
 9545,Leandra glabrata (Bunbury) Cogn.,Leandra glabrata
 9546,Leandra glazioviana Cogn.,Leandra glazioviana
 9552,Leandra hirtella Cogn.,Leandra hirtella
-9559,Leandra lancifolia Cogn.,Leandra lancifolia
 9587,Leandra oblongifolia Cogn.,Leandra oblongifolia
 9591,Leandra paulina DC.,Leandra paulina
 9593,Leandra pennipilis (Triana) Cogn.,Leandra pennipilis
@@ -1086,7 +1085,7 @@ id,scientificName,names_wo_author
 11149,Aspidogyne lindleyana (Cogn.) Garay,Aspidogyne lindleyana
 11180,Barbosella crassifolia (Edwall) Schltr.,Barbosella crassifolia
 11182,Barbosella gardneri (Lindl.) Schltr.,Barbosella gardneri
-11192,Bifrenaria aureofulva Lindl.,Bifrenaria aureofulva
+11192,Bifrenaria aureofulva (Hook.) Lindl.,Bifrenaria aureofulva
 11229,Brassavola flagellaris Barb.Rodr.,Brassavola flagellaris
 11239,Bulbophyllum chloroglossum Rchb.f. & Warm.,Bulbophyllum chloroglossum
 11240,Bulbophyllum chloropterum Rchb.f.,Bulbophyllum chloropterum
@@ -1420,7 +1419,6 @@ id,scientificName,names_wo_author
 13923,Declieuxia tenuiflora (Willd. ex Roem. & Schult.) Steyerm. & J.H.Kirkbr.,Declieuxia tenuiflora
 13944,Faramea aristata Müll.Arg.,Faramea aristata
 13956,Faramea cordifolia Glaz.,Faramea cordifolia
-13977,Faramea nigrescens Mart.,Faramea nigrescens
 13978,Faramea nitida Benth.,Faramea nitida
 14001,Galianthe angustifolia (Cham. & Schltdl.) E.L.Cabral,Galianthe angustifolia
 14004,Galianthe cymosa (Cham.) E.L.Cabral & Bacigalupo,Galianthe cymosa
@@ -1488,7 +1486,7 @@ id,scientificName,names_wo_author
 14211,Psychotria rhytidocarpa Müll.Arg.,Psychotria rhytidocarpa
 14212,Psychotria ruelliifolia (Cham. & Schltdl.) Müll.Arg.,Psychotria ruelliifolia
 14213,Psychotria rupestris Müll.Arg.,Psychotria rupestris
-14214,Psychotria schlechtendaliana (Müll.Arg.) Müll.Arg.,Psychotria schlechtendaliana
+14214,Psychotria schlechtendaliana Müll. Arg.,Psychotria schlechtendaliana
 14215,Psychotria schottiana Müll.Arg.,Psychotria schottiana
 14216,Psychotria setulifera C.M.Taylor,Psychotria setulifera
 14217,Psychotria spathicalyx Müll.Arg.,Psychotria spathicalyx
@@ -2053,7 +2051,7 @@ id,scientificName,names_wo_author
 16044,Catolesia mentiens D.J.N.Hind,Catolesia mentiens
 16048,Chaptalia chapadensis D.J.N.Hind,Chaptalia chapadensis
 16049,Chaptalia denticulata (Baker) Zardini,Chaptalia denticulata
-16053,Chromolaena alvimii R.M.King & H.Rob.,Chromolaena alvimii
+16053,Chromolaena alvimii R.M. King & H.Robinson,Chromolaena alvimii
 16054,Chromolaena cinereoviridis (Sch.Bip. ex Baker) R.M.King & H.Rob.,Chromolaena cinereoviridis
 16055,Chromolaena congesta (Hook. & Arn.) R.M.King & H.Rob.,Chromolaena congesta
 16056,Chromolaena cylindrocephala (Sch.Bip. ex Baker) R.M.King & H.Rob.,Chromolaena cylindrocephala
@@ -2895,7 +2893,6 @@ id,scientificName,names_wo_author
 19547,Pavonia macrostyla Gürke,Pavonia macrostyla
 19550,Pavonia piauhyensis Ulbr.,Pavonia piauhyensis
 19552,Pavonia rosa-campestris A.St.-Hil.,Pavonia rosa-campestris
-19559,Sida acuminata DC.,Sida acuminata
 19560,Sida aurantiaca A.St.-Hil.,Sida aurantiaca
 19563,Sida glutinosa Comm. ex Cav.,Sida glutinosa
 19564,Sida linearifolia A.St.-Hil.,Sida linearifolia
@@ -3724,7 +3721,7 @@ id,scientificName,names_wo_author
 25750,Helicteres corylifolia Nees & Mart.,Helicteres corylifolia
 25752,Helicteres muscosa Mart.,Helicteres muscosa
 25754,Melochia betonicifolia A.St.-Hil.,Melochia betonicifolia
-25757,Pachira retusa (Mart.& Zucc.) Fern.Alonso,Pachira retusa
+25757,Pachira retusa (Mart.) Fern.Alonso,Pachira retusa
 25759,Pavonia grazielae Krapov.,Pavonia grazielae
 25761,Pseudobombax campestre (Mart.) A.Robyns,Pseudobombax campestre
 25762,"Pseudobombax marginatum (A.St.-Hil., Juss. & Cambess.) A.Robyns",Pseudobombax marginatum
@@ -5474,7 +5471,6 @@ id,scientificName,names_wo_author
 29545,Clitoria laurifolia Poir.,Clitoria laurifolia
 29546,Clitoria rubiginosa Juss. ex Pers.,Clitoria rubiginosa
 29558,Crotalaria breviflora DC.,Crotalaria breviflora
-29559,Crotalaria breviflora var. pohliana (Benth.) Windler,Crotalaria breviflora
 29561,Crotalaria flavicoma Benth.,Crotalaria flavicoma
 29563,Crotalaria goiasensis Windler & S.G.Skinner,Crotalaria goiasensis
 29564,Crotalaria grandiflora Benth.,Crotalaria grandiflora
@@ -5989,8 +5985,7 @@ id,scientificName,names_wo_author
 30686,Leandra adamantinensis Brade,Leandra adamantinensis
 30687,Leandra adenothrix Cogn.,Leandra adenothrix
 30688,Leandra coriacea Cogn.,Leandra coriacea
-30689,Leandra deflexa (Triana) Cogn.,Leandra deflexa
-30691,Leandra lacunosa Cogn.,Leandra lacunosa
+30689,Leandra deflexa (O.Berg ex Tiana) Cogn.,Leandra deflexa
 30692,Leandra oligochaeta (Cham.) Cogn.,Leandra oligochaeta
 30693,Leandra rigida Cogn.,Leandra rigida
 30695,Leandra subobruta Wurdack,Leandra subobruta
@@ -7180,6 +7175,7 @@ id,scientificName,names_wo_author
 35205,Rhynchospora pluricarpa Pilg.,Rhynchospora pluricarpa
 35206,Rhynchospora plusquamrobusta Luceño & M.Martins,Rhynchospora plusquamrobusta
 35213,Rhynchospora riedeliana C.B.Clarke,Rhynchospora riedeliana
+35226,Rhynchospora subtilis Boeckeler,Rhynchospora subtilis
 35229,Rhynchospora testacea Boeckeler,Rhynchospora testacea
 35232,Rhynchospora urbanii Boeckeler,Rhynchospora urbanii
 35233,Rhynchospora widgrenii Boeckeler,Rhynchospora widgrenii
@@ -7562,7 +7558,6 @@ id,scientificName,names_wo_author
 37084,Myrcia irwinii Mattos & D.Legrand,Myrcia irwinii
 37086,Myrcia lapensis N.Silveira,Myrcia lapensis
 37089,Myrcia lateriflora Kiaersk.,Myrcia lateriflora
-37096,Myrcia marginata O.Berg,Myrcia marginata
 37097,Myrcia microphylla O.Berg,Myrcia microphylla
 37099,Myrcia nigricans (O.Berg) N.Silveira,Myrcia nigricans
 37100,Myrcia nitida Cambess.,Myrcia nitida
@@ -7854,6 +7849,7 @@ id,scientificName,names_wo_author
 38496,Phyllanthus avicularis Müll.Arg.,Phyllanthus avicularis
 38500,Phyllanthus caparaoensis G.L.Webster,Phyllanthus caparaoensis
 38505,Phyllanthus choretroides Müll.Arg.,Phyllanthus choretroides
+38506,Phyllanthus claussenii Müll.Arg.,Phyllanthus claussenii
 38508,Phyllanthus dawsonii Steyerm.,Phyllanthus dawsonii
 38509,Phyllanthus debilis Klein ex Willd.,Phyllanthus debilis
 38512,Phyllanthus eurisladro Mart. ex Colla,Phyllanthus eurisladro
@@ -7872,6 +7868,7 @@ id,scientificName,names_wo_author
 38550,Phyllanthus pinifolius Baill.,Phyllanthus pinifolius
 38552,Phyllanthus poeppigianus (Müll.Arg.) Müll.Arg.,Phyllanthus poeppigianus
 38553,Phyllanthus pohlianus Müll.Arg.,Phyllanthus pohlianus
+38558,Phyllanthus robustus Mart. ex Colla,Phyllanthus robustus
 38561,Phyllanthus sarothamnoides Govaerts & Radcl.-Sm.,Phyllanthus sarothamnoides
 38562,Phyllanthus schomburgkianus Müll.Arg.,Phyllanthus schomburgkianus
 38564,Phyllanthus simplicicaulis Müll.Arg.,Phyllanthus simplicicaulis
@@ -8634,6 +8631,7 @@ id,scientificName,names_wo_author
 44598,Mauritiella intermedia (Burret) Burret,Mauritiella intermedia
 44600,Mauritiella nannostachys Burret,Mauritiella nannostachys
 44601,Mauritiella peruviana (Becc.) Burret,Mauritiella peruviana
+44643,Nunnezharia pacaya (Oerst.) Kuntze,Nunnezharia pacaya
 44653,Oenocarpus grandis Burret,Oenocarpus grandis
 44654,Oenocarpus hoppii Burret,Oenocarpus hoppii
 44666,Orania nivea Linden ex W.Watson,Orania nivea
@@ -9695,7 +9693,6 @@ id,scientificName,names_wo_author
 49545,Cyperus flavus var. obesus (Liebm.) Kük.,Cyperus flavus
 49546,Cyperus flavus subsp. redolens (Maury ex Micheli) Osten,Cyperus flavus
 49552,Cyperus formosus Vahl,Cyperus formosus
-49559,Cyperus fulvescens Liebm.,Cyperus fulvescens
 49560,Cyperus fuscoferrugineus Boeckeler,Cyperus fuscoferrugineus
 49561,Cyperus gardneri var. vegetior Kük.,Cyperus gardneri
 49562,Cyperus gatesii Torr.,Cyperus gatesii
@@ -12196,10 +12193,9 @@ id,scientificName,names_wo_author
 67570,Masdevallia zebrina Porsch,Masdevallia zebrina
 67577,Maxillaria acicularis var. brevifolia Cogn.,Maxillaria acicularis
 67581,Maxillaria atropurpurea Lodd.,Maxillaria atropurpurea
-67582,Maxillaria aurantiaca (Lindl.) A.Rich. & Galeotti,Maxillaria aurantiaca
+67582,Maxillaria aurantiaca (Lindl.) Rchb.f.,Maxillaria aurantiaca
 67584,Maxillaria barbata Knowles & Westc. ex Rchb.f.,Maxillaria barbata
 67585,Maxillaria barringtoniae (Sm.) Lodd.,Maxillaria barringtoniae
-67586,Maxillaria bomboizensis Dodson,Maxillaria bomboizensis
 67587,Maxillaria brachypus Rchb.f.,Maxillaria brachypus
 67589,Maxillaria brenesii Schltr.,Maxillaria brenesii
 67591,Maxillaria brocklehurstiana Lindl.,Maxillaria brocklehurstiana
@@ -12559,7 +12555,6 @@ id,scientificName,names_wo_author
 69529,Quekettia micromera (Barb.Rodr.) Cogn.,Quekettia micromera
 69545,Renata canaanensis Ruschi,Renata canaanensis
 69552,Restrepia gardneri (Lindl.) Benth.,Restrepia gardneri
-69559,Restrepia parvifolia Lindl.,Restrepia parvifolia
 69587,Rodriguezia decora var. picta (Hook.) H.J.Veitch,Rodriguezia decora
 69591,Rodriguezia juergensiana Kraenzl.,Rodriguezia juergensiana
 69593,Rodriguezia lindenii Cogn.,Rodriguezia lindenii
@@ -14698,7 +14693,6 @@ id,scientificName,names_wo_author
 79545,Polygala hastchbachii Brade,Polygala hastchbachii
 79546,Polygala marquesiana J.F.B.Pastore & T.B.Cavalc.,Polygala marquesiana
 79552,Polygala scleroxylon Ducke,Polygala scleroxylon
-79559,Roupala krukovii A.C.Sm.,Roupala krukovii
 79681,Kotchubaea semisericea Ducke,Kotchubaea semisericea
 79684,Platycarpum decipiens Woodson & Steyerm.,Platycarpum decipiens
 79691,Ravenia pseudalterna Ducke,Ravenia pseudalterna
@@ -17088,7 +17082,7 @@ id,scientificName,names_wo_author
 97439,Cololejeunea dzumacensis Tixier,Cololejeunea dzumacensis
 97455,Cololejeunea submarginata Tixier,Cololejeunea submarginata
 97456,Cololejeunea subscariosa (Spruce) R.M.Schust.,Cololejeunea subscariosa
-97460,Cololejeunea vitalana Tixier,Cololejeunea vitalana
+97460,Cololejeunea vitaliana Tixier,Cololejeunea vitaliana
 97462,Colura tenuicornis (A.Evans) Steph.,Colura tenuicornis
 97463,Colura cylindrica Herzog,Colura cylindrica
 97464,Colura greig-smithii Jovet-Ast,Colura greig-smithii
@@ -17145,12 +17139,11 @@ id,scientificName,names_wo_author
 97593,Microlejeunea epiphylla Bischl.,Microlejeunea epiphylla
 97594,Microlejeunea globosa (Spruce) Steph.,Microlejeunea globosa
 97595,Microlejeunea subulistipa Steph.,Microlejeunea subulistipa
-97597,Myriocoleopsis fluviatilis (Steph.) E.Reiner & Gradst.,Myriocoleopsis fluviatilis
+97597,Myriocoleopsis fluviatilis (Steph.) M.E.Reiner & Gradst.,Myriocoleopsis fluviatilis
 97598,Myriocoleopsis gymnocolea (Spruce) E.Reiner & Gradst.,Myriocoleopsis gymnocolea
 97599,Lejeunea polyantha Mont.,Lejeunea polyantha
 97606,Odontolejeunea rhomalea (Spruce) Steph.,Odontolejeunea rhomalea
 97614,Pictolejeunea picta (Gottsche ex Steph.) Grolle,Pictolejeunea picta
-97621,Prionolejeunea mucronata (Sande Lac.) Steph.,Prionolejeunea mucronata
 97629,Pycnolejeunea densistipula (Lehm. & Lindenb.) Steph.,Pycnolejeunea densistipula
 97633,Rectolejeunea berteroana (Gottsche ex Steph.) A.Evans,Rectolejeunea berteroana
 97635,Rectolejeunea flagelliformis A.Evans,Rectolejeunea flagelliformis
@@ -19546,7 +19539,6 @@ id,scientificName,names_wo_author
 109545,Dimerostemma myrtifolium (Chodat) M.D.Moraes,Dimerostemma myrtifolium
 109546,Chaetocalyx latifolia Benth.,Chaetocalyx latifolia
 109552,Vernonia westermanii Ekman & Dusén ex Malme,Vernonia westermanii
-109559,Comolia stenodon var. major Cogn.,Comolia stenodon
 109570,Stenocephalum monticola (Mart. ex DC.) Sch.Bip.,Stenocephalum monticola
 109571,Paspalum paucifolium Swallen,Paspalum paucifolium
 109572,Clathrotropis grandiflora (Harms) Ducke,Clathrotropis grandiflora
@@ -20692,7 +20684,6 @@ id,scientificName,names_wo_author
 113956,Tanaecium truncatum (A.Samp.) L.G.Lohmann,Tanaecium truncatum
 113969,Tynanthus fasciculatus (Vell.) Miers,Tynanthus fasciculatus
 113973,Tynanthus labiatus (Cham.) Miers,Tynanthus labiatus
-113977,Tynanthus polyanthus (Bureau) Sandwith,Tynanthus polyanthus
 113978,Tynanthus pubescens A.H.Gentry,Tynanthus pubescens
 113994,Xylophragma harleyi (A.Gentry ex M.Silva & L.P.Queiroz) L.G.Lohmann,Xylophragma harleyi
 113995,Xylophragma heterocalyx (Bureau & K.Schum.) A.H.Gentry,Xylophragma heterocalyx
@@ -22691,7 +22682,6 @@ id,scientificName,names_wo_author
 119547,Chara braunii Gmelin,Chara braunii
 119550,Chara diaphana (Meyen) R.M.T.Bicudo,Chara diaphana
 119552,Chara drouetii var. sejuncta (A.Braun) R.M.T.Bicudo,Chara drouetii
-119559,Chara globularis Thuillier emend. R.D.Wood,Chara globularis
 119560,Chara guairensis R.M.T.Bicudo,Chara guairensis
 119563,Chara hispida var. baltica (Bruzelius) R.D.Wood emend. R.D.Wood,Chara hispida
 119564,Chara hornemannii Wallman emend. R.D.Wood,Chara hornemannii
@@ -23390,7 +23380,6 @@ id,scientificName,names_wo_author
 124055,Chusquea spinosa E.Fourn.,Chusquea spinosa
 124063,Cosmarium canadense Irénée-Marie,Cosmarium canadense
 124185,Nupella giluwensis Vyverman & Compère,Nupella giluwensis
-124201,Habranthus botumirimensis R.S.Oliveira,Habranthus botumirimensis
 124207,Nitzschia gracilis Hantzsch var. gracilis,Nitzschia gracilis
 124213,Pinnularia mesolepta (Ehrenb.) W.Sm. var. mesolepta,Pinnularia mesolepta
 124219,"Pseudo-nitzschia linea Lundholm, Hasle & Fryxell",Pseudo-nitzschia linea
@@ -25513,7 +25502,7 @@ id,scientificName,names_wo_author
 129169,Cololejeunea microscopica (Taylor) Schiffn.,Cololejeunea microscopica
 129171,Cololejeunea paucifolia (Spruce) Bernecker,Cololejeunea paucifolia
 129172,Cololejeunea sicifolia  (Gottsche) Pócs & Bernecker,Cololejeunea sicifolia
-129173,Cololejeunea sintnisii (Steph.) Pócs,Cololejeunea sintnisii
+129173,Cololejeunea sintenisii (Steph.) Pócs,Cololejeunea sintenisii
 129174,Cololejeunea subsphaeroidea (R.M. Schust.) Pócs,Cololejeunea subsphaeroidea
 129176,Cololejeunea azorica V. Allorge & Jovet-Ast,Cololejeunea azorica
 129186,"Conticribra weissflogii (Grunow) Stachura-Suchoples & D.M. Williams,",Conticribra weissflogii
@@ -25697,7 +25686,6 @@ id,scientificName,names_wo_author
 129546,Lanugothamnus erigeroides (DC.) Deble,Lanugothamnus erigeroides
 129552,Lanugothamnus lychnophorus (Gardner) Deble,Lanugothamnus lychnophorus
 129558,Lanugothamnus scabrifolius (G.Heiden) Deble,Lanugothamnus scabrifolius
-129559,Lanugothamnus suberectifolius (A.S.Oliveira & Deble) Deble,Lanugothamnus suberectifolius
 129561,Cladonia litoralis Gumboski & Eliasaro,Cladonia litoralis
 129563,"Cladonia dunensis Gumboski, Beilke & Eliasaro",Cladonia dunensis
 129564,Cladonia arbuscula (Wallr.) Flot.,Cladonia arbuscula
@@ -26208,7 +26196,6 @@ id,scientificName,names_wo_author
 130687,Closterium pseudolunula Borge var. pseudolunula,Closterium pseudolunula
 130688,Closterium pseudolunula Poljanski var. pseudolunula form. longius,Closterium pseudolunula
 130689,Nematanthus calcaratus Miq.,Nematanthus calcaratus
-130691,Adiantum senae Baker,Adiantum senae
 130692,Sporolithon molle (Heydrich) Heydrich,Sporolithon molle
 130695,Senegalia amorimii M. J. F. Barros & M. P. Morim,Senegalia amorimii
 130696,Senegalia grazielae M. J. F. Barros & M. P. Morim,Senegalia grazielae
@@ -27558,6 +27545,7 @@ id,scientificName,names_wo_author
 135202,Wedelia apensis (Chodat) B.L.Turner,Wedelia apensis
 135206,Aulographum tropicale Rehm,Aulographum tropicale
 135215,Cuphea reticulata var. aculeolata Koehne,Cuphea reticulata
+135226,Polyclypeolum africanum Bat. & Peres,Polyclypeolum africanum
 135232,Polyclypeolum maiae Bat.,Polyclypeolum maiae
 135233,Marasmius griseoroseus var. diminutus J. S. Oliveira & Capelari,Marasmius griseoroseus
 135241,Cuphea dusenii Koehne,Cuphea dusenii
@@ -28229,6 +28217,7 @@ id,scientificName,names_wo_author
 138550,Cladonia subminiata S. Stenroos,Cladonia subminiata
 138552,Cladonia subradiata (Vain.) Sandst.,Cladonia subradiata
 138553,Gleichenia bifida var. nigropaleacea (Sturm) Rosenst.,Gleichenia bifida
+138558,Cladonia symphycarpia (Flörke) Fr.,Cladonia symphycarpia
 138561,Cladonia verticillaris (Raddi) Fr.,Cladonia verticillaris
 138564,Physarum hongkongense Chao Chung,Physarum hongkongense
 138570,Calathea applicata Jacob-Makoy ex É. Morren,Calathea applicata
@@ -28502,7 +28491,6 @@ id,scientificName,names_wo_author
 139511,Cabomba aubletii Michx.,Cabomba aubletii
 139546,Dimerostemma paneroi M.D. Moraes,Dimerostemma paneroi
 139552,Heteranthera alismoides Humb. ex Link,Heteranthera alismoides
-139559,Heterandra reniformis P.Beauv.,Heterandra reniformis
 139560,Heteranthera acuta Willd.,Heteranthera acuta
 139562,Lepidolejeunea cordifissa (Taylor) E.Reine,Lepidolejeunea cordifissa
 139563,Cabanisia caracasana Schltdl.,Cabanisia caracasana
@@ -28581,7 +28569,6 @@ id,scientificName,names_wo_author
 139764,Lavoisiera glutinosa Cogn.,Lavoisiera glutinosa
 139767,Alternanthera flavescens Kunth,Alternanthera flavescens
 139775,Alternanthera villosa Kunth,Alternanthera villosa
-139776,Alternanthera pubiflora (Benth.) Kuntze,Alternanthera pubiflora
 139779,Lavoisiera confertiflora var. latifolia Cogn.,Lavoisiera confertiflora
 139780,Lavoisiera confertiflora var. longifolia (A. Gray) Cogn.,Lavoisiera confertiflora
 139781,Lavoisiera confertiflora var. parvifolia Cogn.,Lavoisiera confertiflora
@@ -29587,6 +29574,7 @@ id,scientificName,names_wo_author
 595423,Jodina cuneifolia (L.) Miers,Jodina cuneifolia
 595424,Weinmannia parvifolia Ruiz ex D. Don,Weinmannia parvifolia
 595425,Maieta tococoidea (DC.) Cogn.,Maieta tococoidea
+595426,Aechmea chantini Baker,Aechmea chantini
 595432,Terminalia adamantium Cambess.,Terminalia adamantium
 595438,Artanthe mollicoma (Kunth) Miq.,Artanthe mollicoma
 595442,Calathea densa (Linden ex K.Koch) Regel,Calathea densa
@@ -29598,6 +29586,7 @@ id,scientificName,names_wo_author
 595462,Rhaphidostegium panduraefolium Broth.,Rhaphidostegium panduraefolium
 595465,Cabralea pallescens C.DC.,Cabralea pallescens
 595468,Trianosperma triangularis Cogn.,Trianosperma triangularis
+595480,Psychotria beskeana (Schltdl.) Müll.Arg.,Psychotria beskeana
 595495,Trigonia najadum Warming.,Trigonia najadum
 595520,Bauhinia bongardii Steudel,Bauhinia bongardii
 595527,Warszewiczella candida (Lindl.) Rchb.f.,Warszewiczella candida
@@ -29605,10 +29594,6 @@ id,scientificName,names_wo_author
 595534,Vriesea aerisincola Mez,Vriesea aerisincola
 595535,Calathea leucostachys Hook.f.,Calathea leucostachys
 595550,Hippocratea aggregata Peyr.,Hippocratea aggregata
-595590,Nicotiana flexuosa Jeffrey,Nicotiana flexuosa
-595591,Lacis fucoides Mart. & Zucc.,Lacis fucoides
-595595,Combretum bugi Cambess.,Combretum bugi
-595597,Cassia blancheti Benth.,Cassia blancheti
 595655,Plantago sodiroana Pilg.,Plantago sodiroana
 595782,Christensonella neuwiedii Não existe,Christensonella neuwiedii
 595857,Hydrolea cervantesii Brand,Hydrolea cervantesii
@@ -29723,6 +29708,7 @@ id,scientificName,names_wo_author
 596487,Escallonia concinna Phil.,Escallonia concinna
 596488,Phaseolus crassifolius Mart. ex Benth.,Phaseolus crassifolius
 596500,Sisyrinchium berteroanum Phil.,Sisyrinchium berteroanum
+596552,Cuphea pseudo-vaccinium A. Saint-HIlaire,Cuphea pseudo-vaccinium
 596555,Sorindeia aurantiodora Ruiz ex Engl.,Sorindeia aurantiodora
 596591,Trigonia schottiana Warm.,Trigonia schottiana
 596606,Calospermum mammosum (L.) Pierre,Calospermum mammosum
@@ -29808,6 +29794,7 @@ id,scientificName,names_wo_author
 597436,Calathea nigro-costata Linden & André,Calathea nigro-costata
 597437,Notocactus megapotamicus Osten ex Herter,Notocactus megapotamicus
 597438,Brachypterys borealis A.Juss.,Brachypterys borealis
+597439,Psychotria densecostata Müll. Arg.,Psychotria densecostata
 597455,Vicia obscura Vogel,Vicia obscura
 597456,Cedrela paraguariensis Mart.,Cedrela paraguariensis
 597464,Selaginella excurrens Spring,Selaginella excurrens
@@ -29820,6 +29807,7 @@ id,scientificName,names_wo_author
 597509,Solanum mexicanum Sesse & Moc.,Solanum mexicanum
 597512,Artanthe jussiaeana (Kunth) Miq.,Artanthe jussiaeana
 597521,Miconia theizans (Bonpl.) Cogn.,Miconia theizans
+597528,Psychotria aurata Não existe,Psychotria aurata
 597529,Bastardia conferta Garcke & K.Schum.,Bastardia conferta
 597533,Pilea dauciodoba Wedd.,Pilea dauciodoba
 597543,Calathea cinerea (Linden) Regel,Calathea cinerea
@@ -29956,6 +29944,7 @@ id,scientificName,names_wo_author
 598107,Trianosperma angustiloba Cogn.,Trianosperma angustiloba
 598108,Sponia micrantha L.,Sponia micrantha
 598110,Echinopsis tubiflora (Pfeiff.) Zucc. ex A.Dietr.,Echinopsis tubiflora
+598112,Canna sylvestris Roscoe,Canna sylvestris
 598113,Sphagnum squarrosum Crome,Sphagnum squarrosum
 598115,Bertolonia ovata A.DC.,Bertolonia ovata
 598118,Schinus dependens Ortega,Schinus dependens
@@ -30048,6 +30037,7 @@ id,scientificName,names_wo_author
 598324,Polypodium tovarense Klotzsch,Polypodium tovarense
 598325,Peperomia nummularifolia (Sw.) Kunth,Peperomia nummularifolia
 598329,Campylocentrum callistachyum Cogn.,Campylocentrum callistachyum
+598330,Costus uniflorus Poepp. ex Petersen,Costus uniflorus
 598332,Artanthe rivinoides (Kunth) Miq.,Artanthe rivinoides
 598334,Talinum reflexum Cav.,Talinum reflexum
 598335,Hymenophyllum protrusum Hook.,Hymenophyllum protrusum
@@ -30068,6 +30058,7 @@ id,scientificName,names_wo_author
 598382,Conomorpha nemoralis (Mart.) Mart. & Miq.,Conomorpha nemoralis
 598385,Ischnosiphon orbiculatus Körn.,Ischnosiphon orbiculatus
 598387,Polypodium hirsutulum G. Forst.,Polypodium hirsutulum
+598394,Cuphea fuchsiaefolia A. St. Hilaire,Cuphea fuchsiaefolia
 598395,Artanthe guianensis Klotzsch,Artanthe guianensis
 598402,Bauhinia choriophylla Vogel,Bauhinia choriophylla
 598408,Macairea rufescens DC.,Macairea rufescens
@@ -30119,6 +30110,7 @@ id,scientificName,names_wo_author
 598549,Weinmannia laurina Kunth.,Weinmannia laurina
 598552,Urostigma pertusum (L.f.) Miquel,Urostigma pertusum
 598555,Alloplectus angustifolius DC.,Alloplectus angustifolius
+598560,Cololejeunea tuberculata A.Evans,Cololejeunea tuberculata
 598562,Artanthe macrostachya C. Presl,Artanthe macrostachya
 598567,Dolichodeira tubiflora (Hook.) Hanst.,Dolichodeira tubiflora
 598569,Paepalanthus ruprechtianus Koernicke,Paepalanthus ruprechtianus
@@ -30295,6 +30287,7 @@ id,scientificName,names_wo_author
 599072,Artanthe cearensis Miq.,Artanthe cearensis
 599075,Lycopodium jussieui Poir.,Lycopodium jussieui
 599087,Urostigma angustifolium Miquel,Urostigma angustifolium
+599088,Costus argenteus Ruiz et Pav.,Costus argenteus
 599089,Typha elongata Dudley,Typha elongata
 599111,Salix chilensis Molina,Salix chilensis
 599112,Acanthella conferta Cogn.,Acanthella conferta
@@ -30460,6 +30453,7 @@ id,scientificName,names_wo_author
 601225,Trembleya laniflora var. genuina Cogn.,Trembleya laniflora
 601226,Trembleya phlogiformis var. genuina Cogn.,Trembleya phlogiformis
 601230,Valeriana scandens var. genuina L.,Valeriana scandens
+601242,Phyllanthus graveolens var. genuinus (Kunth) Müll. Arg.,Phyllanthus graveolens
 601247,Capparis verrucosa var. glaberrima Jacq.,Capparis verrucosa
 601255,Bredemeyera densiflora var. glabra A.W.Benn.,Bredemeyera densiflora
 601257,Frangula polymorpha var. glabra Reissek,Frangula polymorpha
@@ -30595,6 +30589,7 @@ id,scientificName,names_wo_author
 601897,Ceratophyllum demersum var. pentacanthum L.,Ceratophyllum demersum
 601905,Ternstroemia dentata var. opaca (Aubl.) Sw.,Ternstroemia dentata
 601907,Iriartea exorrhiza var. orbigniana (Mart.) Drude,Iriartea exorrhiza
+601908,Phyllanthus microphyllus var. orbignyanus Kunth,Phyllanthus microphyllus
 601909,Corchorus hirtus var. orinocensis L.,Corchorus hirtus
 601912,Combretum loeflingii subsp. ornithophilum Suess.,Combretum loeflingii
 601928,Combretum jacquinii form. ovatifolium (Pohl) Eichler,Combretum jacquinii
@@ -31250,7 +31245,6 @@ id,scientificName,names_wo_author
 605599,Plantago veadeirensis Hassemer,Plantago veadeirensis
 605600,"Andropogon saxicola A.Zanin,P.L.Viana,Welker & Filg.",Andropogon saxicola
 605606,"Fosterella atlantica Leme, O.B.C. Ribeiro & Forzza",Fosterella atlantica
-605607,Fosterella bodoquenensis Leme & Forzza,Fosterella bodoquenensis
 605630,"Trembleya altoparaisensis R. Pacifico, Almeda & Fidanza",Trembleya altoparaisensis
 605631,"Hyptidendron roseum Antar, Harley & J.F.B.Pastore",Hyptidendron roseum
 605649,Aristida subaequans Doell,Aristida subaequans
@@ -31817,7 +31811,7 @@ id,scientificName,names_wo_author
 606602,Pteridium esculentum subsp. campestre (Schrad.) Schwartsb. & J Prado,Pteridium esculentum
 606604,Pteridium esculentum subsp. gryphus Schwartsb.,Pteridium esculentum
 606606,Dyckia incana O.B.C.Ribeiro & Leme,Dyckia incana
-606607,Dyckia concecionensis O.B.C.Ribeiro & Leme,Dyckia concecionensis
+606607,Dyckia conceicionensis O.B.C.Ribeiro & Leme,Dyckia conceicionensis
 606609,Maytenus boaria var. latifolia Reissek,Maytenus boaria
 606610,Monteverdia guyanensis (Klotzsch ex Reissek) Biral,Monteverdia guyanensis
 606611,Tephrosia chaquenha  R.T. Queiroz & A.M.G. Azevedo,Tephrosia chaquenha
@@ -32271,6 +32265,8 @@ id,scientificName,names_wo_author
 607497,Chamaedorea schiedeana hort.,Chamaedorea schiedeana
 607509,Chamaedorea sphaerocarpa Burret,Chamaedorea sphaerocarpa
 607521,Chamaedorea vanninii Cascante & Fred Mull.,Chamaedorea vanninii
+607523,Chamaedorea velutina hort.,Chamaedorea velutina
+607527,Chamaedorea verschaffelti hort.,Chamaedorea verschaffelti
 607528,Chamaedorea vistae Hodel & N.W. Uhl,Chamaedorea vistae
 607533,Chamaedorea weberbaueri Dammer ex Burret,Chamaedorea weberbaueri
 607538,"Rhynchospora chapadensis Silva Filho, Thomas & Boldrini",Rhynchospora chapadensis
@@ -32281,6 +32277,7 @@ id,scientificName,names_wo_author
 607549,Chamaedorea wendlandii H. Wendl.,Chamaedorea wendlandii
 607553,Micranthocereus flaviflorus subsp. alvinii M.Machado & Hofacker) Lodé,Micranthocereus flaviflorus
 607554,Chamaedorea wendlandii Schaedtler,Chamaedorea wendlandii
+607556,Chamaedorea wobstiana hort.,Chamaedorea wobstiana
 607563,Hyospathe chiriqui Schaedtler,Hyospathe chiriqui
 607564,Hyospathe elata hort. ex Hook. f.,Hyospathe elata
 607570,Euterpe andicola Brongn. ex Mart.,Euterpe andicola
@@ -32298,7 +32295,6 @@ id,scientificName,names_wo_author
 607606,Cypella brachypus Baker,Cypella brachypus
 607613,Danaea sellowiana C. Presl,Danaea sellowiana
 607616,Euphorbia adenoplicata O.L.M. Silva & Cordeiro,Euphorbia adenoplicata
-607629,Pseudotrimezia juncifolia subsp. speciosa Ravenna,Pseudotrimezia juncifolia
 607634,Calea diamantinensis G.A. Reis-Silva & J.N. Nakaj.,Calea diamantinensis
 607635,Tofieldia schomburgkiana Oliv.,Tofieldia schomburgkiana
 607636,Tofieldia guianensis (Klotzsch) R.Schulze,Tofieldia guianensis
@@ -32433,7 +32429,7 @@ id,scientificName,names_wo_author
 607838,Maxillaria condensata C.Schweinf.,Maxillaria condensata
 607839,Laricorchis condensata (C.Schweinf.) Szlach. & Sitko,Laricorchis condensata
 607840,Laricorchis maripiensis (Kraenzl.) Szlach. & Sitko,Laricorchis maripiensis
-607841,Neourbania alticula (C.Schweinf.) Szlach. & Sitko,Neourbania alticula
+607841,Neourbania alticola (C.Schweinf.) Szlach. & Sitko,Neourbania alticola
 607843,Camaridium multicaule (Poepp. & Endl.) Hoehne,Camaridium multicaule
 607844,Siagonanthus multicaulis Poepp. & Endl.,Siagonanthus multicaulis
 607845,Aucellia ruberrima (Lindl.) Szlach. & Sitko,Aucellia ruberrima
@@ -32515,7 +32511,7 @@ id,scientificName,names_wo_author
 608026,Victoria crusiana Orb.,Victoria crusiana
 608027,Victoria trickeri (Malme) Mutzek,Victoria trickeri
 608028,Victoria cruziana Orb. f. cruziana,Victoria cruziana
-608029,Victoria cruziana f. trickeri Malme,Victoria cruziana
+608029,Victoria cruziana f. mattogrossensis Malme,Victoria cruziana
 608030,Victoria amazonica Planch. ex Casp.,Victoria amazonica
 608031,Victoria reginae Hook.,Victoria reginae
 608032,Victoria amazonum Klotzsch,Victoria amazonum
@@ -32577,3 +32573,67 @@ id,scientificName,names_wo_author
 608097,Cocos regalis Liebm.,Cocos regalis
 608101,Nymphaea planchonii Casp. ex Conard,Nymphaea planchonii
 608116,Ficus mima Standl.,Ficus mima
+608144,Gayliella iemanja Barros-Barreto & F.P. Gomes,Gayliella iemanja
+608174,Leuconymphaea odorata (Aiton) MacMill.,Leuconymphaea odorata
+608175,Leuconymphaea parkeriana (Lehm.) Kuntze,Leuconymphaea parkeriana
+608176,Leuconymphaea reniformis (Walter) Kuntze,Leuconymphaea reniformis
+608177,Castalia alba Wood,Castalia alba
+608178,Castalia lekophylla Small,Castalia lekophylla
+608179,Castalia minor (Sims) Nyár.,Castalia minor
+608180,Castalia odorata (Aiton) Wood,Castalia odorata
+608182,Collinia deppeana Klotzsch,Collinia deppeana
+608186,Collinia humilis Liebm. ex Oerst.,Collinia humilis
+608190,Discoma glaucifolia (H. Wendl.) O.F. Cook,Discoma glaucifolia
+608191,Castalia odorata (Aiton) Wood var. odorata,Castalia odorata
+608192,Castalia odorata var. gigantea (Tricker) Fernald,Castalia odorata
+608193,Castalia odorata var. latifolia R.M.Harper,Castalia odorata
+608194,Castalia odorata var. minor (Sims) Cockerell,Castalia odorata
+608195,Castalia odorata (Aiton) Wood f. odorata,Castalia odorata
+608196,Castalia odorata f. rosea (Pursh) Britton,Castalia odorata
+608197,Castalia pringlei Rose,Castalia pringlei
+608198,Castalia pudica Salisb.,Castalia pudica
+608199,Castalia reniformis (Walter) Trel. ex Branner & Coville,Castalia reniformis
+608200,Nymphaea lekophylla (Small) Cory,Nymphaea lekophylla
+608204,Nymphaea odorata var. glabra Casp.,Nymphaea odorata
+608213,Nymphaea odorata Aiton subsp. odorata,Nymphaea odorata
+608214,Nymphaea odorata subsp. tuberosa (Paine) Wiersema & Hellq.,Nymphaea odorata
+608221,Castalia tuberosa (Paine) Greene,Castalia tuberosa
+608224,Stephanostachys casperiana (Klotzsch) Oerst.,Stephanostachys casperiana
+608227,Stephanostachys wendlandiana Oerst.,Stephanostachys wendlandiana
+608230,Stachyophorbe cataractum (Mart.) Liebm. ex Klotzsch,Stachyophorbe cataractum
+608231,Stachyophorbe deckeriana Klotzsch,Stachyophorbe deckeriana
+608232,Stachyophorbe filipes O.F.Cook,Stachyophorbe filipes
+608233,Stachyophorbe montana Liebm. ex Oerst.,Stachyophorbe montana
+608234,Stachyophorbe montana Liebm.,Stachyophorbe montana
+608237,Spathoscaphe arenbergiana (H.Wendl.) Oerst.,Spathoscaphe arenbergiana
+608238,Paranthe violacea .F.Cook,Paranthe violacea
+608239,Eleutheropetalum ernesti-augusti (H. Wendl.) Oerst.,Eleutheropetalum ernesti-augusti
+608243,Kinetostigma nana (N.E. Br.) Burret,Kinetostigma nana
+608248,Meiota campechana O.F.Cook,Meiota campechana
+608250,Lobia erosa O.F.Cook,Lobia erosa
+608258,Nunnezharia biloba (H.Wendl.) Kuntze,Nunnezharia biloba
+608263,Neanthe elegans (Mart.) O.F.Cook,Neanthe elegans
+608264,Neanthe neesiana O.F. Cook,Neanthe neesiana
+608278,Morenia corallifera hort. in Ruffo,Morenia corallifera
+608287,Sauvetrea bomboizensis (Dodson) M.A.Blanco,Sauvetrea bomboizensis
+608288,Mormolyca acutifolia (Lindl.) M.A.Blanco,Mormolyca acutifolia
+608290,Morenia latisecta H.E. Moore ex L.H. Bailey,Morenia latisecta
+608291,Morenia lechleriana H. A. Wendland ex Dammer,Morenia lechleriana
+608295,Morenia microspadix Burret,Morenia microspadix
+608308,Dasystachys deckeriana (Klotzsch) Oerst.,Dasystachys deckeriana
+608312,Cololejeunea jamesii (Austin) M.E.Reiner & Pócs,Cololejeunea jamesii
+608320,Nunnezharia wendlandiana (Oerst.) Kuntze,Nunnezharia wendlandiana
+608321,Nunnezharia schiedeana (Mart.) Kuntze,Nunnezharia schiedeana
+608329,Nunnezharia velutina (H.Wendl.) Kuntze,Nunnezharia velutina
+608340,Nunnezharia humilis (Liebm. ex Oerst.) Kuntze,Nunnezharia humilis
+608350,"Pleroma cucullatum F.S.Mey., Fraga & R.Goldenb.",Pleroma cucullatum
+608355,Cuphea calophylla var. calophylla f. plumbaginea (Mart.) Koehne,Cuphea calophylla
+608358,Cuphea orthodisca Koehne,Cuphea orthodisca
+608366,"Zephyranthes botumirimensis (R.S.Oliveira) R.S.Oliveira & Dutilh,",Zephyranthes botumirimensis
+608373,Amaranthus bahiensis Mart.,Amaranthus bahiensis
+608374,Pachira mawarinumae (Steyerm.) W.S. Alverson,Pachira mawarinumae
+608380,Maxillaria picta var. major F.Buyss.,Maxillaria picta
+608381,Carapichea klugii (Standl.) C.M. Taylor,Carapichea klugii
+608398,Nunnezharia lepidota (H.Wendl.) Kuntze,Nunnezharia lepidota
+608400,Nunnezharia liebmannii (Mart.) Kuntze,Nunnezharia liebmannii
+608408,Nunnezharia montana (Humb. & Bonpl.) Kuntze,Nunnezharia montana
