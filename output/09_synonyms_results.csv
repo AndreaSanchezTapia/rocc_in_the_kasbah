@@ -1,0 +1,590 @@
+taxonid,family,genus,scientificname,specificepithet,infraspecificepithet,scientificnameauthorship,taxonomicstatus,taxonid_base,scientificName_base
+894,Rutaceae,Pilocarpus,Pilocarpus pinnatus Mart. ex Engl.,pinnatus,NA,Mart. ex Engl.,SINONIMO,888,Pilocarpus pennatifolius
+889,Rutaceae,Pilocarpus,Pilocarpus pennatifolius var. genuinus Hassl.,pennatifolius,genuinus,Hassl.,SINONIMO,888,Pilocarpus pennatifolius
+896,Rutaceae,Pilocarpus,Pilocarpus selloanus Engl.,selloanus,NA,Engl.,SINONIMO,888,Pilocarpus pennatifolius
+897,Rutaceae,Pilocarpus,Pilocarpus selloanus var. gracilis Chodat & Hassl.,selloanus,gracilis,Chodat & Hassl.,SINONIMO,888,Pilocarpus pennatifolius
+886,Rutaceae,Pilocarpus,Pilocarpus parviflorus Nees & Mart.,parviflorus,NA,Nees & Mart.,SINONIMO,898,Pilocarpus spicatus
+877,Rutaceae,Pilocarpus,Pilocarpus lealii Machado,lealii,NA,Machado,SINONIMO,898,Pilocarpus spicatus
+878,Rutaceae,Pilocarpus,Pilocarpus lisboanus Badini,lisboanus,NA,Badini,SINONIMO,898,Pilocarpus spicatus
+678,Rutaceae,Fagara,Fagara monogyna (A.St.-Hil.) Engl.,monogyna,NA,(A.St.-Hil.) Engl.,SINONIMO,1133,Zanthoxylum monogynum
+694,Rutaceae,Fagara,Fagara pohliana (Engl.) Engl.,pohliana,NA,(Engl.) Engl.,SINONIMO,1133,Zanthoxylum monogynum
+721,Rutaceae,Fagara,Fagara tuberculata (Engl.) Engl.,tuberculata,NA,(Engl.) Engl.,SINONIMO,1133,Zanthoxylum monogynum
+1077,Rutaceae,Zanthoxylum,Zanthoxylum arenarium Engl.,arenarium,NA,Engl.,SINONIMO,1133,Zanthoxylum monogynum
+1153,Rutaceae,Zanthoxylum,Zanthoxylum pohlianum Engl.,pohlianum,NA,Engl.,SINONIMO,1133,Zanthoxylum monogynum
+1146,Rutaceae,Zanthoxylum,Zanthoxylum pauciflorum Engl.,pauciflorum,NA,Engl.,SINONIMO,1133,Zanthoxylum monogynum
+1187,Rutaceae,Zanthoxylum,Zanthoxylum tuberculatum Engl.,tuberculatum,NA,Engl.,SINONIMO,1133,Zanthoxylum monogynum
+636,Rutaceae,Fagara,Fagara arenaria (Engl.) Engl.,arenaria,NA,(Engl.) Engl.,SINONIMO,1133,Zanthoxylum monogynum
+690,Rutaceae,Fagara,Fagara pauciflora (Engl.) Engl.,pauciflora,NA,(Engl.) Engl.,SINONIMO,1133,Zanthoxylum monogynum
+129774,Cactaceae,Facheiroa,Facheiroa tenebrosa P.J.Braun & Esteves,tenebrosa,NA,P.J.Braun & Esteves,SINONIMO,1517,Facheiroa cephaliomelana
+78052,Cactaceae,Pilosocereus,Pilosocereus subsimilis Rizzini & A.Mattos,subsimilis,NA,Rizzini & A.Mattos,SINONIMO,1668,Pilosocereus pachycladus
+78051,Cactaceae,Pilosocereus,Pilosocereus cenepequei Rizzini & A.Mattos,cenepequei,NA,Rizzini & A.Mattos,SINONIMO,1668,Pilosocereus pachycladus
+137718,Aquifoliaceae,Ilex,Ilex domestica Reissek,domestica,NA,Reissek,SINONIMO,4904,Ilex paraguariensis
+134230,Asteraceae,Piptocarpha,Piptocarpha pannosa Baker,pannosa,NA,Baker,SINONIMO,5480,Piptocarpha macropoda
+22513,Combretaceae,Thiloa,Thiloa gracilis (Schott) Eichler,gracilis,NA,(Schott) Eichler,SINONIMO,6903,Combretum gracile
+59247,Lamiaceae,Mesosphaerum,Mesosphaerum confertum (Pohl ex Benth.) Kuntze,confertum,NA,(Pohl ex Benth.) Kuntze,SINONIMO,8199,Hyptis conferta
+58714,Lamiaceae,Hyptis,Hyptis constricta Briq.,constricta,NA,Briq.,SINONIMO,8199,Hyptis conferta
+58867,Lamiaceae,Hyptis,Hyptis radula Mart. ex J.A.Schmidt,radula,NA,Mart. ex J.A.Schmidt,SINONIMO,8199,Hyptis conferta
+59273,Lamiaceae,Mesosphaerum,Mesosphaerum excelsum (M.Martens & Galeotti) Kuntze,excelsum,NA,(M.Martens & Galeotti) Kuntze,SINONIMO,8199,Hyptis conferta
+59277,Lamiaceae,Mesosphaerum,Mesosphaerum ferrugineum (Benth.) Kuntze,ferrugineum,NA,(Benth.) Kuntze,SINONIMO,8199,Hyptis conferta
+59249,Lamiaceae,Mesosphaerum,Mesosphaerum constrictum Briq.,constrictum,NA,Briq.,SINONIMO,8199,Hyptis conferta
+59307,Lamiaceae,Mesosphaerum,Mesosphaerum jurgensenii Briq.,jurgensenii,NA,Briq.,SINONIMO,8199,Hyptis conferta
+59337,Lamiaceae,Mesosphaerum,Mesosphaerum lundii (Benth.) Kuntze,lundii,NA,(Benth.) Kuntze,SINONIMO,8199,Hyptis conferta
+59405,Lamiaceae,Mesosphaerum,Mesosphaerum savannarum Briq.,savannarum,NA,Briq.,SINONIMO,8199,Hyptis conferta
+59377,Lamiaceae,Mesosphaerum,Mesosphaerum passerinum (Mart. ex Benth.) Kuntze,passerinum,NA,(Mart. ex Benth.) Kuntze,SINONIMO,8238,Hyptis passerina
+33172,Verbenaceae,Lippia,Lippia cipoensis Moldenke,cipoensis,NA,Moldenke,SINONIMO,8238,Hyptis passerina
+61787,Myrtaceae,Eugenia,Eugenia acuminata Link,acuminata,NA,Link,SINONIMO,10823,Pimenta pseudocaryophyllus
+61885,Myrtaceae,Eugenia,Eugenia caryophylla St.-Lég.,caryophylla,NA,St.-Lég.,SINONIMO,10823,Pimenta pseudocaryophyllus
+62084,Myrtaceae,Eugenia,Eugenia leandriana O.Berg,leandriana,NA,O.Berg,SINONIMO,10823,Pimenta pseudocaryophyllus
+62261,Myrtaceae,Eugenia,Eugenia pseudocaryophyllus (Gomes) DC.,pseudocaryophyllus,NA,(Gomes) DC.,SINONIMO,10823,Pimenta pseudocaryophyllus
+63487,Myrtaceae,Myrtus,Myrtus caryophyllata Vell.,caryophyllata,NA,Vell.,SINONIMO,10823,Pimenta pseudocaryophyllus
+63572,Myrtaceae,Myrtus,Myrtus pseudocaryophyllus Gomes,pseudocaryophyllus,NA,Gomes,SINONIMO,10823,Pimenta pseudocaryophyllus
+63519,Myrtaceae,Myrtus,Myrtus fulvescens (Mart. ex DC.) Kiaersk.,fulvescens,NA,(Mart. ex DC.) Kiaersk.,SINONIMO,10823,Pimenta pseudocaryophyllus
+63615,Myrtaceae,Myrtus,Myrtus velutina (O.Berg) Kiaersk.,velutina,NA,(O.Berg) Kiaersk.,SINONIMO,10823,Pimenta pseudocaryophyllus
+63725,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus organensis Burret,organensis,NA,Burret,SINONIMO,10823,Pimenta pseudocaryophyllus
+63718,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus emarginatus Burret,emarginatus,NA,Burret,SINONIMO,10823,Pimenta pseudocaryophyllus
+63719,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus fulvescens (Mart. ex DC.) O.Berg,fulvescens,NA,(Mart. ex DC.) O.Berg,SINONIMO,10823,Pimenta pseudocaryophyllus
+63723,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus leandrianus (O.Berg) Burret,leandrianus,NA,(O.Berg) Burret,SINONIMO,10823,Pimenta pseudocaryophyllus
+63724,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus mutabilis (O.Berg) Burret,mutabilis,NA,(O.Berg) Burret,SINONIMO,10823,Pimenta pseudocaryophyllus
+63716,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus costatus O.Berg,costatus,NA,O.Berg,SINONIMO,10823,Pimenta pseudocaryophyllus
+63691,Myrtaceae,Pimenta,Pimenta fulvescens (Mart. ex DC.) Blume,fulvescens,NA,(Mart. ex DC.) Blume,SINONIMO,10823,Pimenta pseudocaryophyllus
+63730,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus theifer Toledo,theifer,NA,Toledo,SINONIMO,10823,Pimenta pseudocaryophyllus
+63731,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus uniflorus Burret,uniflorus,NA,Burret,SINONIMO,10823,Pimenta pseudocaryophyllus
+63727,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus platyphyllus Burret ex Luetzelb.,platyphyllus,NA,Burret ex Luetzelb.,SINONIMO,10823,Pimenta pseudocaryophyllus
+63721,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus hoehnei Burret,hoehnei,NA,Burret,SINONIMO,10823,Pimenta pseudocaryophyllus
+63729,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus sericeus O.Berg,sericeus,NA,O.Berg,SINONIMO,10823,Pimenta pseudocaryophyllus
+63715,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus chrysophyllus Burret,chrysophyllus,NA,Burret,SINONIMO,10823,Pimenta pseudocaryophyllus
+63728,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus seemannii Triana ex Hemsl.,seemannii,NA,Triana ex Hemsl.,SINONIMO,10823,Pimenta pseudocaryophyllus
+63732,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus velutinus O.Berg,velutinus,NA,O.Berg,SINONIMO,10823,Pimenta pseudocaryophyllus
+63458,Myrtaceae,Myrtus,Myrtus aequalis Vell.,aequalis,NA,Vell.,SINONIMO,10823,Pimenta pseudocaryophyllus
+63713,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus acuminatus (Link) Burret,acuminatus,NA,(Link) Burret,SINONIMO,10823,Pimenta pseudocaryophyllus
+63726,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus pabstianus D.Legrand,pabstianus,NA,D.Legrand,SINONIMO,10823,Pimenta pseudocaryophyllus
+63722,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus jaccoudii Mattos,jaccoudii,NA,Mattos,SINONIMO,10823,Pimenta pseudocaryophyllus
+62165,Myrtaceae,Eugenia,Eugenia mutabilis O.Berg,mutabilis,NA,O.Berg,SINONIMO,10823,Pimenta pseudocaryophyllus
+63720,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus glaziovianus (Kiaersk.) Burret,glaziovianus,NA,(Kiaersk.) Burret,SINONIMO,10823,Pimenta pseudocaryophyllus
+63717,Myrtaceae,Pseudocaryophyllus,Pseudocaryophyllus crenatus D.Legrand,crenatus,NA,D.Legrand,SINONIMO,10823,Pimenta pseudocaryophyllus
+10860,Myrtaceae,Psidium,Psidium cupreum DC.,cupreum,NA,DC.,SINONIMO,10883,Psidium rufum
+63944,Myrtaceae,Psidium,Psidium rufum var. rotundifolium Kiaersk.,rufum,rotundifolium,Kiaersk.,SINONIMO,10883,Psidium rufum
+31645,Myrtaceae,Psidium,Psidium lagoense Kiaersk.,lagoense,NA,Kiaersk.,SINONIMO,10883,Psidium rufum
+60950,Myrtaceae,Abbevillea,Abbevillea recurvata O.Berg,recurvata,NA,O.Berg,SINONIMO,10883,Psidium rufum
+60951,Myrtaceae,Abbevillea,Abbevillea regeliana O.Berg,regeliana,NA,O.Berg,SINONIMO,10883,Psidium rufum
+61638,Myrtaceae,Campomanesia,Campomanesia martiana O.Berg,martiana,NA,O.Berg,SINONIMO,10883,Psidium rufum
+61662,Myrtaceae,Campomanesia,Campomanesia recurvata (O.Berg) Nied.,recurvata,NA,(O.Berg) Nied.,SINONIMO,10883,Psidium rufum
+61663,Myrtaceae,Campomanesia,Campomanesia regeliana (O.Berg) Kiaersk.,regeliana,NA,(O.Berg) Kiaersk.,SINONIMO,10883,Psidium rufum
+62575,Myrtaceae,Guajava,Guajava cuprea (O.Berg) Kuntze,cuprea,NA,(O.Berg) Kuntze,SINONIMO,10883,Psidium rufum
+62598,Myrtaceae,Guajava,Guajava macrosperma (O.Berg) Kuntze,macrosperma,NA,(O.Berg) Kuntze,SINONIMO,10883,Psidium rufum
+62621,Myrtaceae,Guajava,Guajava pilosa (Vell.) Kuntze,pilosa,NA,(Vell.) Kuntze,SINONIMO,10883,Psidium rufum
+62644,Myrtaceae,Guajava,Guajava widgreniana (O.Berg) Kuntze,widgreniana,NA,(O.Berg) Kuntze,SINONIMO,10883,Psidium rufum
+63876,Myrtaceae,Psidium,Psidium macrospermum O.Berg,macrospermum,NA,O.Berg,SINONIMO,10883,Psidium rufum
+63918,Myrtaceae,Psidium,Psidium pilosum Vell.,pilosum,NA,Vell.,SINONIMO,10883,Psidium rufum
+63987,Myrtaceae,Psidium,Psidium widgrenianum O.Berg,widgrenianum,NA,O.Berg,SINONIMO,10883,Psidium rufum
+128301,Plantaginaceae,Mecardonia,Mecardonia montevidensis (Spreng.) Pennell,montevidensis,NA,(Spreng.) Pennell,SINONIMO,12903,Mecardonia procumbens
+26060,Rubiaceae,Alibertia,Alibertia concolor (Cham.) K.Schum.,concolor,NA,(Cham.) K.Schum.,SINONIMO,13891,Cordiera concolor
+32516,Rubiaceae,Alibertia,Alibertia vaccinioides K.Schum.,vaccinioides,NA,K.Schum.,SINONIMO,13891,Cordiera concolor
+71434,Rubiaceae,Alibertia,Alibertia stricta Zahlbr.,stricta,NA,Zahlbr.,SINONIMO,13891,Cordiera concolor
+71424,Rubiaceae,Alibertia,Alibertia hassleriana Chodat,hassleriana,NA,Chodat,SINONIMO,13891,Cordiera concolor
+72296,Rubiaceae,Cordiera,Cordiera vaccinioides (K.Schum.) Kuntze,vaccinioides,NA,(K.Schum.) Kuntze,SINONIMO,13891,Cordiera concolor
+72797,Rubiaceae,Gardeniola,Gardeniola concolor Cham.,concolor,NA,Cham.,SINONIMO,13891,Cordiera concolor
+72771,Rubiaceae,Gardenia,Gardenia concolor D.Dietr.,concolor,NA,D.Dietr.,SINONIMO,13891,Cordiera concolor
+74465,Rubiaceae,Scepseothamnus,Scepseothamnus gardenioloides Cham.,gardenioloides,NA,Cham.,SINONIMO,13891,Cordiera concolor
+73807,Rubiaceae,Psychotria,Psychotria coronata Vell.,coronata,NA,Vell.,SINONIMO,14248,Rudgea coronata
+74949,Rubiaceae,Uragoga,Uragoga coronata (Vell.) Kuntze,coronata,NA,(Vell.) Kuntze,SINONIMO,14248,Rudgea coronata
+87583,Rubiaceae,Rudgea,Rudgea basiostylis Müll.Arg.,basiostylis,NA,Müll.Arg.,SINONIMO,14248,Rudgea coronata
+598265,Vochysiaceae,Callisthene,Callisthene blanchetii Warm.,blanchetii,NA,Warm.,SINONIMO,15276,Callisthene major
+599070,Vochysiaceae,Qualea,Qualea cryptantiia (Spreng.) Warm.,cryptantiia,NA,(Spreng.) Warm.,SINONIMO,15283,Qualea cryptantha
+47983,Chrysobalanaceae,Couepia,Couepia duckei Huber,duckei,NA,Huber,SINONIMO,16777,Couepia paraensis
+48003,Chrysobalanaceae,Couepia,Couepia vismioides Klotzsch ex Hook.f.,vismioides,NA,Klotzsch ex Hook.f.,SINONIMO,16777,Couepia paraensis
+48203,Chrysobalanaceae,Moquilea,Moquilea paraensis Mart. & Zucc.,paraensis,NA,Mart. & Zucc.,SINONIMO,16777,Couepia paraensis
+47987,Chrysobalanaceae,Couepia,Couepia glaucescens Spruce ex Hook.f.,glaucescens,NA,Spruce ex Hook.f.,SINONIMO,16777,Couepia paraensis
+594964,Chrysobalanaceae,Couepia,Couepia rivalis Spruce,rivalis,NA,Spruce,SINONIMO,16777,Couepia paraensis
+28293,Clusiaceae,Clusia,Clusia cambessedii Planch. & Triana,cambessedii,NA,Planch. & Triana,SINONIMO,6832,Clusia criuva
+53908,Euphorbiaceae,Actinostemon,Actinostemon concolor var. grandifolius (Baill.) Müll.Arg.,concolor,grandifolius,(Baill.) Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53913,Euphorbiaceae,Actinostemon,Actinostemon concolor var. obovatus (Müll.Arg.) Müll.Arg.,concolor,obovatus,(Müll.Arg.) Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53905,Euphorbiaceae,Actinostemon,Actinostemon concolor var. ellipticus (Müll.Arg.) Müll.Arg.,concolor,ellipticus,(Müll.Arg.) Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53915,Euphorbiaceae,Actinostemon,Actinostemon concolor var. riedelii Müll.Arg.,concolor,riedelii,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53904,Euphorbiaceae,Actinostemon,Actinostemon concolor var. bicolor Müll.Arg.,concolor,bicolor,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53906,Euphorbiaceae,Actinostemon,Actinostemon concolor var. gardneri (Müll.Arg.) Müll.Arg.,concolor,gardneri,(Müll.Arg.) Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53914,Euphorbiaceae,Actinostemon,Actinostemon concolor var. platyphyllos (Müll.Arg.) Müll.Arg.,concolor,platyphyllos,(Müll.Arg.) Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53909,Euphorbiaceae,Actinostemon,Actinostemon concolor var. intermedius (Müll.Arg.) Müll.Arg.,concolor,intermedius,(Müll.Arg.) Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53907,Euphorbiaceae,Actinostemon,Actinostemon concolor var. genuinus Müll.Arg.,concolor,genuinus,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53911,Euphorbiaceae,Actinostemon,Actinostemon concolor var. microphyllus (Müll.Arg.) Müll.Arg.,concolor,microphyllus,(Müll.Arg.) Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53917,Euphorbiaceae,Actinostemon,Actinostemon concolor var. variifolius (Müll.Arg.) Müll.Arg.,concolor,variifolius,(Müll.Arg.) Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53916,Euphorbiaceae,Actinostemon,Actinostemon concolor var. sellowii (Müll.Arg.) Müll.Arg.,concolor,sellowii,(Müll.Arg.) Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53903,Euphorbiaceae,Actinostemon,Actinostemon concolor var. angustifolius (Klotzsch ex Regel) Müll.Arg.,concolor,angustifolius,(Klotzsch ex Regel) Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53902,Euphorbiaceae,Actinostemon,Actinostemon concolor var. acutissimus (Müll.Arg.) Müll.Arg.,concolor,acutissimus,(Müll.Arg.) Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53912,Euphorbiaceae,Actinostemon,Actinostemon concolor var. mucronatus (Müll.Arg.) Müll.Arg.,concolor,mucronatus,(Müll.Arg.) Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53910,Euphorbiaceae,Actinostemon,Actinostemon concolor var. longifolius (Müll.Arg.) Müll.Arg.,concolor,longifolius,(Müll.Arg.) Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53901,Euphorbiaceae,Actinostemon,Actinostemon concolor var. acuminatus (Baill.) Müll.Arg.,concolor,acuminatus,(Baill.) Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53945,Euphorbiaceae,Actinostemon,Actinostemon polymorphus var. bicolor Müll.Arg.,polymorphus,bicolor,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53950,Euphorbiaceae,Actinostemon,Actinostemon polymorphus var. longifolius Müll.Arg.,polymorphus,longifolius,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53940,Euphorbiaceae,Actinostemon,Actinostemon multiflorus var. leptostachys Chodat,multiflorus,leptostachys,Chodat,SINONIMO,17448,Actinostemon concolor
+53953,Euphorbiaceae,Actinostemon,Actinostemon polymorphus var. sellowii Müll.Arg.,polymorphus,sellowii,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53952,Euphorbiaceae,Actinostemon,Actinostemon polymorphus var. obovatus Müll.Arg.,polymorphus,obovatus,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53949,Euphorbiaceae,Actinostemon,Actinostemon polymorphus var. intermedius Müll.Arg.,polymorphus,intermedius,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53947,Euphorbiaceae,Actinostemon,Actinostemon polymorphus var. gardneri Müll.Arg.,polymorphus,gardneri,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53944,Euphorbiaceae,Actinostemon,Actinostemon polymorphus var. angustatus Müll.Arg.,polymorphus,angustatus,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53946,Euphorbiaceae,Actinostemon,Actinostemon polymorphus var. ellipticus Müll.Arg.,polymorphus,ellipticus,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53951,Euphorbiaceae,Actinostemon,Actinostemon polymorphus var. mucronatus Müll.Arg.,polymorphus,mucronatus,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53954,Euphorbiaceae,Actinostemon,Actinostemon polymorphus var. variifolius Müll.Arg.,polymorphus,variifolius,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53943,Euphorbiaceae,Actinostemon,Actinostemon polymorphus var. acutissimus Müll.Arg.,polymorphus,acutissimus,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+35639,Euphorbiaceae,Actinostemon,Actinostemon multiflorus Müll.Arg.,multiflorus,NA,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+35642,Euphorbiaceae,Actinostemon,Actinostemon sparsifolius (Müll.Arg.) Pax,sparsifolius,NA,(Müll.Arg.) Pax,SINONIMO,17448,Actinostemon concolor
+35637,Euphorbiaceae,Actinostemon,Actinostemon macrocarpus Müll.Arg.,macrocarpus,NA,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53887,Euphorbiaceae,Actinostemon,Actinostemon angustifolius (Müll.Arg.) Pax,angustifolius,NA,(Müll.Arg.) Pax,SINONIMO,17448,Actinostemon concolor
+53942,Euphorbiaceae,Actinostemon,Actinostemon polymorphus Müll.Arg.,polymorphus,NA,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+53886,Euphorbiaceae,Actinostemon,Actinostemon acuminatus Baill.,acuminatus,NA,Baill.,SINONIMO,17448,Actinostemon concolor
+53935,Euphorbiaceae,Actinostemon,Actinostemon grandifolius Baill.,grandifolius,NA,Baill.,SINONIMO,17448,Actinostemon concolor
+53939,Euphorbiaceae,Actinostemon,Actinostemon marginatus Klotzsch ex Baill.,marginatus,NA,Klotzsch ex Baill.,SINONIMO,17448,Actinostemon concolor
+53955,Euphorbiaceae,Actinostemon,Actinostemon sessilifolius Klotzsch,sessilifolius,NA,Klotzsch,SINONIMO,17448,Actinostemon concolor
+53957,Euphorbiaceae,Actinostemon,Actinostemon tortuosus Glaz.,tortuosus,NA,Glaz.,SINONIMO,17448,Actinostemon concolor
+53890,Euphorbiaceae,Actinostemon,Actinostemon cantagallensis Glaz.,cantagallensis,NA,Glaz.,SINONIMO,17448,Actinostemon concolor
+54917,Euphorbiaceae,Dactylostemon,Dactylostemon australis Müll.Arg.,australis,NA,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+54952,Euphorbiaceae,Dactylostemon,Dactylostemon oligandrus Müll.Arg.,oligandrus,NA,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+54955,Euphorbiaceae,Dactylostemon,Dactylostemon sparsifolius Müll.Arg.,sparsifolius,NA,Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+55406,Euphorbiaceae,Excoecaria,Excoecaria concolor (Spreng.) Spreng.,concolor,NA,(Spreng.) Spreng.,SINONIMO,17448,Actinostemon concolor
+55477,Euphorbiaceae,Gussonia,Gussonia concolor Spreng.,concolor,NA,Spreng.,SINONIMO,17448,Actinostemon concolor
+55505,Euphorbiaceae,Gymnanthes,Gymnanthes concolor (Spreng.) Müll.Arg.,concolor,NA,(Spreng.) Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+55475,Euphorbiaceae,Gussonia,Gussonia australis (Müll.Arg.) Kuntze,australis,NA,(Müll.Arg.) Kuntze,SINONIMO,17448,Actinostemon concolor
+57266,Euphorbiaceae,Stillingia,Stillingia concolor (Spreng.) Baill.,concolor,NA,(Spreng.) Baill.,SINONIMO,17448,Actinostemon concolor
+53948,Euphorbiaceae,Actinostemon,Actinostemon polymorphus var. grandifolius (Baill.) Müll.Arg.,polymorphus,grandifolius,(Baill.) Müll.Arg.,SINONIMO,17448,Actinostemon concolor
+35640,Euphorbiaceae,Actinostemon,Actinostemon oligandrus (Müll.Arg.) Baill.,oligandrus,NA,(Müll.Arg.) Baill.,SINONIMO,17448,Actinostemon concolor
+56138,Euphorbiaceae,Manihot,Manihot trifoliata var. platyphylla Ule,trifoliata,platyphylla,Ule,SINONIMO,17595,Manihot caerulescens
+17602,Euphorbiaceae,Manihot,Manihot heptaphylla Ule,heptaphylla,NA,Ule,SINONIMO,17595,Manihot caerulescens
+55985,Euphorbiaceae,Manihot,Manihot caerulescens var. genuina Müll.Arg.,caerulescens,genuina,Müll.Arg.,SINONIMO,17595,Manihot caerulescens
+598760,Euphorbiaceae,Manihot,Manihot coerulescens Pohl,coerulescens,NA,Pohl,SINONIMO,17595,Manihot caerulescens
+78581,Fabaceae,Cassia,Cassia eitenorum H.S.Irwin & Barneby,eitenorum,NA,H.S.Irwin & Barneby,SINONIMO,82895,Chamaecrista eitenorum
+110168,Fabaceae,Platymiscium,Platymiscium praecox Benth.,praecox,NA,Benth.,SINONIMO,29816,Platymiscium floribundum
+110171,Fabaceae,Platymiscium,Platymiscium blanchetii Benth.,blanchetii,NA,Benth.,SINONIMO,29816,Platymiscium floribundum
+73310,Rubiaceae,Mapouria,Mapouria herbacea var. orbicularis Müll.Arg.,herbacea,orbicularis,Müll.Arg.,SINONIMO,20746,Geophila orbicularis
+18457,Fabaceae,Crotalaria,Crotalaria hookeri Arn.,hookeri,NA,Arn.,SINONIMO,22903,Crotalaria pallida
+29580,Fabaceae,Crotalaria,Crotalaria striata DC.,striata,NA,DC.,SINONIMO,22903,Crotalaria pallida
+23602,Malvaceae,Quararibea,Quararibea martinii Baill.,martinii,NA,Baill.,SINONIMO,23601,Quararibea guianensis
+23602,Malvaceae,Quararibea,Quararibea martinii Baill.,martinii,NA,Baill.,SINONIMO,599520,Quararibea guianensis
+76207,Sapotaceae,Ragala,Ragala sanguinolenta Pierre,sanguinolenta,NA,Pierre,SINONIMO,24776,Chrysophyllum sanguinolentum
+75664,Sapotaceae,Guapeba,Guapeba torta (Mart.) Pierre,torta,NA,(Mart.) Pierre,SINONIMO,14518,Pouteria torta
+75714,Sapotaceae,Labatia,Labatia torta Mart.,torta,NA,Mart.,SINONIMO,14518,Pouteria torta
+75806,Sapotaceae,Lucuma,Lucuma torta (Mart.) A.DC.,torta,NA,(Mart.) A.DC.,SINONIMO,14518,Pouteria torta
+41272,Apocynaceae,Echites,Echites glaucus Roem. & Schult.,glaucus,NA,Roem. & Schult.,SINONIMO,15558,Hancornia speciosa
+41483,Apocynaceae,Hancornia,Hancornia pubescens Nees & Mart.,pubescens,NA,Nees & Mart.,SINONIMO,15558,Hancornia speciosa
+42139,Apocynaceae,Willughbeia,Willughbeia pubescens (Nees & Mart.) Mart.,pubescens,NA,(Nees & Mart.) Mart.,SINONIMO,15558,Hancornia speciosa
+41477,Apocynaceae,Hancornia,Hancornia gardneri (A.DC.) Miers,gardneri,NA,(A.DC.) Miers,SINONIMO,15558,Hancornia speciosa
+78562,Fabaceae,Cassia,Cassia chaetostegia H.S.Irwin & Barneby,chaetostegia,NA,H.S.Irwin & Barneby,SINONIMO,27880,Chamaecrista chaetostegia
+78575,Fabaceae,Cassia,Cassia cotinifolia G.Don,cotinifolia,NA,G.Don,SINONIMO,27903,Chamaecrista cotinifolia
+116227,Fabaceae,Cassia,Cassia linearifolia G.Don,linearifolia,NA,G.Don,SINONIMO,27986,Chamaecrista linearifolia
+115441,Fabaceae,Cassia,Cassia ochnacea Vogel,ochnacea,NA,Vogel,SINONIMO,28013,Chamaecrista ochnacea
+116100,Fabaceae,Cassia,Cassia orbiculata Benth.,orbiculata,NA,Benth.,SINONIMO,28021,Chamaecrista orbiculata
+115426,Fabaceae,Cassia,Cassia pilosa L.,pilosa,NA,L.,SINONIMO,28033,Chamaecrista pilosa
+78633,Fabaceae,Cassia,Cassia zygophylloides Taub.,zygophylloides,NA,Taub.,SINONIMO,28103,Chamaecrista zygophylloides
+114758,Fabaceae,Cassia,Cassia angulata var. miscadena Vogel,angulata,miscadena,Vogel,SINONIMO,28178,Senna angulata
+110045,Fabaceae,Cassia,Cassia corifolia Benth.,corifolia,NA,Benth.,SINONIMO,28188,Senna corifolia
+82795,Fabaceae,Cassia,Cassia hoffmannseggii var. gardneriana Benth.,hoffmannseggii,gardneriana,Benth.,SINONIMO,83703,Senna georgica
+82792,Fabaceae,Cassia,Cassia hirsuta L.,hirsuta,NA,L.,SINONIMO,23152,Senna hirsuta
+109437,Fabaceae,Cassia,Cassia pudibunda Mart. ex Benth.,pudibunda,NA,Mart. ex Benth.,SINONIMO,28201,Senna macranthera
+114761,Fabaceae,Cassia,Cassia spectabilis DC.,spectabilis,NA,DC.,SINONIMO,23172,Senna spectabilis
+78620,Fabaceae,Cassia,Cassia splendida Vogel,splendida,NA,Vogel,SINONIMO,28233,Senna splendida
+53471,Eriocaulaceae,Paepalanthus,Paepalanthus helichrysoides Kunth,helichrysoides,NA,Kunth,SINONIMO,7591,Paepalanthus elongatus
+53437,Eriocaulaceae,Paepalanthus,Paepalanthus elongatus var. barbulatus Körn.,elongatus,barbulatus,Körn.,SINONIMO,7591,Paepalanthus elongatus
+28836,Eriocaulaceae,Paepalanthus,Paepalanthus elongatus var. ciliatus Körn.,elongatus,ciliatus,Körn.,SINONIMO,7591,Paepalanthus elongatus
+28837,Eriocaulaceae,Paepalanthus,Paepalanthus elongatus var. glabrescens Moldenke,elongatus,glabrescens,Moldenke,SINONIMO,7591,Paepalanthus elongatus
+53438,Eriocaulaceae,Paepalanthus,Paepalanthus elongatus var. helichrysoides (Kunth) Ruhland,elongatus,helichrysoides,(Kunth) Ruhland,SINONIMO,7591,Paepalanthus elongatus
+52998,Eriocaulaceae,Dupatya,Dupatya elongata (Bong.) Kuntze,elongata,NA,(Bong.) Kuntze,SINONIMO,7591,Paepalanthus elongatus
+53192,Eriocaulaceae,Eriocaulon,Eriocaulon elongatum Bong.,elongatum,NA,Bong.,SINONIMO,7591,Paepalanthus elongatus
+53051,Eriocaulaceae,Dupatya,Dupatya macrocephala (Bong.) Kuntze,macrocephala,NA,(Bong.) Kuntze,SINONIMO,28890,Paepalanthus macrocephalus
+53240,Eriocaulaceae,Eriocaulon,Eriocaulon macrocephalum Bong.,macrocephalum,NA,Bong.,SINONIMO,28890,Paepalanthus macrocephalus
+53249,Eriocaulaceae,Eriocaulon,Eriocaulon molle (Kunth) Steud.,molle,NA,(Kunth) Steud.,SINONIMO,7621,Paepalanthus mollis
+35540,Eriocaulaceae,Syngonanthus,Syngonanthus caulescens var. proliferus Moldenke,caulescens,proliferus,Moldenke,SINONIMO,7655,Syngonanthus caulescens
+53648,Eriocaulaceae,Syngonanthus,Syngonanthus caulescens var. hirsutus Moldenke,caulescens,hirsutus,Moldenke,SINONIMO,7655,Syngonanthus caulescens
+52973,Eriocaulaceae,Dupatya,Dupatya caulescens (Poir.) Kuntze,caulescens,NA,(Poir.) Kuntze,SINONIMO,7655,Syngonanthus caulescens
+29025,Eriocaulaceae,Syngonanthus,Syngonanthus caulescens var. angustifolius Moldenke,caulescens,angustifolius,Moldenke,SINONIMO,7655,Syngonanthus caulescens
+17396,Eriocaulaceae,Syngonanthus,Syngonanthus glandulosus Gleason,glandulosus,NA,Gleason,SINONIMO,7655,Syngonanthus caulescens
+53169,Eriocaulaceae,Eriocaulon,Eriocaulon caulescens Poir.,caulescens,NA,Poir.,SINONIMO,7655,Syngonanthus caulescens
+53396,Eriocaulaceae,Paepalanthus,Paepalanthus caulescens (Poir.) Kunth,caulescens,NA,(Poir.) Kunth,SINONIMO,7655,Syngonanthus caulescens
+17397,Eriocaulaceae,Syngonanthus,Syngonanthus glandulosus var. epapillosus Moldenke,glandulosus,epapillosus,Moldenke,SINONIMO,7655,Syngonanthus caulescens
+52988,Eriocaulaceae,Dupatya,Dupatya densiflora (Körn.) Kuntze,densiflora,NA,(Körn.) Kuntze,SINONIMO,7658,Syngonanthus densiflorus
+29048,Eriocaulaceae,Syngonanthus,Syngonanthus densifolius Silveira var. densifolius,densifolius,densifolius,Silveira,SINONIMO,29046,Syngonanthus densifolius
+56142,Euphorbiaceae,Manihot,Manihot tripartita var. genuina Müll.Arg.,tripartita,genuina,Müll.Arg.,SINONIMO,17611,Manihot tripartita
+54000,Euphorbiaceae,Adenoropium,Adenoropium tripartitum (Spreng.) Pohl,tripartitum,NA,(Spreng.) Pohl,SINONIMO,17611,Manihot tripartita
+79138,Fabaceae,Platymiscium,Platymiscium duckei var. nigrum Ducke,duckei,nigrum,Ducke,SINONIMO,29819,Platymiscium trinitatis
+79137,Fabaceae,Platymiscium,Platymiscium duckei var. durum Ducke,duckei,durum,Ducke,SINONIMO,29819,Platymiscium trinitatis
+79136,Fabaceae,Platymiscium,Platymiscium duckei Huber,duckei,NA,Huber,SINONIMO,29819,Platymiscium trinitatis
+83638,Fabaceae,Platymiscium,Platymiscium nigrum Ducke,nigrum,NA,Ducke,SINONIMO,29819,Platymiscium trinitatis
+20722,Rubiaceae,Coussarea,Coussarea bahiensis Müll.Arg.,bahiensis,NA,Müll.Arg.,SINONIMO,13899,Coussarea contracta
+72338,Rubiaceae,Coussarea,Coussarea virens Müll.Arg.,virens,NA,Müll.Arg.,SINONIMO,13899,Coussarea contracta
+72322,Rubiaceae,Coussarea,Coussarea hoehnei (K.Krause) Standl.,hoehnei,NA,(K.Krause) Standl.,SINONIMO,13899,Coussarea contracta
+72631,Rubiaceae,Faramea,Faramea hassleriana Chodat,hassleriana,NA,Chodat,SINONIMO,13899,Coussarea contracta
+72628,Rubiaceae,Faramea,Faramea fiebrigii K.Krause,fiebrigii,NA,K.Krause,SINONIMO,13899,Coussarea contracta
+72632,Rubiaceae,Faramea,Faramea hoehnei K.Krause,hoehnei,NA,K.Krause,SINONIMO,13899,Coussarea contracta
+72622,Rubiaceae,Faramea,Faramea contracta Walp.,contracta,NA,Walp.,SINONIMO,13899,Coussarea contracta
+74307,Rubiaceae,Rubia,Rubia rupestris Gardner,rupestris,NA,Gardner,SINONIMO,14032,Galium hypocarpium
+74303,Rubiaceae,Rubia,Rubia ramosissima Pohl ex DC.,ramosissima,NA,Pohl ex DC.,SINONIMO,14032,Galium hypocarpium
+72731,Rubiaceae,Galium,Galium pauciflorum Willd. ex K.Schum.,pauciflorum,NA,Willd. ex K.Schum.,SINONIMO,14032,Galium hypocarpium
+74291,Rubiaceae,Rubia,Rubia glabra Gardner,glabra,NA,Gardner,SINONIMO,14032,Galium hypocarpium
+74167,Rubiaceae,Relbunium,Relbunium hypocarpium subsp. fluminense (Vell.) Ehrend.,hypocarpium,fluminense,(Vell.) Ehrend.,SINONIMO,14032,Galium hypocarpium
+74168,Rubiaceae,Relbunium,Relbunium hypocarpium subsp. grandifolium Ehrend.,hypocarpium,grandifolium,Ehrend.,SINONIMO,14032,Galium hypocarpium
+74171,Rubiaceae,Relbunium,Relbunium hypocarpium subsp. nitidum (Kunth) Ehrend.,hypocarpium,nitidum,(Kunth) Ehrend.,SINONIMO,14032,Galium hypocarpium
+72741,Rubiaceae,Galium,Galium rotundifolium var. bermudense (L.) Kuntze,rotundifolium,bermudense,(L.) Kuntze,SINONIMO,14032,Galium hypocarpium
+74165,Rubiaceae,Relbunium,Relbunium hypocarpium var. alpestre K.Schum.,hypocarpium,alpestre,K.Schum.,SINONIMO,14032,Galium hypocarpium
+74304,Rubiaceae,Rubia,Rubia ramosissima var. hispida Wawra,ramosissima,hispida,Wawra,SINONIMO,14032,Galium hypocarpium
+72712,Rubiaceae,Galium,Galium croceum Ruiz & Pav.,croceum,NA,Ruiz & Pav.,SINONIMO,14032,Galium hypocarpium
+72717,Rubiaceae,Galium,Galium fluminense Vell.,fluminense,NA,Vell.,SINONIMO,14032,Galium hypocarpium
+72728,Rubiaceae,Galium,Galium ovale Ruiz & Pav.,ovale,NA,Ruiz & Pav.,SINONIMO,14032,Galium hypocarpium
+72737,Rubiaceae,Galium,Galium repugnans Kunze ex Poepp.,repugnans,NA,Kunze ex Poepp.,SINONIMO,14032,Galium hypocarpium
+72700,Rubiaceae,Galium,Galium albicans Wedd.,albicans,NA,Wedd.,SINONIMO,14032,Galium hypocarpium
+72733,Rubiaceae,Galium,Galium quitense Wedd.,quitense,NA,Wedd.,SINONIMO,14032,Galium hypocarpium
+72703,Rubiaceae,Galium,Galium brasiliense Wawra,brasiliense,NA,Wawra,SINONIMO,14032,Galium hypocarpium
+72727,Rubiaceae,Galium,Galium orinocense (Kunth) Spreng.,orinocense,NA,(Kunth) Spreng.,SINONIMO,14032,Galium hypocarpium
+72718,Rubiaceae,Galium,Galium gardneri Walp.,gardneri,NA,Walp.,SINONIMO,14032,Galium hypocarpium
+74164,Rubiaceae,Relbunium,Relbunium hypocarpium (L.) Hemsl.,hypocarpium,NA,(L.) Hemsl.,SINONIMO,14032,Galium hypocarpium
+74191,Rubiaceae,Relbunium,Relbunium relbun (Cham. & Schltdl.) Herter,relbun,NA,(Cham. & Schltdl.) Herter,SINONIMO,14032,Galium hypocarpium
+74282,Rubiaceae,Rubia,Rubia affinis Gardner,affinis,NA,Gardner,SINONIMO,14032,Galium hypocarpium
+74300,Rubiaceae,Rubia,Rubia orinocensis Kunth,orinocensis,NA,Kunth,SINONIMO,14032,Galium hypocarpium
+74293,Rubiaceae,Rubia,Rubia hispida Willd. ex Spreng.,hispida,NA,Willd. ex Spreng.,SINONIMO,14032,Galium hypocarpium
+74284,Rubiaceae,Rubia,Rubia brownei Spreng.,brownei,NA,Spreng.,SINONIMO,14032,Galium hypocarpium
+74301,Rubiaceae,Rubia,Rubia ovalis (Ruiz & Pav.) DC.,ovalis,NA,(Ruiz & Pav.) DC.,SINONIMO,14032,Galium hypocarpium
+74286,Rubiaceae,Rubia,Rubia crocea (Ruiz & Pav.) DC.,crocea,NA,(Ruiz & Pav.) DC.,SINONIMO,14032,Galium hypocarpium
+74295,Rubiaceae,Rubia,Rubia incana Kunth,incana,NA,Kunth,SINONIMO,14032,Galium hypocarpium
+74305,Rubiaceae,Rubia,Rubia relbun Cham. & Schltdl.,relbun,NA,Cham. & Schltdl.,SINONIMO,14032,Galium hypocarpium
+74298,Rubiaceae,Rubia,Rubia nitida Kunth,nitida,NA,Kunth,SINONIMO,14032,Galium hypocarpium
+75328,Rubiaceae,Valantia,Valantia hypocarpia L.,hypocarpia,NA,L.,SINONIMO,14032,Galium hypocarpium
+74296,Rubiaceae,Rubia,Rubia indecora Cham. & Schltdl.,indecora,NA,Cham. & Schltdl.,SINONIMO,14032,Galium hypocarpium
+74294,Rubiaceae,Rubia,Rubia hypocarpia (L.) DC.,hypocarpia,NA,(L.) DC.,SINONIMO,14032,Galium hypocarpium
+74285,Rubiaceae,Rubia,Rubia chilensis Willd.,chilensis,NA,Willd.,SINONIMO,14032,Galium hypocarpium
+72742,Rubiaceae,Galium,Galium rupestre (Gardner) Walp.,rupestre,NA,(Gardner) Walp.,SINONIMO,14032,Galium hypocarpium
+72736,Rubiaceae,Galium,Galium relbun (Cham. & Schltdl.) Clos,relbun,NA,(Cham. & Schltdl.) Clos,SINONIMO,14032,Galium hypocarpium
+60922,Primulaceae,Myrsine,Myrsine marginata Hook. & Arn.,marginata,NA,Hook. & Arn.,SINONIMO,14462,Chrysophyllum marginatum
+75578,Sapotaceae,Cynodendron,Cynodendron marginatum (Hook. & Arn.) Baehni,marginatum,NA,(Hook. & Arn.) Baehni,SINONIMO,14462,Chrysophyllum marginatum
+50600,Cyperaceae,Fimbristylis,Fimbristylis hispidula (Vahl) Kunth,hispidula,NA,(Vahl) Kunth,SINONIMO,34889,Bulbostylis hispidula
+50579,Cyperaceae,Fimbristylis,Fimbristylis exilis var. hirsutissima Cherm.,exilis,hirsutissima,Cherm.,SINONIMO,34889,Bulbostylis hispidula
+48871,Cyperaceae,Abildgaardia,Abildgaardia hispidula (Vahl) Lye,hispidula,NA,(Vahl) Lye,SINONIMO,34889,Bulbostylis hispidula
+49001,Cyperaceae,Bulbostylis,Bulbostylis woronowii Palla,woronowii,NA,Palla,SINONIMO,34889,Bulbostylis hispidula
+49174,Cyperaceae,Chaetospora,Chaetospora distachya Nees,distachya,NA,Nees,SINONIMO,34889,Bulbostylis hispidula
+50531,Cyperaceae,Fimbristylis,Fimbristylis chirigota (C.Wright) Alain,chirigota,NA,(C.Wright) Alain,SINONIMO,34889,Bulbostylis hispidula
+50534,Cyperaceae,Fimbristylis,Fimbristylis clavinux C.B.Clarke,clavinux,NA,C.B.Clarke,SINONIMO,34889,Bulbostylis hispidula
+50578,Cyperaceae,Fimbristylis,Fimbristylis exilis (Kunth) Roem. & Schult.,exilis,NA,(Kunth) Roem. & Schult.,SINONIMO,34889,Bulbostylis hispidula
+50595,Cyperaceae,Fimbristylis,Fimbristylis hildebrandtii (Boeckeler) Ridl.,hildebrandtii,NA,(Boeckeler) Ridl.,SINONIMO,34889,Bulbostylis hispidula
+50645,Cyperaceae,Fimbristylis,Fimbristylis preslii Kunth,preslii,NA,Kunth,SINONIMO,34889,Bulbostylis hispidula
+50690,Cyperaceae,Fimbristylis,Fimbristylis trichophora Steud. ex C.B.Clarke,trichophora,NA,Steud. ex C.B.Clarke,SINONIMO,34889,Bulbostylis hispidula
+50921,Cyperaceae,Isolepis,Isolepis consocialis Steud.,consocialis,NA,Steud.,SINONIMO,34889,Bulbostylis hispidula
+50893,Cyperaceae,Isolepis,Isolepis abyssinica Hochst. ex C.B.Clarke,abyssinica,NA,Hochst. ex C.B.Clarke,SINONIMO,34889,Bulbostylis hispidula
+50987,Cyperaceae,Isolepis,Isolepis pubiculmis Boeckeler,pubiculmis,NA,Boeckeler,SINONIMO,34889,Bulbostylis hispidula
+50988,Cyperaceae,Isolepis,Isolepis pubigera Rchb. ex Kunth,pubigera,NA,Rchb. ex Kunth,SINONIMO,34889,Bulbostylis hispidula
+51011,Cyperaceae,Isolepis,Isolepis schweinfurthiana Oliv.,schweinfurthiana,NA,Oliv.,SINONIMO,34889,Bulbostylis hispidula
+52041,Cyperaceae,Scirpus,Scirpus chirigota C.Wright,chirigota,NA,C.Wright,SINONIMO,34889,Bulbostylis hispidula
+52074,Cyperaceae,Scirpus,Scirpus exilis (Kunth) Poir.,exilis,NA,(Kunth) Poir.,SINONIMO,34889,Bulbostylis hispidula
+52107,Cyperaceae,Scirpus,Scirpus hispidulus Vahl,hispidulus,NA,Vahl,SINONIMO,34889,Bulbostylis hispidula
+52540,Cyperaceae,Trichelostylis,Trichelostylis pilosula Nees ex Boeckeler,pilosula,NA,Nees ex Boeckeler,SINONIMO,34889,Bulbostylis hispidula
+50982,Cyperaceae,Isolepis,Isolepis perrottetii Steud.,perrottetii,NA,Steud.,SINONIMO,34889,Bulbostylis hispidula
+50933,Cyperaceae,Isolepis,Isolepis exilis Kunth,exilis,NA,Kunth,SINONIMO,34889,Bulbostylis hispidula
+55056,Euphorbiaceae,Dalechampia,Dalechampia villosa Lam.,villosa,NA,Lam.,SINONIMO,17556,Dalechampia scandens
+595290,Phyllanthaceae,Phyllanthus,Phyllanthus guianensis (Aubl.) Müll.Arg.,guianensis,NA,(Aubl.) Müll.Arg.,SINONIMO,38492,Phyllanthus attenuatus
+33235,Verbenaceae,Stachytarpheta,Stachytarpheta gesnerioides var. cuneata Schauer,gesnerioides,cuneata,Schauer,SINONIMO,33233,Stachytarpheta gesnerioides
+33220,Verbenaceae,Stachytarpheta,Stachytarpheta azurea Moldenke,azurea,NA,Moldenke,SINONIMO,33233,Stachytarpheta gesnerioides
+39771,Verbenaceae,Stachytarpheta,Stachytarpheta spathulata subsp. mogolensis S.Atkins,spathulata,mogolensis,S.Atkins,SINONIMO,39770,Stachytarpheta spathulata
+39640,Verbenaceae,Bouchea,Bouchea chascanoides Moldenke,chascanoides,NA,Moldenke,SINONIMO,39770,Stachytarpheta spathulata
+46624,Bromeliaceae,Ortgiesia,Ortgiesia blumenavii (Reitz) L.B.Sm. & W.J.Kress,blumenavii,NA,(Reitz) L.B.Sm. & W.J.Kress,SINONIMO,5769,Aechmea blumenavii
+47904,Caryocaraceae,Pekea,Pekea ternata Poir.,ternata,NA,Poir.,SINONIMO,22408,Caryocar glabrum
+47909,Caryocaraceae,Rhizobolus,Rhizobolus glaber (Aubl.) Corrêa ex Steud.,glaber,NA,(Aubl.) Corrêa ex Steud.,SINONIMO,22408,Caryocar glabrum
+47888,Caryocaraceae,Caryocar,Caryocar coccineum Pilg.,coccineum,NA,Pilg.,SINONIMO,22408,Caryocar glabrum
+47896,Caryocaraceae,Caryocar,Caryocar tessmannii Pilg.,tessmannii,NA,Pilg.,SINONIMO,22408,Caryocar glabrum
+47898,Caryocaraceae,Caryocar,Caryocar toxiferum Barb.Rodr.,toxiferum,NA,Barb.Rodr.,SINONIMO,22408,Caryocar glabrum
+47911,Caryocaraceae,Rhizobolus,Rhizobolus saouvari Corrêa,saouvari,NA,Corrêa,SINONIMO,22408,Caryocar glabrum
+47912,Caryocaraceae,Rhizobolus,Rhizobolus souari Steud.,souari,NA,Steud.,SINONIMO,22408,Caryocar glabrum
+47916,Caryocaraceae,Souari,Souari glabra Aubl.,glabra,NA,Aubl.,SINONIMO,22408,Caryocar glabrum
+48285,Clethraceae,Crossophrys,Crossophrys chamissonis Klotzsch ex Meisn.,chamissonis,NA,Klotzsch ex Meisn.,SINONIMO,6824,Clethra scabra
+48273,Clethraceae,Clethra,Clethra brasiliensis Cham. & Schltdl.,brasiliensis,NA,Cham. & Schltdl.,SINONIMO,6824,Clethra scabra
+48284,Clethraceae,Crossophrys,Crossophrys brasiliensis (Cham. & Schltdl.) Klotzsch ex Meisn.,brasiliensis,NA,(Cham. & Schltdl.) Klotzsch ex Meisn.,SINONIMO,6824,Clethra scabra
+54612,Euphorbiaceae,Croton,Croton glandulosus var. crenatifolius A.M.Ferguson,glandulosus,crenatifolius,A.M.Ferguson,SINONIMO,17514,Croton glandulosus
+54613,Euphorbiaceae,Croton,Croton glandulosus var. croftiae A.M.Ferguson,glandulosus,croftiae,A.M.Ferguson,SINONIMO,17514,Croton glandulosus
+54615,Euphorbiaceae,Croton,Croton glandulosus var. floridanus (A.M.Ferguson) R.W.Long,glandulosus,floridanus,(A.M.Ferguson) R.W.Long,SINONIMO,17514,Croton glandulosus
+54616,Euphorbiaceae,Croton,Croton glandulosus var. genuinus Müll.Arg.,glandulosus,genuinus,Müll.Arg.,SINONIMO,17514,Croton glandulosus
+54621,Euphorbiaceae,Croton,Croton glandulosus var. intermedius Müll.Arg.,glandulosus,intermedius,Müll.Arg.,SINONIMO,17514,Croton glandulosus
+54624,Euphorbiaceae,Croton,Croton glandulosus var. martii Müll.Arg.,glandulosus,martii,Müll.Arg.,SINONIMO,17514,Croton glandulosus
+54625,Euphorbiaceae,Croton,Croton glandulosus var. occidentalis Müll.Arg.,glandulosus,occidentalis,Müll.Arg.,SINONIMO,17514,Croton glandulosus
+54626,Euphorbiaceae,Croton,Croton glandulosus var. parviseminus Croizat,glandulosus,parviseminus,Croizat,SINONIMO,17514,Croton glandulosus
+54628,Euphorbiaceae,Croton,Croton glandulosus var. sagotii Müll.Arg.,glandulosus,sagotii,Müll.Arg.,SINONIMO,17514,Croton glandulosus
+54630,Euphorbiaceae,Croton,Croton glandulosus var. scordioides (Lam.) Müll.Arg.,glandulosus,scordioides,(Lam.) Müll.Arg.,SINONIMO,17514,Croton glandulosus
+54629,Euphorbiaceae,Croton,Croton glandulosus var. schomburgkianus Müll.Arg.,glandulosus,schomburgkianus,Müll.Arg.,SINONIMO,17514,Croton glandulosus
+54632,Euphorbiaceae,Croton,Croton glandulosus var. shortii A.M.Ferguson,glandulosus,shortii,A.M.Ferguson,SINONIMO,17514,Croton glandulosus
+54633,Euphorbiaceae,Croton,Croton glandulosus var. sieberi Müll.Arg.,glandulosus,sieberi,Müll.Arg.,SINONIMO,17514,Croton glandulosus
+54634,Euphorbiaceae,Croton,Croton glandulosus var. simpsonii A.M.Ferguson,glandulosus,simpsonii,A.M.Ferguson,SINONIMO,17514,Croton glandulosus
+54637,Euphorbiaceae,Croton,Croton glandulosus var. tenellus Müll.Arg.,glandulosus,tenellus,Müll.Arg.,SINONIMO,17514,Croton glandulosus
+54638,Euphorbiaceae,Croton,Croton glandulosus var. warmingii Müll.Arg.,glandulosus,warmingii,Müll.Arg.,SINONIMO,17514,Croton glandulosus
+29212,Euphorbiaceae,Croton,Croton klotzschii (Didr.) Müll.Arg.,klotzschii,NA,(Didr.) Müll.Arg.,SINONIMO,17514,Croton glandulosus
+54283,Euphorbiaceae,Brachystachys,Brachystachys hirta Klotzsch,hirta,NA,Klotzsch,SINONIMO,17514,Croton glandulosus
+54596,Euphorbiaceae,Croton,Croton floridanus A.M.Ferguson,floridanus,NA,A.M.Ferguson,SINONIMO,17514,Croton glandulosus
+54582,Euphorbiaceae,Croton,Croton divaricatus Sw.,divaricatus,NA,Sw.,SINONIMO,17514,Croton glandulosus
+55060,Euphorbiaceae,Decarinium,Decarinium latifolium Raf.,latifolium,NA,Raf.,SINONIMO,17514,Croton glandulosus
+54833,Euphorbiaceae,Croton,Croton scordioides Lam.,scordioides,NA,Lam.,SINONIMO,17514,Croton glandulosus
+54610,Euphorbiaceae,Croton,Croton glandulosus var. angustifolius Müll.Arg.,glandulosus,angustifolius,Müll.Arg.,SINONIMO,17514,Croton glandulosus
+54614,Euphorbiaceae,Croton,Croton glandulosus var. divaricatus (Sw.) Müll.Arg.,glandulosus,divaricatus,(Sw.) Müll.Arg.,SINONIMO,17514,Croton glandulosus
+54636,Euphorbiaceae,Croton,Croton glandulosus var. surinamensis Geiseler,glandulosus,surinamensis,Geiseler,SINONIMO,17514,Croton glandulosus
+54658,Euphorbiaceae,Croton,Croton herbaceus Vell.,herbaceus,NA,Vell.,SINONIMO,17514,Croton glandulosus
+55059,Euphorbiaceae,Decarinium,Decarinium glandulosum (L.) Raf.,glandulosum,NA,(L.) Raf.,SINONIMO,17514,Croton glandulosus
+56349,Euphorbiaceae,Oxydectes,Oxydectes glandulosa (L.) Kuntze,glandulosa,NA,(L.) Kuntze,SINONIMO,17514,Croton glandulosus
+56618,Euphorbiaceae,Pleopadium,Pleopadium ciliatum Raf.,ciliatum,NA,Raf.,SINONIMO,17514,Croton glandulosus
+17503,Euphorbiaceae,Croton,Croton astraeatus Baill.,astraeatus,NA,Baill.,SINONIMO,17514,Croton glandulosus
+54567,Euphorbiaceae,Croton,Croton corchorifolius Geiseler,corchorifolius,NA,Geiseler,SINONIMO,17514,Croton glandulosus
+56350,Euphorbiaceae,Oxydectes,Oxydectes glandulosa var. genuina Kuntze,glandulosa,genuina,Kuntze,SINONIMO,17514,Croton glandulosus
+54497,Euphorbiaceae,Croton,Croton affinis Geiseler,affinis,NA,Geiseler,SINONIMO,17514,Croton glandulosus
+55606,Euphorbiaceae,Hevea,Hevea pauciflora var. typica Ducke,pauciflora,typica,Ducke,SINONIMO,36101,Hevea pauciflora
+57247,Euphorbiaceae,Siphonia,Siphonia pauciflora Spruce ex Benth.,pauciflora,NA,Spruce ex Benth.,SINONIMO,36101,Hevea pauciflora
+58193,Juncaceae,Juncus,Juncus acutus var. megalocarpus Asch. & Graebn.,acutus,megalocarpus,Asch. & Graebn.,SINONIMO,36439,Juncus acutus
+74964,Rubiaceae,Uragoga,Uragoga deflexa (DC.) Kuntze,deflexa,NA,(DC.) Kuntze,SINONIMO,14170,Psychotria deflexa
+120637,Fabaceae,Hymenolobium,Hymenolobium stipulatum N.F. Mattos,stipulatum,NA,N.F. Mattos,SINONIMO,79084,Hymenolobium janeirense
+101229,Calophyllaceae,Caraipa,Caraipa grandifolia subsp. palustris (Barb.Rodr.) Ducke,grandifolia,palustris,(Barb.Rodr.) Ducke,SINONIMO,81759,Caraipa grandifolia
+81767,Calophyllaceae,Caraipa,Caraipa paraensis Huber,paraensis,NA,Huber,SINONIMO,81759,Caraipa grandifolia
+101219,Calophyllaceae,Caraipa,Caraipa calophylla Benth.,calophylla,NA,Benth.,SINONIMO,81759,Caraipa grandifolia
+101231,Calophyllaceae,Caraipa,Caraipa lacerdaei Barb.Rodr.,lacerdaei,NA,Barb.Rodr.,SINONIMO,81759,Caraipa grandifolia
+101237,Calophyllaceae,Caraipa,Caraipa palustris Barb.Rodr.,palustris,NA,Barb.Rodr.,SINONIMO,81759,Caraipa grandifolia
+101225,Calophyllaceae,Caraipa,Caraipa glabrata Mart.,glabrata,NA,Mart.,SINONIMO,81759,Caraipa grandifolia
+594048,Ericaceae,Vaccinium,Vaccinium subcrenulatum Klotzsch ex Meissner,subcrenulatum,NA,Klotzsch ex Meissner,SINONIMO,82379,Vaccinium puberulum
+78601,Fabaceae,Cassia,Cassia negrensis H.S.Irwin,negrensis,NA,H.S.Irwin,SINONIMO,82907,Chamaecrista negrensis
+82825,Fabaceae,Cassia,Cassia quinquangulata Rich.,quinquangulata,NA,Rich.,SINONIMO,23166,Senna quinquangulata
+31408,Fabaceae,Stryphnodendron,Stryphnodendron goyazense Taub.,goyazense,NA,Taub.,SINONIMO,83743,Stryphnodendron rotundifolium
+83736,Fabaceae,Stryphnodendron,Stryphnodendron obovatum Benth.,obovatum,NA,Benth.,SINONIMO,83743,Stryphnodendron rotundifolium
+125782,Fabaceae,Stryphnodendron,Stryphnodendron discolor Benth.,discolor,NA,Benth.,SINONIMO,83743,Stryphnodendron rotundifolium
+83121,Fabaceae,Dipteryx,Dipteryx cordata (Ducke) R.S.Cowan,cordata,NA,(Ducke) R.S.Cowan,SINONIMO,79146,Taralea cordata
+84084,Humiriaceae,Humiria,Humiria floribunda (Mart.) Urb.,floribunda,NA,(Mart.) Urb.,SINONIMO,7975,Humiria balsamifera
+84083,Humiriaceae,Humiria,Humiria cuspidatum Benth.,cuspidatum,NA,Benth.,SINONIMO,23296,Humiriastrum cuspidatum
+84879,Malvaceae,Bombax,Bombax rigidifoliium Ducke,rigidifoliium,NA,Ducke,SINONIMO,23585,Pachira aquatica
+23531,Malvaceae,Apeiba,Apeiba aspera Aubl.,aspera,NA,Aubl.,SINONIMO,85058,Apeiba echinata
+85060,Malvaceae,Apeiba,Apeiba macropetala Ducke,macropetala,NA,Ducke,SINONIMO,85058,Apeiba echinata
+596810,Malvaceae,Apeiba,Apeiba petoumo Aubl.,petoumo,NA,Aubl.,SINONIMO,85058,Apeiba echinata
+599384,Malvaceae,Apeiba,Apeiba discolor G. Don,discolor,NA,G. Don,SINONIMO,85058,Apeiba echinata
+597730,Malvaceae,Apeiba,Apeiba hispida Gaertn.,hispida,NA,Gaertn.,SINONIMO,85058,Apeiba echinata
+71430,Rubiaceae,Alibertia,Alibertia myrciifolia var. tepuiensis Steyerm.,myrciifolia,tepuiensis,Steyerm.,SINONIMO,13892,Cordiera myrciifolia
+24413,Rubiaceae,Alibertia,Alibertia myrciifolia Spruce ex K.Schum.,myrciifolia,NA,Spruce ex K.Schum.,SINONIMO,13892,Cordiera myrciifolia
+71438,Rubiaceae,Alibertia,Alibertia triloba Steyerm.,triloba,NA,Steyerm.,SINONIMO,13892,Cordiera myrciifolia
+71441,Rubiaceae,Alibertia,Alibertia uniflora Standl.,uniflora,NA,Standl.,SINONIMO,13892,Cordiera myrciifolia
+87774,Sapindaceae,Paullinia,Paullinia cupana var. sorbilis (Mart.) Ducke,cupana,sorbilis,(Mart.) Ducke,SINONIMO,24714,Paullinia cupana
+135031,Sapindaceae,Paullinia,Paullinia sorbilis T. Mart.,sorbilis,NA,T. Mart.,SINONIMO,24714,Paullinia cupana
+115455,Cyatheaceae,Hemitelia,Hemitelia capensis (L.f.) Spreng.,capensis,NA,(L.f.) Spreng.,SINONIMO,90852,Alsophila capensis
+115454,Cyatheaceae,Cyathea,Cyathea capensis (L.f.) J.Sm.,capensis,NA,(L.f.) J.Sm.,SINONIMO,90852,Alsophila capensis
+117186,Polypodiaceae,Polypodium,Polypodium capense L.f.,capense,NA,L.f.,SINONIMO,90852,Alsophila capensis
+581493,Pottiaceae,Tortula,Tortula squarrosum (Brid.) Brid.,squarrosum,NA,(Brid.) Brid.,SINONIMO,96810,Leptodontium viticulosoides
+581727,Sphagnaceae,Sphagnum,Sphagnum submolluscum Hampe,submolluscum,NA,Hampe,SINONIMO,97038,Sphagnum gracilescens
+135042,NA,Podosira,Podosira subtilis Ostenfeld,subtilis,NA,Ostenfeld,SINONIMO,98192,Thalassiosira subtilis
+122916,NA,Navicula,Navicula aspera Ehrenb.,aspera,NA,Ehrenb.,SINONIMO,98202,Trachyneis aspera
+98668,NA,Nitzschia,Nitzschia punctata (W.Sm.) Grunow,punctata,NA,(W.Sm.) Grunow,SINONIMO,98234,Tryblionella punctata
+119173,NA,Pleurosigma,Pleurosigma balticum (Ehrenberg) W.Smith,balticum,NA,(Ehrenberg) W.Smith,SINONIMO,98505,Gyrosigma balticum
+134955,NA,Eunotia,Eunotia amphioxys Ehrenberg,amphioxys,NA,Ehrenberg,SINONIMO,98512,Hantzschia amphioxys
+130900,NA,Fucus,Fucus racemosus Forssk.,racemosus,NA,Forssk.,SINONIMO,99074,Caulerpa racemosa
+99084,NA,Caulerpa,Caulerpa clavifera (Turner) C.Agardh,clavifera,NA,(Turner) C.Agardh,SINONIMO,99074,Caulerpa racemosa
+99567,NA,Sargassum,Sargassum rigidulum Kütz.,rigidulum,NA,Kütz.,SINONIMO,99566,Sargassum cymosum
+81756,Calophyllaceae,Caraipa,Caraipa excelsa Ducke,excelsa,NA,Ducke,SINONIMO,6829,Caraipa densifolia
+81763,Calophyllaceae,Caraipa,Caraipa melhemiana Paula,melhemiana,NA,Paula,SINONIMO,6829,Caraipa densifolia
+101246,Calophyllaceae,Caraipa,Caraipa variabilis Cambess.,variabilis,NA,Cambess.,SINONIMO,6829,Caraipa densifolia
+101233,Calophyllaceae,Caraipa,Caraipa laxiflora Benth.,laxiflora,NA,Benth.,SINONIMO,6829,Caraipa densifolia
+101230,Calophyllaceae,Caraipa,Caraipa insidiosa Barb.Rodr.,insidiosa,NA,Barb.Rodr.,SINONIMO,6829,Caraipa densifolia
+101222,Calophyllaceae,Caraipa,Caraipa fasciculata Cambess.,fasciculata,NA,Cambess.,SINONIMO,6829,Caraipa densifolia
+101232,Calophyllaceae,Caraipa,Caraipa laurifolia Spruce ex Choisy,laurifolia,NA,Spruce ex Choisy,SINONIMO,6829,Caraipa densifolia
+32383,Podostemaceae,Castelnavia,Castelnavia lindmaniana Warm.,lindmaniana,NA,Warm.,,32385,Castelnavia multipartita
+32381,Podostemaceae,Castelnavia,Castelnavia fimbriata Tul. & Wedd.,fimbriata,NA,Tul. & Wedd.,SINONIMO,32385,Castelnavia multipartita
+599039,Piperaceae,Piper,Piper tetraphyllum G. Forst.,tetraphyllum,NA,G. Forst.,SINONIMO,12724,Peperomia tetraphylla
+103643,Fabaceae,Swartzia,Swartzia elegans Schott,elegans,NA,Schott,SINONIMO,23187,Swartzia myrtifolia
+116213,Fabaceae,Cassia,Cassia incurvata Benth.,incurvata,NA,Benth.,SINONIMO,27971,Chamaecrista incurvata
+130234,Poaceae,Agrostis,Agrostis ramboi Parodi,ramboi,NA,Parodi,SINONIMO,104948,Bromidium ramboi
+105066,Turneraceae,Piriqueta,Piriqueta caroliniana (Walter) Urb.,caroliniana,NA,(Walter) Urb.,SINONIMO,14982,Piriqueta cistoides
+105062,Turneraceae,Turnera,Turnera cistoides L.,cistoides,NA,L.,SINONIMO,14982,Piriqueta cistoides
+601128,Turneraceae,Piriqueta,Piriqueta caroliniana var. exasperata Urb.,caroliniana,exasperata,Urb.,SINONIMO,14982,Piriqueta cistoides
+105057,Turneraceae,Turnera,Turnera duarteana Cambess.,duarteana,NA,Cambess.,SINONIMO,14983,Piriqueta duarteana
+107557,NA,Penium,Penium closterioides Ralfs,closterioides,NA,Ralfs,SINONIMO,107129,Closterium closterioides
+133878,NA,Hyalotheca,Hyalotheca dissiliens (Nordst.) Boldt var. dissiliens form. bidentula,dissiliens,dissiliens,(Nordst.) Boldt,SINONIMO,107458,Hyalotheca dissiliens
+134720,NA,Micrasterias,Micrasterias sol (Ehrenb.) Kütz.,sol,NA,(Ehrenb.) Kütz.,SINONIMO,107502,Micrasterias radiosa
+107529,NA,Penium,Penium digitus Bréb. ex Ralfs,digitus,NA,Bréb. ex Ralfs,SINONIMO,107528,Netrium digitus
+135037,NA,Penium,Penium oblongum De Bary,oblongum,NA,De Bary,SINONIMO,107536,Netrium oblongum
+107744,NA,Arthrodesmus,Arthrodesmus subulatus Kütz.,subulatus,NA,Kütz.,SINONIMO,107743,Staurodesmus subulatus
+134757,NA,Sphaerozosma,Sphaerozosma wallichii J.Jacobsen,wallichii,NA,J.Jacobsen,SINONIMO,107750,Teilingia wallichii
+134471,NA,Closterium,Closterium brebissonii Menegh.,brebissonii,NA,Menegh.,SINONIMO,107756,Tetmemorus brebissonii
+107768,NA,Xanthidium,Xanthidium antilopaeum var. triquetrum P.Lundell,antilopaeum,triquetrum,P.Lundell,SINONIMO,107767,Xanthidium antilopaeum
+102735,NA,Trachelomonas,Trachelomonas scabra Playfair,scabra,NA,Playfair,SINONIMO,102733,Strombomonas scabra
+605324,Iridaceae,Alophia,Alophia hauthalii Kuntze,hauthalii,NA,Kuntze,SINONIMO,111484,Cypella hauthalii
+117482,Pteridaceae,Acrostichum,Acrostichum polypodioides L.,polypodioides,NA,L.,SINONIMO,111495,Pleopeltis polypodioides
+9521,Melastomataceae,Leandra,Leandra confusa Cogn.,confusa,NA,Cogn.,SINONIMO,9515,Leandra carassana
+105774,Melastomataceae,Leandra,Leandra sublanata var. alpha Wurdack,sublanata,alpha,Wurdack,SINONIMO,9515,Leandra carassana
+9530,Melastomataceae,Leandra,Leandra dispar (Gardner) Cogn.,dispar,NA,(Gardner) Cogn.,SINONIMO,9515,Leandra carassana
+103517,Melastomataceae,Leandra,Leandra sublanata Cogn.,sublanata,NA,Cogn.,SINONIMO,9515,Leandra carassana
+100811,NA,Thamnophora,Thamnophora hypnoides Bory,hypnoides,NA,Bory,SINONIMO,100807,Spyridia hypnoides
+100808,NA,Spyridia,Spyridia aculeata (C.Agardh ex Decne.) Kütz.,aculeata,NA,(C.Agardh ex Decne.) Kütz.,SINONIMO,100807,Spyridia hypnoides
+9623,Melastomataceae,Leandra,Leandra sylvatica Cogn.,sylvatica,NA,Cogn.,SINONIMO,9596,Leandra polystachya
+111352,Melastomataceae,Leandra,Leandra simplicicaulis (Naudin) Cogn.,simplicicaulis,NA,(Naudin) Cogn.,SINONIMO,9596,Leandra polystachya
+115220,Fabaceae,Copaiba,Copaiba martii (Hayne) Kuntze,martii,NA,(Hayne) Kuntze,SINONIMO,82966,Copaifera martii
+134516,Lythraceae,Friedlandia,Friedlandia amoena Chamisso & Schlechtendal,amoena,NA,Chamisso & Schlechtendal,SINONIMO,8778,Diplusodon virgatus
+134515,Lythraceae,Diplusodon,Diplusodon amoenus (Cham. et Schltdl.) DC.,amoenus,NA,(Cham. et Schltdl.) DC.,SINONIMO,8778,Diplusodon virgatus
+130902,NA,Fucus,Fucus serrulatus Forssk.,serrulatus,NA,Forssk.,SINONIMO,99098,Caulerpa serrulata
+17413,Eriocaulaceae,Syngonanthus,Syngonanthus xeranthemoides (Bong.) Ruhland var. xeranthemoides,xeranthemoides,xeranthemoides,(Bong.) Ruhland,SINONIMO,116678,Comanthera xeranthemoides
+7677,Eriocaulaceae,Syngonanthus,Syngonanthus xeranthemoides (Bong.) Ruhland,xeranthemoides,NA,(Bong.) Ruhland,SINONIMO,116678,Comanthera xeranthemoides
+53137,Eriocaulaceae,Dupatya,Dupatya xeranthemoides (Bong.) Kuntze,xeranthemoides,NA,(Bong.) Kuntze,SINONIMO,116678,Comanthera xeranthemoides
+53321,Eriocaulaceae,Eriocaulon,Eriocaulon xeranthemoides Bong.,xeranthemoides,NA,Bong.,SINONIMO,116678,Comanthera xeranthemoides
+53627,Eriocaulaceae,Paepalanthus,Paepalanthus xeranthemoides (Bong.) Körn.,xeranthemoides,NA,(Bong.) Körn.,SINONIMO,116678,Comanthera xeranthemoides
+128422,Marcgraviaceae,Ruyschia,Ruyschia guianensis (Aubl.) Sw.,guianensis,NA,(Aubl.) Sw.,SINONIMO,19598,Souroubea guianensis
+581575,Rhacocarpaceae,Harrisonia,Harrisonia inermis (Müll. Hal.) Ångstr.,inermis,NA,(Müll. Hal.) Ångstr.,SINONIMO,117205,Rhacocarpus inermis
+134778,NA,Staurastrum,Staurastrum cuspidatum Bréb.,cuspidatum,NA,Bréb.,SINONIMO,107727,Staurodesmus cuspidatus
+83741,Fabaceae,Stryphnodendron,Stryphnodendron purpureum Ducke,purpureum,NA,Ducke,SINONIMO,78982,Stryphnodendron guianense
+20553,Polygalaceae,Polygala,Polygala hebeclada DC.,hebeclada,NA,DC.,SINONIMO,127257,Asemeia hebeclada
+81510,Cactaceae,Phyllocactus,Phyllocactus phyllanthus (L.) Link,phyllanthus,NA,(L.) Link,SINONIMO,1512,Epiphyllum phyllanthus
+596038,Cactaceae,Rhipsalis,Rhipsalis phyllanthus (L.) K.Schum.,phyllanthus,NA,(L.) K.Schum.,SINONIMO,1512,Epiphyllum phyllanthus
+47081,Bromeliaceae,Tillandsia,Tillandsia lingulata L.,lingulata,NA,L.,SINONIMO,6093,Guzmania lingulata
+91408,Lycopodiaceae,Huperzia,Huperzia linifolia (L.) Trevis.,linifolia,NA,(L.) Trevis.,SINONIMO,128516,Phlegmariurus linifolius
+45822,Bromeliaceae,Aregelia,Aregelia makoyana (Regel) Mez,makoyana,NA,(Regel) Mez,SINONIMO,6253,Nidularium innocentii
+46248,Bromeliaceae,Gemellaria,Gemellaria innocentii (Lem.) Pinel ex Lem.,innocentii,NA,(Lem.) Pinel ex Lem.,SINONIMO,6253,Nidularium innocentii
+46515,Bromeliaceae,Neoregelia,Neoregelia makoyana (Regel) L.B.Sm.,makoyana,NA,(Regel) L.B.Sm.,SINONIMO,6253,Nidularium innocentii
+46570,Bromeliaceae,Nidularium,Nidularium lineatum Mez,lineatum,NA,Mez,SINONIMO,6253,Nidularium innocentii
+46890,Bromeliaceae,Regelia,Regelia makoyana (Regel) Lindm.,makoyana,NA,(Regel) Lindm.,SINONIMO,6253,Nidularium innocentii
+5325,Asteraceae,Gochnatia,Gochnatia polymorpha (Less.) Cabrera,polymorpha,NA,(Less.) Cabrera,SINONIMO,130869,Moquiniastrum polymorphum
+117289,Asteraceae,Spadonia,Spadonia polymorpha Less.,polymorpha,NA,Less.,SINONIMO,130869,Moquiniastrum polymorphum
+126686,Asteraceae,Baccharis,Baccharis lessingiana DC.,lessingiana,NA,DC.,SINONIMO,130869,Moquiniastrum polymorphum
+98593,NA,Navicula,Navicula braunii Grunow,braunii,NA,Grunow,SINONIMO,119326,Pinnularia brauniana
+119327,NA,Pinnularia,Pinnularia braunii (Grunow) Cleve,braunii,NA,(Grunow) Cleve,SINONIMO,119326,Pinnularia brauniana
+110137,Solanaceae,Solanum,Solanum xiphocephalum L.B.Sm. & Downs,xiphocephalum,NA,L.B.Sm. & Downs,SINONIMO,14846,Solanum rufescens
+127363,Solanaceae,Solanum,Solanum coronatum Vell.,coronatum,NA,Vell.,SINONIMO,136901,Solanum rufescens
+139081,Solanaceae,Solanum,Solanum rufescens var. glabrescens Sendtn.,rufescens,glabrescens,Sendtn.,SINONIMO,14846,Solanum rufescens
+127398,Solanaceae,Solanum,Solanum dumetorum Dunal,dumetorum,NA,Dunal,SINONIMO,136901,Solanum rufescens
+582038,Plantaginaceae,Plantago,Plantago australis subsp. macrostachya (Decne.) Rahn,australis,macrostachya,(Decne.) Rahn,SINONIMO,12914,Plantago australis
+601555,Plantaginaceae,Plantago,Plantago myosuros var. latifolia Speg.,myosuros,latifolia,Speg.,SINONIMO,12914,Plantago australis
+581901,Plantaginaceae,Plantago,Plantago australis Lam. subsp. australis,australis,australis,Lam.,SINONIMO,12914,Plantago australis
+581976,Plantaginaceae,Plantago,Plantago australis subsp. angustifolia (Pilg.) Rahn,australis,angustifolia,(Pilg.) Rahn,SINONIMO,12914,Plantago australis
+581975,Plantaginaceae,Plantago,Plantago australis subsp. hirtella (Kunth) Rahn,australis,hirtella,(Kunth) Rahn,SINONIMO,12914,Plantago australis
+128302,Plantaginaceae,Plantago,Plantago bicallosa Decne.,bicallosa,NA,Decne.,SINONIMO,12914,Plantago australis
+128304,Plantaginaceae,Plantago,Plantago cantagallensis Zahlbr. ex Wawra,cantagallensis,NA,Zahlbr. ex Wawra,SINONIMO,12914,Plantago australis
+128307,Plantaginaceae,Plantago,Plantago gigantea Decne.,gigantea,NA,Decne.,SINONIMO,12914,Plantago australis
+128308,Plantaginaceae,Plantago,Plantago hirtella Kunth,hirtella,NA,Kunth,SINONIMO,12914,Plantago australis
+135833,Plantaginaceae,Plantago,Plantago leptophylla Decne.,leptophylla,NA,Decne.,SINONIMO,12914,Plantago australis
+135720,Plantaginaceae,Plantago,Plantago macrostachya Decne.,macrostachya,NA,Decne.,SINONIMO,12914,Plantago australis
+581979,Plantaginaceae,Plantago,Plantago bicallosa var. angustifolia Pilg.,bicallosa,angustifolia,Pilg.,SINONIMO,12914,Plantago australis
+601285,Plantaginaceae,Plantago,Plantago tomentosa var. glabrescens Schltdl. ex J.A.Schmidt,tomentosa,glabrescens,Schltdl. ex J.A.Schmidt,SINONIMO,12914,Plantago australis
+600257,Plantaginaceae,Plantago,Plantago accrescens Pilg.,accrescens,NA,Pilg.,SINONIMO,12914,Plantago australis
+77028,Verbenaceae,Lippia,Lippia nodiflora Cham.,nodiflora,NA,Cham.,SINONIMO,39728,Phyla nodiflora
+77153,Verbenaceae,Phyla,Phyla nodiflora var. galapagensis Moldenke,nodiflora,galapagensis,Moldenke,SINONIMO,39728,Phyla nodiflora
+77032,Verbenaceae,Lippia,Lippia nodiflora var. sarmentosa (Willd.) Schauer,nodiflora,sarmentosa,(Willd.) Schauer,SINONIMO,39728,Phyla nodiflora
+77154,Verbenaceae,Phyla,Phyla nodiflora var. incisa (Small) Moldenke,nodiflora,incisa,(Small) Moldenke,SINONIMO,39728,Phyla nodiflora
+77155,Verbenaceae,Phyla,Phyla nodiflora var. longifolia Moldenke,nodiflora,longifolia,Moldenke,SINONIMO,39728,Phyla nodiflora
+77030,Verbenaceae,Lippia,Lippia nodiflora var. minor Gillies & Hook.,nodiflora,minor,Gillies & Hook.,SINONIMO,39728,Phyla nodiflora
+77029,Verbenaceae,Lippia,Lippia nodiflora var. acutifolia Kuntze,nodiflora,acutifolia,Kuntze,SINONIMO,39728,Phyla nodiflora
+77156,Verbenaceae,Phyla,Phyla nodiflora var. sericea Moldenke,nodiflora,sericea,Moldenke,SINONIMO,39728,Phyla nodiflora
+77157,Verbenaceae,Phyla,Phyla nodiflora var. texensis Moldenke,nodiflora,texensis,Moldenke,SINONIMO,39728,Phyla nodiflora
+39729,Verbenaceae,Phyla,Phyla strigulosa (M.Martens & Galeotti) Moldenke,strigulosa,NA,(M.Martens & Galeotti) Moldenke,SINONIMO,39728,Phyla nodiflora
+76636,Verbenaceae,Blairia,Blairia nodiflora (L.) Gaertn.,nodiflora,NA,(L.) Gaertn.,SINONIMO,39728,Phyla nodiflora
+76863,Verbenaceae,Lantana,Lantana larranagae Moldenke,larranagae,NA,Moldenke,SINONIMO,39728,Phyla nodiflora
+76904,Verbenaceae,Lantana,Lantana repens Sessé & Moc.,repens,NA,Sessé & Moc.,SINONIMO,39728,Phyla nodiflora
+76944,Verbenaceae,Lippia,Lippia aegyptiaca Carrière,aegyptiaca,NA,Carrière,SINONIMO,39728,Phyla nodiflora
+76984,Verbenaceae,Lippia,Lippia filiformis Schrad.,filiformis,NA,Schrad.,SINONIMO,39728,Phyla nodiflora
+77007,Verbenaceae,Lippia,Lippia incisa (Small) Tidestr.,incisa,NA,(Small) Tidestr.,SINONIMO,39728,Phyla nodiflora
+77055,Verbenaceae,Lippia,Lippia sarmentosa (Willd.) Spreng.,sarmentosa,NA,(Willd.) Spreng.,SINONIMO,39728,Phyla nodiflora
+76987,Verbenaceae,Lippia,Lippia fruticosa (Mill.) K.Kenn. ex R.W.Sanders,fruticosa,NA,(Mill.) K.Kenn. ex R.W.Sanders,SINONIMO,39728,Phyla nodiflora
+77051,Verbenaceae,Lippia,Lippia repens (Bertol.) Spreng.,repens,NA,(Bertol.) Spreng.,SINONIMO,39728,Phyla nodiflora
+77018,Verbenaceae,Lippia,Lippia litoralis Phil.,litoralis,NA,Phil.,SINONIMO,39728,Phyla nodiflora
+77148,Verbenaceae,Phyla,Phyla chinensis Lour.,chinensis,NA,Lour.,SINONIMO,39728,Phyla nodiflora
+77160,Verbenaceae,Phyla,Phyla yucatana Moldenke,yucatana,NA,Moldenke,SINONIMO,39728,Phyla nodiflora
+77151,Verbenaceae,Phyla,Phyla incisa Small,incisa,NA,Small,SINONIMO,39728,Phyla nodiflora
+77149,Verbenaceae,Phyla,Phyla filiformis (Schrad.) Meikle,filiformis,NA,(Schrad.) Meikle,SINONIMO,39728,Phyla nodiflora
+77337,Verbenaceae,Verbena,Verbena elliptica Willd. ex Spreng.,elliptica,NA,Willd. ex Spreng.,SINONIMO,39728,Phyla nodiflora
+77329,Verbenaceae,Verbena,Verbena cuneata Willd. ex Spreng.,cuneata,NA,Willd. ex Spreng.,SINONIMO,39728,Phyla nodiflora
+77317,Verbenaceae,Verbena,Verbena capitata Forssk.,capitata,NA,Forssk.,SINONIMO,39728,Phyla nodiflora
+77410,Verbenaceae,Verbena,Verbena nodiflora L.,nodiflora,NA,L.,SINONIMO,39728,Phyla nodiflora
+77446,Verbenaceae,Verbena,Verbena repens Bertol.,repens,NA,Bertol.,SINONIMO,39728,Phyla nodiflora
+77454,Verbenaceae,Verbena,Verbena sarmentosa Willd.,sarmentosa,NA,Willd.,SINONIMO,39728,Phyla nodiflora
+77506,Verbenaceae,Zappania,Zappania nodiflora (L.) Lam.,nodiflora,NA,(L.) Lam.,SINONIMO,39728,Phyla nodiflora
+77509,Verbenaceae,Zappania,Zappania repens (Bertol.) Bertol.,repens,NA,(Bertol.) Bertol.,SINONIMO,39728,Phyla nodiflora
+77510,Verbenaceae,Zappania,Zappania suberosa Spreng.,suberosa,NA,Spreng.,SINONIMO,39728,Phyla nodiflora
+77158,Verbenaceae,Phyla,Phyla strigulosa var. parvifolia (Moldenke) Moldenke,strigulosa,parvifolia,(Moldenke) Moldenke,SINONIMO,39728,Phyla nodiflora
+77031,Verbenaceae,Lippia,Lippia nodiflora var. repens (Bertol.) Schauer,nodiflora,repens,(Bertol.) Schauer,SINONIMO,39728,Phyla nodiflora
+77152,Verbenaceae,Phyla,Phyla nodiflora var. antillana Moldenke,nodiflora,antillana,Moldenke,SINONIMO,39728,Phyla nodiflora
+597979,Verbenaceae,Lippia,Lippia reptans Kunth,reptans,NA,Kunth,SINONIMO,39728,Phyla nodiflora
+76911,Verbenaceae,Lantana,Lantana sarmentosa Spreng.,sarmentosa,NA,Spreng.,SINONIMO,39728,Phyla nodiflora
+123827,NA,Ceratium,Ceratium tripos var. breve Ostenfeld et Schmidt,tripos,breve,Ostenfeld et Schmidt,SINONIMO,581960,Tripos brevis
+104027,NA,Ceratium,Ceratium brevis (Ostenf. & J.Schmidt) Schröd.,brevis,NA,(Ostenf. & J.Schmidt) Schröd.,SINONIMO,581960,Tripos brevis
+98859,NA,Neoceratium,Neoceratium brevis (Ostenf. & J.Schmidt) F.Gómez et al.,brevis,NA,(Ostenf. & J.Schmidt) F.Gómez et al.,SINONIMO,581960,Tripos brevis
+103711,NA,Neoceratium,Neoceratium candelabrum (Ehrenb.) F.Gómez et al.,candelabrum,NA,(Ehrenb.) F.Gómez et al.,SINONIMO,581964,Tripos candelabrus
+104028,NA,Ceratium,Ceratium candelabrum (Ehrenb.) F.Stein,candelabrum,NA,(Ehrenb.) F.Stein,SINONIMO,581964,Tripos candelabrus
+129845,NA,Ceratium,"Ceratium balechii Meave, Okolodkov & M.E.Zamudio",balechii,NA,"Meave, Okolodkov & M.E.Zamudio",SINONIMO,581968,Tripos balechii
+123443,NA,Ceratium,Ceratium gibberum var. contortum Gourret,gibberum,contortum,Gourret,SINONIMO,581997,Tripos contortus
+98861,NA,Neoceratium,Neoceratium contortum (Gourret) F.Gómez et al.,contortum,NA,(Gourret) F.Gómez et al.,SINONIMO,581997,Tripos contortus
+104029,NA,Ceratium,Ceratium contortum (Gourret) Cleve,contortum,NA,(Gourret) Cleve,SINONIMO,581997,Tripos contortus
+98870,NA,Neoceratium,Neoceratium fusus (Ehrenb.) F.Gómez et al.,fusus,NA,(Ehrenb.) F.Gómez et al.,SINONIMO,582055,Tripos fusus
+104244,NA,Ceratium,Ceratium fusus (Ehrenb.) Dujard.,fusus,NA,(Ehrenb.) Dujard.,SINONIMO,582055,Tripos fusus
+130022,NA,Peridinium,Peridinium fusus Ehrenberg,fusus,NA,Ehrenberg,SINONIMO,582055,Tripos fusus
+104251,NA,Ceratium,Ceratium furca (Ehrenb.) Clap. & Lachm.,furca,NA,(Ehrenb.) Clap. & Lachm.,SINONIMO,582017,Tripos furca
+123438,NA,Peridinium,Peridinium furca Ehrenb.,furca,NA,Ehrenb.,SINONIMO,582017,Tripos furca
+98868,NA,Neoceratium,Neoceratium furca (Ehrenb.) F.Gómez et al.,furca,NA,(Ehrenb.) F.Gómez et al.,SINONIMO,582017,Tripos furca
+128434,Convolvulaceae,Jacquemontia,Jacquemontia alba N.E.Br.,alba,NA,N.E.Br.,SINONIMO,7072,Jacquemontia blanchetii
+139236,Convolvulaceae,Convolvulus,Convolvulus blanchetii (Moric.) Steud.,blanchetii,NA,(Moric.) Steud.,SINONIMO,7072,Jacquemontia blanchetii
+139229,Convolvulaceae,Montejacquia,Montejacquia blanchetii (Moric.) Roberty,blanchetii,NA,(Moric.) Roberty,SINONIMO,7072,Jacquemontia blanchetii
+129329,Convolvulaceae,Ipomoea,Ipomoea filipedunculata Rusby,filipedunculata,NA,Rusby,SINONIMO,7072,Jacquemontia blanchetii
+52963,Eriocaulaceae,Dupatya,Dupatya bongardii (Kunth) Kuntze,bongardii,NA,(Kunth) Kuntze,SINONIMO,7570,Paepalanthus bongardii
+53186,Eriocaulaceae,Eriocaulon,Eriocaulon decumbens Steud.,decumbens,NA,Steud.,SINONIMO,596016,Paepalanthus bongardi
+601628,Convolvulaceae,Evolvulus,Evolvulus echioides var. longepilosus Choisy,echioides,longepilosus,Choisy,SINONIMO,7003,Evolvulus glomeratus
+130672,Apiaceae,Eryngium,Eryngium erosum Urb.,erosum,NA,Urb.,SINONIMO,26420,Eryngium junceum
+600323,Apiaceae,Eryngium,Eryngium lineare Pohl ex Urb.,lineare,NA,Pohl ex Urb.,SINONIMO,26420,Eryngium junceum
+111009,Cannaceae,Canna,Canna coccinea Mill.,coccinea,NA,Mill.,SINONIMO,110628,Canna indica
+111010,Cannaceae,Canna,Canna patens (Aiton) Roscoe,patens,NA,(Aiton) Roscoe,SINONIMO,110628,Canna indica
+111011,Cannaceae,Canna,Canna speciosa Roscoe ex Sims,speciosa,NA,Roscoe ex Sims,SINONIMO,110628,Canna indica
+111013,Cannaceae,Canna,Canna cearensis Huber,cearensis,NA,Huber,SINONIMO,110628,Canna indica
+111012,Cannaceae,Canna,Canna polyclada Wawra,polyclada,NA,Wawra,SINONIMO,110628,Canna indica
+596090,Cannaceae,Canna,Canna compacta Roscoe,compacta,NA,Roscoe,SINONIMO,110628,Canna indica
+596879,Cannaceae,Canna,Canna carnea Roscoe,carnea,NA,Roscoe,SINONIMO,110628,Canna indica
+595531,Cannaceae,Canna,Canna discolor Lindl.,discolor,NA,Lindl.,SINONIMO,110628,Canna indica
+594625,Cannaceae,Canna,Canna edulis Ker Gawl.,edulis,NA,Ker Gawl.,SINONIMO,110628,Canna indica
+598739,Cannaceae,Canna,Canna lamberti Lindl. ex Ker Gawl.,lamberti,NA,Lindl. ex Ker Gawl.,SINONIMO,110628,Canna indica
+597409,Cannaceae,Canna,Canna lanuginosa Roscoe,lanuginosa,NA,Roscoe,SINONIMO,110628,Canna indica
+593884,Cannaceae,Canna,Canna lutea Mill.,lutea,NA,Mill.,SINONIMO,110628,Canna indica
+596071,Cannaceae,Canna,Canna warszewiczii A. Dietr.,warszewiczii,NA,A. Dietr.,SINONIMO,110628,Canna indica
+594293,Tropaeolaceae,Chymocarpus,Chymocarpus pentaphyllus (Lam.) D.Don,pentaphyllus,NA,(Lam.) D.Don,SINONIMO,14977,Tropaeolum pentaphyllum
+596430,Piperaceae,Piper,Piper glabellum Sw.,glabellum,NA,Sw.,SINONIMO,12653,Peperomia glabella
+598866,Linaceae,Linum,Linum junceum A. Saint-HIlaire,junceum,NA,A. Saint-HIlaire,SINONIMO,8617,Linum littorale
+594488,Linaceae,Linum,Linum litorale A.St.-Hil.,litorale,NA,A.St.-Hil.,,8617,Linum littorale
+71036,Phyllanthaceae,Phyllanthus,Phyllanthus microphyllus var. genuinus Müll.Arg.,microphyllus,genuinus,Müll.Arg.,SINONIMO,38538,Phyllanthus microphyllus
+82811,Fabaceae,Cassia,Cassia nictitans L.,nictitans,NA,L.,SINONIMO,22877,Chamaecrista nictitans
+81694,Celastraceae,Salacia,Salacia obovata (Rich.) Peyr.,obovata,NA,(Rich.) Peyr.,SINONIMO,81692,Salacia multiflora
+600718,Celastraceae,Salacia,Salacia obovata var. amazonica Peyr.,obovata,amazonica,Peyr.,SINONIMO,605746,Salacia multiflora
+601363,Celastraceae,Salacia,Salacia obovata var. guianensis  Peyr.,obovata,guianensis, Peyr.,SINONIMO,81692,Salacia multiflora
+605321,Celastraceae,Salacia,Salacia obovata (Rich.) Peyr. var. obovata,obovata,obovata,(Rich.) Peyr.,SINONIMO,605746,Salacia multiflora
+605322,Celastraceae,Salacia,Salacia obovata var. emarginata  Peyr.,obovata,emarginata, Peyr.,SINONIMO,81692,Salacia multiflora
+81698,Celastraceae,Salacia,Salacia pittieriana A.C. Sm.,pittieriana,NA,A.C. Sm.,SINONIMO,605746,Salacia multiflora
+44061,Arecaceae,Cocos,Cocos graminifolia var. nana Drude,graminifolia,nana,Drude,SINONIMO,15738,Syagrus graminifolia
+44060,Arecaceae,Cocos,Cocos graminifolia var. glazioviana Dammer,graminifolia,glazioviana,Dammer,SINONIMO,15738,Syagrus graminifolia
+44818,Arecaceae,Syagrus,Syagrus graminifolia var. nana (Drude) Becc.,graminifolia,nana,(Drude) Becc.,SINONIMO,15738,Syagrus graminifolia
+44059,Arecaceae,Cocos,Cocos graminifolia Drude,graminifolia,NA,Drude,SINONIMO,15738,Syagrus graminifolia
+109412,Fabaceae,Aldina,Aldina latifolia var. pubescens R.S.Cowan,latifolia,pubescens,R.S.Cowan,SINONIMO,82624,Aldina latifolia
+109411,Fabaceae,Aldina,Aldina amazonica M.Yu.Gontsch. & Yakovlev,amazonica,NA,M.Yu.Gontsch. & Yakovlev,SINONIMO,82624,Aldina latifolia
+606043,Fabaceae,Aldina,Aldina latifolia var. pubescens R.S. Cowan,latifolia,pubescens,R.S. Cowan,SINONIMO,82624,Aldina latifolia
+22843,Fabaceae,Caesalpinia,Caesalpinia pluviosa DC.,pluviosa,NA,DC.,SINONIMO,605754,Cenostigma pluviosum
+109778,Fabaceae,Poincianella,Poincianella pluviosa (DC.) L.P.Queiroz,pluviosa,NA,(DC.) L.P.Queiroz,SINONIMO,605754,Cenostigma pluviosum
+82706,Fabaceae,Caesalpinia,Caesalpinia pyramidalis Tul.,pyramidalis,NA,Tul.,SINONIMO,606076,Cenostigma pyramidale
+109818,Fabaceae,Poincianella,Poincianella pyramidalis (Tul.) L.P.Queiroz,pyramidalis,NA,(Tul.) L.P.Queiroz,SINONIMO,606076,Cenostigma pyramidale
+607597,Arecaceae,Euterpe,Euterpe chaunostachys Burret,chaunostachys,NA,Burret,SINONIMO,606408,Prestoea acuminata
+607725,Arecaceae,Euterpe,Euterpe purpurea Engel,purpurea,NA,Engel,SINONIMO,606408,Prestoea acuminata
+607092,Arecaceae,Prestoea,Prestoea alenii H.E.Moore,alenii,NA,H.E.Moore,SINONIMO,606408,Prestoea acuminata
+607101,Arecaceae,Prestoea,Prestoea megalochlamys (Burret) H.E.Moore,megalochlamys,NA,(Burret) H.E.Moore,SINONIMO,606408,Prestoea acuminata
+607108,Arecaceae,Prestoea,Prestoea trichoclada (Burret) Balslev & A.J.Hend.,trichoclada,NA,(Burret) Balslev & A.J.Hend.,SINONIMO,606408,Prestoea acuminata
+607110,Arecaceae,Prestoea,Prestoea sabana L.H. Bailey,sabana,NA,L.H. Bailey,SINONIMO,606408,Prestoea acuminata
+607111,Arecaceae,Prestoea,Prestoea gregalis L.H. Bailey,gregalis,NA,L.H. Bailey,SINONIMO,606408,Prestoea acuminata
+598286,Arecaceae,Euterpe,Euterpe acuminata (Willd.) H. Wendl.,acuminata,NA,(Willd.) H. Wendl.,SINONIMO,606408,Prestoea acuminata
+607570,Arecaceae,Euterpe,Euterpe andicola Brongn. ex Mart.,andicola,NA,Brongn. ex Mart.,SINONIMO,606408,Prestoea acuminata
+607571,Arecaceae,Euterpe,Euterpe andina Burret,andina,NA,Burret,SINONIMO,606408,Prestoea acuminata
+607572,Arecaceae,Euterpe,Euterpe antioquensis Linden,antioquensis,NA,Linden,SINONIMO,606408,Prestoea acuminata
+607574,Arecaceae,Euterpe,Euterpe aphanolepis Burret,aphanolepis,NA,Burret,SINONIMO,606408,Prestoea acuminata
+607587,Arecaceae,Euterpe,Euterpe brevivaginata Mart.,brevivaginata,NA,Mart.,SINONIMO,606408,Prestoea acuminata
+607623,Arecaceae,Euterpe,Euterpe globosa Gaertn.,globosa,NA,Gaertn.,SINONIMO,606408,Prestoea acuminata
+607625,Arecaceae,Euterpe,Euterpe haenkeana Brongn. ex Mart.,haenkeana,NA,Brongn. ex Mart.,SINONIMO,606408,Prestoea acuminata
+607658,Arecaceae,Euterpe,Euterpe megalochlamys Burret,megalochlamys,NA,Burret,SINONIMO,606408,Prestoea acuminata
+607660,Arecaceae,Euterpe,Euterpe microspadix Burret,microspadix,NA,Burret,SINONIMO,606408,Prestoea acuminata
+607664,Arecaceae,Euterpe,Euterpe oocarpa Burret,oocarpa,NA,Burret,SINONIMO,606408,Prestoea acuminata
+607739,Arecaceae,Euterpe,Euterpe trichoclada Burret,trichoclada,NA,Burret,SINONIMO,606408,Prestoea acuminata
+607748,Arecaceae,Euterpe,Euterpe zephyria Dugand,zephyria,NA,Dugand,SINONIMO,606408,Prestoea acuminata
+25310,Cleomaceae,Cleome,Cleome lanceolata (Mart.& Zucc.) Iltis,lanceolata,NA,(Mart.& Zucc.) Iltis,SINONIMO,108362,Physostemon lanceolatum
+131669,Apocynaceae,Oxypetalum,Oxypetalum laxum Malme,laxum,NA,Malme,SINONIMO,4768,Oxypetalum insigne
+4798,Apocynaceae,Oxypetalum,Oxypetalum rariflorum Malme,rariflorum,NA,Malme,SINONIMO,4768,Oxypetalum insigne
+131122,Apocynaceae,Calostigma,Calostigma insigne Decne.,insigne,NA,Decne.,SINONIMO,4768,Oxypetalum insigne
+131165,Apocynaceae,Calostigma,Calostigma guilleminianum Decne.,guilleminianum,NA,Decne.,SINONIMO,4768,Oxypetalum insigne
+131118,Apocynaceae,Calostigma,Calostigma baetaeanum Silveira,baetaeanum,NA,Silveira,SINONIMO,4768,Oxypetalum insigne
+131654,Apocynaceae,Oxypetalum,Oxypetalum decaisneanum T.Mey,decaisneanum,NA,T.Mey,SINONIMO,4768,Oxypetalum insigne
+131645,Apocynaceae,Oxypetalum,Oxypetalum baetaeanum (Silveira) Malme,baetaeanum,NA,(Silveira) Malme,SINONIMO,4768,Oxypetalum insigne
+130752,Dennstaedtiaceae,Pteridium,Pteridium arachnoideum (Kaulf.) Maxon subsp. arachnoideum,arachnoideum,arachnoideum,(Kaulf.) Maxon,SINONIMO,606600,Pteridium esculentum
+90942,Dennstaedtiaceae,Pteridium,Pteridium arachnoideum (Kaulf.) Maxon,arachnoideum,NA,(Kaulf.) Maxon,SINONIMO,606600,Pteridium esculentum
+602779,Dennstaedtiaceae,Pteridium,Pteridium psittacinum (C. Presl) Maxon,psittacinum,NA,(C. Presl) Maxon,SINONIMO,606600,Pteridium esculentum
+105050,Poaceae,Briza,Briza rufa (J. Presl) Steud.,rufa,NA,(J. Presl) Steud.,SINONIMO,123558,Chascolytrum rufum
+123557,Poaceae,Poidium,Poidium rufum (J. Presl) Matthei,rufum,NA,(J. Presl) Matthei,SINONIMO,123558,Chascolytrum rufum
+123568,Poaceae,Lombardochloa,Lombardochloa rufa (J. Presl) Roseng. & Arrill.,rufa,NA,(J. Presl) Roseng. & Arrill.,SINONIMO,123558,Chascolytrum rufum
+126359,Convolvulaceae,Convolvulus,Convolvulus ottonis Meisn.,ottonis,NA,Meisn.,SINONIMO,6976,Convolvulus crenatifolius
+126360,Convolvulaceae,Convolvulus,Convolvulus truncatus Vell.,truncatus,NA,Vell.,SINONIMO,6976,Convolvulus crenatifolius
+138881,Moraceae,Chlorophora,Chlorophora tinctoria (L.) Gaudich. ex B.D. Jackson,tinctoria,NA,(L.) Gaudich. ex B.D. Jackson,SINONIMO,10186,Maclura tinctoria
