@@ -7520,24 +7520,24 @@ Scleria georgiana subsp. australis A.C.Araújo,subspecies,Scleria georgiana
 Viscum rubrum L.,name_w_authors,Viscum rubrum
 "Gomesa caatingana J.M.P.Cordeiro, L.P.Félix & M.W.Chase",name_w_authors,Gomesa caatingana
 Lophophytum leandrii Eichler,name_w_authors,Lophophytum leandrii
-Catasetum ×riotianum V.P.Castro,hybrid_species,Catasetum ×riotianum
-Catasetum ×mesquitae U.L.C.Ferreira,hybrid_species,Catasetum ×mesquitae
+Catasetum ×riotianum V.P.Castro,hybrid_species,Catasetum ×riotianum V.P.Castro
+Catasetum ×mesquitae U.L.C.Ferreira,hybrid_species,Catasetum ×mesquitae U.L.C.Ferreira
 Catasetum tomasellii Campacci & J.B.F.Silva,name_w_authors,Catasetum tomasellii
 "Catasetum sophiae Valsko, Krahl & Benelli",name_w_authors,Catasetum sophiae
 Helosis cayennensis (Sw.) Spreng.,name_w_authors,Helosis cayennensis
-Catasetum ×evangelistae V.P.Castro & G.F.Carr,hybrid_species,Catasetum ×evangelistae
+Catasetum ×evangelistae V.P.Castro & G.F.Carr,hybrid_species,Catasetum ×evangelistae V.P.Castro & G.F.Carr
 Catasetum brevilobatum Chiron & Marçal,name_w_authors,Catasetum brevilobatum
-Catasetum ×perazolianum K.G.Lacerda & V.P.Castro,hybrid_species,Catasetum ×perazolianum
+Catasetum ×perazolianum K.G.Lacerda & V.P.Castro,hybrid_species,Catasetum ×perazolianum K.G.Lacerda & V.P.Castro
 Cordia digyna Vell.,name_w_authors,Cordia digyna
-Catasetum ×pohlianum V.P.Castro & Campacci,hybrid_species,Catasetum ×pohlianum
+Catasetum ×pohlianum V.P.Castro & Campacci,hybrid_species,Catasetum ×pohlianum V.P.Castro & Campacci
 Cordia coffeoides Warm.,name_w_authors,Cordia coffeoides
-Catasetum ×lucasianum L.C.Menezes & V.P.Castro,hybrid_species,Catasetum ×lucasianum
+Catasetum ×lucasianum L.C.Menezes & V.P.Castro,hybrid_species,Catasetum ×lucasianum L.C.Menezes & V.P.Castro
 Catasetum caatingense Marçal & Chiron,name_w_authors,Catasetum caatingense
 Catasetum brevilobatum Marçal & Chiron,name_w_authors,Catasetum brevilobatum
 Catasetum schunkei Dodson & D.E.Benn,name_w_authors,Catasetum schunkei
-Catasetum ×nogueirae U.L.C.Ferreira,hybrid_species,Catasetum ×nogueirae
-Catasetum ×santo-antoniense U.L.C.Ferreira & R.M.C.Filho,hybrid_species,Catasetum ×santo-antoniense
-Catasetum ×crassispinum U.L.C.Ferreira,hybrid_species,Catasetum ×crassispinum
+Catasetum ×nogueirae U.L.C.Ferreira,hybrid_species,Catasetum ×nogueirae U.L.C.Ferreira
+Catasetum ×santo-antoniense U.L.C.Ferreira & R.M.C.Filho,hybrid_species,Catasetum ×santo-antoniense U.L.C.Ferreira & R.M.C.Filho
+Catasetum ×crassispinum U.L.C.Ferreira,hybrid_species,Catasetum ×crassispinum U.L.C.Ferreira
 Viscum clavatum Benth.,name_w_authors,Viscum clavatum
 Phoradendron clavatum (Benth.) Eichler,name_w_authors,Phoradendron clavatum
 Viscum ellipticum Gardner,name_w_authors,Viscum ellipticum
@@ -7850,7 +7850,7 @@ Lytoneuron tijucanum (Brade & Rosenst.) Yesilyurt,name_w_authors,Lytoneuron tiju
 Salvinia auriculata Aubl. var. auriculata,variety,Salvinia auriculata
 Salvinia auriculata var. major C.V.Miranda & Schwartsb.,variety,Salvinia auriculata
 Syzygiella contigua Steph.,name_w_authors,Syzygiella contigua
-Salvinia ×delasotae C.V. Miranda & Schwartsb.,hybrid_species,Salvinia ×delasotae
+Salvinia ×delasotae C.V. Miranda & Schwartsb.,hybrid_species,Salvinia ×delasotae C.V. Miranda & Schwartsb.
 Salvinia cucullata Roxb. ex Bory & Bél.,name_w_authors,Salvinia cucullata
 Salvinia radula Baker,name_w_authors,Salvinia radula
 "Salpichlaena papyrus G.G. Cárdenas, Tuomisto & Lehtonen",name_w_authors,Salpichlaena papyrus
