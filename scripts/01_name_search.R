@@ -5,7 +5,7 @@ devtools::load_all("../andre_rocc/")
 
 cerrado_endemics <- search_flora(domain = "Cerrado",
                                  endemism = TRUE,
-                                 lifeform = "Árvore")
+                                 lifeform = c("Árvore", "Arbusto"))
 write_csv(cerrado_endemics, "./output/01_all_names.csv")
 
 # Check names
